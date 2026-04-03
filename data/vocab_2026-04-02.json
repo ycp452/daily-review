@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-04-02",
+  "articleLink": "https://learngerman.dw.com/de/02042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76645134",
+  "articles": [
+    {
+      "title": "Artemis-II ist gestartet",
+      "text": "Die Artemis-II-Mission der NASA ist mit einer Astronautin und drei Astronauten gestartet. In den ersten 24 Stunden umkreisen sie die Erde. Wenn alles nach Plan verläuft, sollen sie den Mond umkreisen. Noch nie vorher war ein Mensch so weit von der Erde entfernt.\n\nentfernt – weit weg von etwas sein\n\n",
+      "vocab": [
+        {
+          "german": "Mission, -en (f.)",
+          "explanation": "hier: der Flug zum Mond",
+          "english": "mission, -en (f.)",
+          "id": "1"
+        },
+        {
+          "german": "NASA (f., nur Singular)",
+          "explanation": "die amerikanische Raumfahrtbehörde: sie erforscht den Weltraum und Planeten",
+          "english": "NASA (f., only singular)",
+          "id": "2"
+        },
+        {
+          "german": "Astronaut, -en/Astronautin, -nen",
+          "explanation": "eine Person: sie fliegt ins Weltall; der Raumfahrer/die Raumfahrerin",
+          "english": "Astronaut, -en/astronaut, -nen",
+          "id": "3"
+        },
+        {
+          "german": "etwas umkreisen",
+          "explanation": "hier: um etwas herumfliegen",
+          "english": "circle something",
+          "id": "4"
+        },
+        {
+          "german": "Erde (f., nur Singular)",
+          "explanation": "ein Planet: wir leben auf ihm",
+          "english": "Earth (f., only singular)",
+          "id": "5"
+        },
+        {
+          "german": "nach Plan verlaufen",
+          "explanation": "hier: alles passiert so, wie man es geplant hat",
+          "english": "went according to plan",
+          "id": "6"
+        },
+        {
+          "german": "Mond (m., hier nur Singular)",
+          "explanation": "ein Himmelskörper: er umkreist die Erde und man kann ihn nachts am Himmel sehen",
+          "english": "Moon (m., here only singular)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Starkes Erdbeben in Indonesien",
+      "text": "Vor der Küste der indonesischen Insel Sulawesi hat es ein starkes Erdbeben der Stärke 7,4 gegeben. In der Hauptstadt der Provinz Nord-Sulawesi, Manado, ist mindestens eine Person gestorben. Wegen des Erdbebens hat es Tsunami-Warnungen für Indonesien und Nachbarländer wie die Philippinen und Malaysia gegeben. Jetzt gibt es keine Warnungen mehr.\n\n",
+      "vocab": [
+        {
+          "german": "Küste, -n (f.)",
+          "explanation": "das Stück Land, das direkt am Meer liegt",
+          "english": "coast, -n (f.)",
+          "id": "8"
+        },
+        {
+          "german": "Erdbeben, - (n.)",
+          "explanation": "eine Naturkatastrophe: die Erde bewegt sich (bebt), Häuser und Straßen können dabei kaputtgehen und Menschen sterben",
+          "english": "earthquake, - (n.)",
+          "id": "9"
+        },
+        {
+          "german": "Stärke, -n (f.)",
+          "explanation": "hier eine Zahl: sie sagt, wie schwer oder stark ein Erdbeben ist",
+          "english": "strength, -n (f.)",
+          "id": "10"
+        },
+        {
+          "german": "Provinz, -en (f.)",
+          "explanation": "ein Landesteil; eine Region",
+          "english": "province, -en (f.)",
+          "id": "11"
+        },
+        {
+          "german": "Tsunami-Warnung, -en (f.)",
+          "explanation": "eine offizielle Aufforderung: Menschen sind in Gefahr, weil es sehr große und gefährliche Wellen gibt",
+          "english": "tsunami warning, -en (f.)",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "25 Jahre gleichgeschlechtliche Ehe in den Niederlanden",
+      "text": "Vor 25 Jahren hat es in den Niederlanden weltweit die erste gleichgeschlechtliche Ehe gegeben. Bei einer Feier des Jubiläums haben jetzt drei gleichgeschlechtliche Paare geheiratet. Auch Ministerpräsident Rob Jetten hat die Feier besucht. Er ist der erste offen schwule Regierungschef in den Niederlanden. Heute sind gleichgeschlechtliche Ehen in fast 40 Ländern erlaubt.\n\n",
+      "vocab": [
+        {
+          "german": "weltweit",
+          "explanation": "auf der ganzen Welt",
+          "english": "worldwide",
+          "id": "13"
+        },
+        {
+          "german": "gleichgeschlechtlich",
+          "explanation": "zwei Personen mit dem gleichen Geschlecht, zum Beispiel Mann und Mann oder Frau und Frau",
+          "english": "same-sex",
+          "id": "14"
+        },
+        {
+          "german": "Ehe, -n (f.)",
+          "explanation": "eine offizielle Verbindung: zwei Menschen heiraten",
+          "english": "marriage, -n (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Jubiläum, Jubiläen (n.)",
+          "explanation": "ein Jahrestag: ein besonderes Ereignis hat an diesem Tag vor einem oder mehreren Jahren stattgefunden",
+          "english": "anniversary, anniversaries (n.)",
+          "id": "16"
+        },
+        {
+          "german": "offen schwul",
+          "explanation": "ein Mann sagt öffentlich, dass er Männer liebt",
+          "english": "openly gay",
+          "id": "17"
+        },
+        {
+          "german": "Regierungschef, -s/Regierungschefin, -nen",
+          "explanation": "ein hoher Politiker/eine hohe Politikerin, der/die ein Land führt",
+          "english": "Head of government, -s/head of government, -nen",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
