@@ -3,6 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ main ]
+  workflow_run:
+    workflows: ["Daily Scraper"]
+    types: [completed]
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
