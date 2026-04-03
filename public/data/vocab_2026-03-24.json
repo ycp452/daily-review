@@ -1,0 +1,114 @@
+{
+  "articleDate": "2026-03-24",
+  "articleLink": "https://learngerman.dw.com/de/24032026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76507086",
+  "articles": [
+    {
+      "title": "Trump wartet mit Angriffen auf Energieversorgung",
+      "text": "US-Präsident Donald Trump hat erklärt, dass er fünf Tage mit Angriffen auf Irans Energieversorgung warten will. Er hat außerdem gesagt, dass es gute Gespräche mit Iran gegeben hat und man den Krieg beenden will. Iran berichtet aber, dass gar keine Gespräche stattgefunden haben. Trump hat Iran vorher mit Militärschlägen gedroht, wenn das Land die Straße von Hormus nicht in 48 Stunden freigibt.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "hier: eine Attacke oder ein plötzlicher Einsatz des Militärs in einem anderen Land",
+          "english": "attack, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "Energieversorgung (f., nur Singular)",
+          "explanation": "hier: alle Gebäude für die Produktion von Strom; die Kraftwerke z. B. für Atomenergie",
+          "english": "Energy supply (f., only singular)",
+          "id": "2"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "english": "war, -e (m.)",
+          "id": "3"
+        },
+        {
+          "german": "jemandem mit Militärschlägen drohen",
+          "explanation": "jemandem sagen, dass man in Zukunft mit Waffen angreift, wenn er etwas (nicht) tut",
+          "english": "threaten someone with military strikes",
+          "id": "4"
+        },
+        {
+          "german": "etwas frei|geben",
+          "explanation": "hier: machen, dass man etwas wieder benutzen kann; wieder öffnen",
+          "english": "release something",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "ICE-Beamte sind jetzt an US-Flughäfen",
+      "text": "Bundesbeamte der US-Einwanderungsbehörde ICE arbeiten jetzt an den Flughäfen im Land. Sie sollen bei den Sicherheitskontrollen helfen. Im Moment stehen die Regierungsgeschäfte in den USA teilweise still. Viele Flughafenmitarbeiter bekommen kein Geld, arbeiten deshalb nicht, und es gibt lange Wartezeiten.\n\n",
+      "vocab": [
+        {
+          "german": "Bundesbeamte, -n (m./f.)",
+          "explanation": "eine Person: sie arbeitet für die Regierung in den USA",
+          "english": "Federal civil servants, -n (m./f.)",
+          "id": "6"
+        },
+        {
+          "german": "Einwanderungsbehörde ICE (f., nur Singular)",
+          "explanation": "Abkürzung für: Immigration and Customs Enforcement; eine staatliche Stelle in den USA: sie kontrolliert, wer in die USA einreisen oder dort bleiben darf",
+          "english": "Immigration authority ICE (f., only singular)",
+          "id": "7"
+        },
+        {
+          "german": "Sicherheitskontrolle, -n (f.)",
+          "explanation": "ein Ort am Flughafen: dort kontrolliert man Menschen vor dem Flug und sucht nach gefährlichen Gegenständen",
+          "english": "security check, -n (f.)",
+          "id": "8"
+        },
+        {
+          "german": "die Regierungsgeschäfte stehen still",
+          "explanation": "die Regierung macht ihre Aufgaben und die tägliche Arbeit nicht",
+          "english": "government business is at a standstill",
+          "id": "9"
+        },
+        {
+          "german": "teilweise",
+          "explanation": "hier: nur in manchen Bereichen; nicht komplett",
+          "english": "partially",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "title": "Selenskyj: Russland hilft Iran",
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj hat gesagt, dass Russland Iran unterstützt: Das Land bekommt russische Geheimdienstinformationen und kann damit seine Raketen- und Drohnentechnik verbessern. Das hat der ukrainische Geheimdienst herausgefunden. Selenskyj sagt außerdem, dass Russland vielleicht einen großen Luftangriff auf die ganze Ukraine plant.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden unterstützen",
+          "explanation": "jemandem helfen; etwas für jemanden tun",
+          "english": "support someone",
+          "id": "11"
+        },
+        {
+          "german": "Geheimdienst, -e (m.)",
+          "explanation": "eine Organisation: sie sammelt geheime Informationen (z. B. über andere Länder) für einen Staat/eine Regierung",
+          "english": "secret service, -e (m.)",
+          "id": "12"
+        },
+        {
+          "german": "Raketen- und Drohnentechnik, -en (f.)",
+          "explanation": "die Technologie für militärische Flugwaffen: sie fliegen selbstständig (Drohnen) oder werden vom Menschen gesteuert (Raketen)",
+          "english": "Rocket and drone technology (f.)",
+          "id": "13"
+        },
+        {
+          "german": "etwas heraus|finden",
+          "explanation": "etwas Neues, bisher Unbekanntes erfahren; eine Information erhalten",
+          "english": "find out something",
+          "id": "14"
+        },
+        {
+          "german": "Luftangriff, -e (m.)",
+          "explanation": "die (militärische) Gewalt aus der Luft (z. B. mit Flugzeugen oder Drohnen)",
+          "english": "air raid, -e (m.)",
+          "id": "15"
+        }
+      ]
+    }
+  ]
+}

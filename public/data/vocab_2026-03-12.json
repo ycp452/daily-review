@@ -1,0 +1,168 @@
+{
+  "articleDate": "2026-03-12",
+  "articleLink": "https://learngerman.dw.com/de/12032026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76331912",
+  "articles": [
+    {
+      "title": "Iran-Krieg: wieder höhere Ölpreise",
+      "text": "Nach Angriffen auf mehrere Tanker im Persischen Golf ist das Öl teurer geworden. Vor der Küste des Iraks haben zwei Tanker gebrannt. Ein Barrel Öl kostet am Donnerstag etwa 100 Dollar. Einige Länder haben ihre Ölreserven freigegeben. Sie wollen nicht, dass die Preise noch stärker steigen. Aber die Angst wegen des Iran-Kriegs ist groß. Das hat die Preise nach oben getrieben.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; der plötzliche Gebrauch von Gewalt",
+          "english": "attack, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "Tanker, - (m.)",
+          "explanation": "ein Schiff: es transportiert Öl",
+          "english": "Tanker, - (m.)",
+          "id": "2"
+        },
+        {
+          "german": "Küste, -n (f.)",
+          "explanation": "ein Stück Land: es liegt direkt am Meer",
+          "english": "coast, -n (f.)",
+          "id": "3"
+        },
+        {
+          "german": "brennen",
+          "explanation": "Feuer fangen; so sein, dass es überall Feuer gibt",
+          "english": "burn",
+          "id": "4"
+        },
+        {
+          "german": "Barrel, -s (n., aus dem Englischen)",
+          "explanation": "eine Maßeinheit für Erdöl (etwa 159 Liter)",
+          "english": "Barrel, -s (n., from English)",
+          "id": "5"
+        },
+        {
+          "german": "Ölreserven frei|geben",
+          "explanation": "Öl benutzen, das ein Land für den Notfall gespart hat",
+          "english": "Release oil reserves",
+          "id": "6"
+        },
+        {
+          "german": "stark steigen",
+          "explanation": "hier: viel höher werden",
+          "english": "rise sharply",
+          "id": "7"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt zwischen Ländern oder Gruppen mit Waffen",
+          "english": "war, -e (m.)",
+          "id": "8"
+        },
+        {
+          "german": "die Preise (von etwas) nach oben treiben",
+          "explanation": "etwas immer teurer machen",
+          "english": "drive up the prices (of something).",
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "title": "Israelische Angriffe auf Beirut",
+      "text": "Bei neuen israelischen Angriffen auf die libanesische Hauptstadt Beirut sind mehrere Menschen gestorben. Israel sagt, dass es Stellungen der Hisbollah-Miliz treffen wollte. Im Libanon sind bereits über 600 Menschen gestorben. Mehr als 800.000 Menschen sind auf der Flucht. Wichtige UN-Vertreter fordern ein Ende der Angriffe.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; der plötzliche Gebrauch von Gewalt",
+          "english": "attack, -e (m.)",
+          "id": "10"
+        },
+        {
+          "german": "Stellung, -en (f.)",
+          "explanation": "hier: ein Ort, an dem eine Gruppe Waffen hat",
+          "english": "position, -en (f.)",
+          "id": "11"
+        },
+        {
+          "german": "etwas treffen",
+          "explanation": "hier: etwas (z. B. einen Ort) mit Raketen erreichen und zerstören",
+          "english": "hit something",
+          "id": "12"
+        },
+        {
+          "german": "Hisbollah-Miliz (f., nur Singular)",
+          "explanation": "eine militärische Gruppe im Libanon: Iran unterstützt die Gruppe; für viele Länder ist sie eine Terrorgruppe",
+          "english": "Hezbollah militia (f., only singular)",
+          "id": "13"
+        },
+        {
+          "german": "bereits",
+          "explanation": "schon",
+          "english": "already",
+          "id": "14"
+        },
+        {
+          "german": "auf der Flucht sein",
+          "explanation": "hier: von zu Hause weggehen, weil es dort gefährlich ist",
+          "english": "be on the run",
+          "id": "15"
+        },
+        {
+          "german": "UN-Vertreter, -/UN-Vertreterin, -nen",
+          "explanation": "eine Person: sie arbeitet für die Vereinten Nationen (UNO) und spricht für die Organisation",
+          "english": "UN representative, -/UN representative, -nen",
+          "id": "16"
+        },
+        {
+          "german": "etwas fordern",
+          "explanation": "sagen, dass man etwas will",
+          "english": "demand something",
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "title": "Kast neuer Präsident von Chile",
+      "text": "Chile hat einen neuen Präsidenten: José Antonio Kast. Seit der Diktatur von Augusto Pinochet zwischen 1973 und 1990 war kein Staats- und Regierungschef in Chile politisch rechter als Kast. Er will gegen Einwanderung und Gewaltverbrechen vorgehen und sagt, dass es in Chile einen Wandel geben wird.\n\n",
+      "vocab": [
+        {
+          "german": "Diktatur, -en (f.)",
+          "explanation": "eine Regierung ohne Demokratie",
+          "english": "dictatorship, -en (f.)",
+          "id": "18"
+        },
+        {
+          "german": "Staats- und Regierungschef, -s/Staats- und Regierungschefin, -nen",
+          "explanation": "die wichtigste politische Person in einem Land",
+          "english": "Head of state and government, -s/head of state and government, -nen",
+          "id": "19"
+        },
+        {
+          "german": "politisch rechts",
+          "explanation": "hier: sehr konservativ und so, dass jemand gegen Einwanderung ist",
+          "english": "politically right",
+          "id": "20"
+        },
+        {
+          "german": "gegen etwas vor|gehen",
+          "explanation": "etwas gegen etwas tun",
+          "english": "to take action against something",
+          "id": "21"
+        },
+        {
+          "german": "Einwanderung (f., nur Singular)",
+          "explanation": "die Migration in ein Land; die Ankunft von Ausländern in einem Land, die dort leben und arbeiten wollen",
+          "english": "Immigration (f., only singular)",
+          "id": "22"
+        },
+        {
+          "german": "Gewaltverbrechen, - (n.)",
+          "explanation": "die Kriminalität: jemand verletzt oder tötet andere Menschen",
+          "english": "violent crime, - (n.)",
+          "id": "23"
+        },
+        {
+          "german": "Wandel (m., nur Singular)",
+          "explanation": "eine starke Veränderung",
+          "english": "change (m., only singular)",
+          "id": "24"
+        }
+      ]
+    }
+  ]
+}
