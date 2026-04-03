@@ -1,0 +1,144 @@
+{
+  "articleDate": "2026-03-09",
+  "articleLink": "https://learngerman.dw.com/de/09032026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76280233",
+  "articles": [
+    {
+      "title": "Iran: Modschtaba Chamenei ist neuer Oberster Führer",
+      "text": "Der Iran hat einen neuen Obersten Führer: Modschtaba Chamenei. Er ist der Sohn des getöteten Ayatollah Ali Chamenei. Der 56-Jährige hatte noch nie ein Regierungsamt. Seit Beginn des Krieges ist er nicht mehr öffentlich aufgetreten. Anhängerinnen und Anhänger der Regierung haben die Nachricht gefeiert.\n\n",
+      "vocab": [
+        {
+          "german": "Oberster Führer (m., nur Singular)",
+          "explanation": "die höchste politische und religiöse Position im Iran",
+          "english": "Supreme Leader (m., only singular)",
+          "id": "1"
+        },
+        {
+          "german": "getötet",
+          "explanation": "so, dass jemand durch einen anderen Menschen stirbt; tot, weil jemand die Person umgebracht hat",
+          "english": "killed",
+          "id": "2"
+        },
+        {
+          "german": "Regierungsamt, Regierungsämter (n.)",
+          "explanation": "eine offizielle Position in der politischen Führung eines Landes",
+          "english": "government office, government offices (n.)",
+          "id": "3"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt zwischen Ländern oder Gruppen mit Waffen",
+          "english": "war, -e (m.)",
+          "id": "4"
+        },
+        {
+          "german": "öffentlich auf|treten",
+          "explanation": "sich als bekannte Person den Menschen zeigen",
+          "english": "appear in public",
+          "id": "5"
+        },
+        {
+          "german": "Anhänger, -/Anhängerin, -nen",
+          "explanation": "eine Person: sie findet eine andere Person gut und unterstützt sie",
+          "english": "Follower, -/follower, -nen",
+          "id": "6"
+        },
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "mehrere Politikerinnen und Politiker: sie leiten ein Land",
+          "english": "government, -en (f.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Viele Tote bei israelischen Angriffen auf den Libanon",
+      "text": "Das libanesische Gesundheitsministerium sagt, dass bei israelischen Angriffen auf den Libanon 394 Menschen gestorben sind – darunter 83 Kinder. Bei Kämpfen im Süden des Libanons sind zwei israelische Soldaten gestorben. Auf israelischer Seite sind es die ersten toten Soldaten seit dem erneuten Beginn der Angriffe in der vergangenen Woche.\n\nSoldat, -en/Soldatin, -nen – eine Person: sie gehört zum Militär eines Landes\n\nvergangene Woche, -n (f.) – letzte Woche\n\n",
+      "vocab": [
+        {
+          "german": "Gesundheitsministerium, -ministerien (n.)",
+          "explanation": "eine politische Institution: sie kümmert sich um die Gesundheit der Menschen in einem Land",
+          "english": "Ministry of Health, ministries (n.)",
+          "id": "8"
+        },
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; der plötzliche Gebrauch von Gewalt",
+          "english": "attack, -e (m.)",
+          "id": "9"
+        },
+        {
+          "german": "darunter",
+          "explanation": "hier: von diesen Menschen",
+          "english": "underneath",
+          "id": "10"
+        },
+        {
+          "german": "Kampf, Kämpfe (m.)",
+          "explanation": "hier: ein Konflikt mit Waffen",
+          "english": "fight, fights (m.)",
+          "id": "11"
+        },
+        {
+          "german": "erneut",
+          "explanation": "so, dass etwas wieder passiert",
+          "english": "again",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Hohe Ölpreise in den USA",
+      "text": "Die Angriffe der USA und Israels auf den Iran haben die Ölpreise erhöht. Ein Barrel kostet im Moment mehr als 100 Dollar. US-Präsident Donald Trump sagt, dass die Angriffe Sicherheit und Frieden bringen. Er sagt, dass die kurzfristige Verteuerung des Öls dafür ein geringer Preis ist.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; der plötzliche Gebrauch von Gewalt",
+          "english": "attack, -e (m.)",
+          "id": "13"
+        },
+        {
+          "german": "etwas erhöhen",
+          "explanation": "hier: etwas teurer machen",
+          "english": "increase something",
+          "id": "14"
+        },
+        {
+          "german": "Barrel, -s (n., aus dem Englischen)",
+          "explanation": "eine Maßeinheit für Erdöl: ein Barrel ist etwa 159 Liter",
+          "english": "Barrel, -s (n., from English)",
+          "id": "15"
+        },
+        {
+          "german": "Sicherheit (f., nur Singular)",
+          "explanation": "keine Gefahr",
+          "english": "security (f., only singular)",
+          "id": "16"
+        },
+        {
+          "german": "Frieden (m., nur Singular)",
+          "explanation": "kein Krieg",
+          "english": "peace (m., only singular)",
+          "id": "17"
+        },
+        {
+          "german": "kurzfristig",
+          "explanation": "hier: nur für eine kurze Zeit",
+          "english": "short term",
+          "id": "18"
+        },
+        {
+          "german": "Verteuerung, -en (f.)",
+          "explanation": "die Tatsache, dass etwas teurer wird",
+          "english": "increase in price, -en (f.)",
+          "id": "19"
+        },
+        {
+          "german": "ein geringer Preis sein",
+          "explanation": "hier: so sein, dass etwas Negatives nötig ist, damit es ein Problem nicht mehr gibt",
+          "english": "be a small price",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
