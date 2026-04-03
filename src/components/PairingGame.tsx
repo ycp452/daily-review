@@ -27,10 +27,19 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
   const [englishCards, setEnglishCards] = useState<Card[]>([]);
   const [explanationCards, setExplanationCards] = useState<Card[]>([]);
   
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
+  const [currentStep, setCurrentStep] = useState<number>(0); // 0: German, 1: English, 2: Explanation
+  
   const [selectedCards, setSelectedCards] = useState<Card[]>([]);
   const [matchedIds, setMatchedIds] = useState<Set<string>>(new Set());
   const [shakeIds, setShakeIds] = useState<string[]>([]);
   
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth < 768);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
   useEffect(() => {
     // Initialize cards separately for 3 columns
     const ge: Card[] = [];
@@ -50,6 +59,7 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
     
     setMatchedIds(new Set());
     setSelectedCards([]);
+    setCurrentStep(0);
   }, [vocabData]);
 
   useEffect(() => {
@@ -68,7 +78,8 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
             return newSet;
           });
           setSelectedCards([]);
-        }, 500);
+          setCurrentStep(0);
+        }, 300);
       } else {
         // No match
         const ids = selectedCards.map(c => c.id);
@@ -76,6 +87,7 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
         setTimeout(() => {
           setShakeIds([]);
           setSelectedCards([]);
+          setCurrentStep(0);
         }, 800);
       }
     }
@@ -86,10 +98,16 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
       return;
     }
     
-    // If the user clicks a card of a type they already selected, replace that selection
-    const newSelection = selectedCards.filter(c => c.type !== card.type);
-    newSelection.push(card);
-    setSelectedCards(newSelection);
+    if (isMobile) {
+        // Sequential flow on mobile
+        setSelectedCards(prev => [...prev, card]);
+        setCurrentStep(prev => prev + 1);
+    } else {
+        // Desktop multi-select replacement
+        const newSelection = selectedCards.filter(c => c.type !== card.type);
+        newSelection.push(card);
+        setSelectedCards(newSelection);
+    }
   };
 
   if (vocabData.length === 0) return <div className="loading">Loading Game...</div>;
@@ -117,21 +135,52 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
   };
 
   return (
-    <div className="game-board">
-      <div className="column">
-        <h2 className="column-title">German</h2>
-        {germanCards.map(renderCard)}
-      </div>
-      
-      <div className="column">
-        <h2 className="column-title">English</h2>
-        {englishCards.map(renderCard)}
-      </div>
+    <div className={`game-board ${isMobile ? 'mobile-sequential' : ''}`}>
+      {isMobile ? (
+        <div className="sequential-view">
+          <div className="game-status">
+            <div className="step-indicator">Step {currentStep + 1} of 3</div>
+            {selectedCards.length > 0 && (
+                <div className="selected-path">
+                    {selectedCards.map((c, i) => (
+                        <span key={c.id}>
+                            {i > 0 && ' → '}
+                            <span className="path-chip">{c.text}</span>
+                        </span>
+                    ))}
+                </div>
+            )}
+          </div>
 
-      <div className="column">
-        <h2 className="column-title">Explanation</h2>
-        {explanationCards.map(renderCard)}
-      </div>
+          <div className="column active-column">
+            <h2 className="column-title">
+              {currentStep === 0 && 'Pick German Word'}
+              {currentStep === 1 && 'Find English Match'}
+              {currentStep === 2 && 'Select Explanation'}
+            </h2>
+            {currentStep === 0 && germanCards.map(renderCard)}
+            {currentStep === 1 && englishCards.map(renderCard)}
+            {currentStep === 2 && explanationCards.map(renderCard)}
+          </div>
+        </div>
+      ) : (
+        <>
+          <div className="column">
+            <h2 className="column-title">German</h2>
+            {germanCards.map(renderCard)}
+          </div>
+          
+          <div className="column">
+            <h2 className="column-title">English</h2>
+            {englishCards.map(renderCard)}
+          </div>
+
+          <div className="column">
+            <h2 className="column-title">Explanation</h2>
+            {explanationCards.map(renderCard)}
+          </div>
+        </>
+      )}
     </div>
   );
 };
