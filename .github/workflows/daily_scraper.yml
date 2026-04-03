@@ -3,7 +3,16 @@ name: Daily DW Scraper
 on:
   schedule:
     - cron: '0 1 * * *' # Run at 01:00 UTC every day
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: # Allow manual trigger with custom inputs
+    inputs:
+      date:
+        description: 'Date to scrape (YYYY-MM-DD)'
+        required: false
+        default: ''
+      url:
+        description: 'Direct DW Article URL'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -21,7 +30,11 @@ jobs:
           enable-cache: true
 
       - name: Run Scraper
-        run: uv run scraper/dw_scraper.py
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then ARGS="$ARGS --date ${{ github.event.inputs.date }}"; fi
+          if [ -n "${{ github.event.inputs.url }}" ]; then ARGS="$ARGS --url ${{ github.event.inputs.url }}"; fi
+          uv run scraper/dw_scraper.py $ARGS
         
       - name: Commit and Push changes
         run: |
