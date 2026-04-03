@@ -1,4 +1,4 @@
-name: Daily DW Scraper
+name: Daily Scraper
 
 on:
   schedule:
@@ -13,6 +13,9 @@ on:
         description: 'Direct DW Article URL'
         required: false
         default: ''
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
   contents: write
