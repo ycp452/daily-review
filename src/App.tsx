@@ -32,6 +32,7 @@ function App() {
   const [error, setError] = useState<string | null>(null);
   const [availableDates, setAvailableDates] = useState<string[]>([]);
   const [isLoadingManifest, setIsLoadingManifest] = useState(true);
+  const [showManuscript, setShowManuscript] = useState(true);
 
   // Fetch available dates on load
   useEffect(() => {
@@ -210,41 +211,52 @@ function App() {
       )}
 
       {view === 'game' && dailyData && (
-        <main className="glass-panel" style={{ padding: '2rem' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '1rem' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-              <button onClick={returnToArticleSelect} className="btn btn-ghost">← Back</button>
-              <h2 style={{ fontSize: '1.05rem', margin: 0, color: 'var(--primary)' }}>
-                {selectedArticleIndex === -1 ? 'All Articles' : dailyData.articles[selectedArticleIndex].title}
-              </h2>
+        <main className="glass-panel" style={{ padding: '0', overflow: 'hidden' }}>
+          <div style={{ padding: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '1rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                <button onClick={returnToArticleSelect} className="btn btn-ghost">← Back</button>
+                <h2 style={{ fontSize: '1.05rem', margin: 0, color: 'var(--primary)' }}>
+                  {selectedArticleIndex === -1 ? 'All Articles' : dailyData.articles[selectedArticleIndex].title}
+                </h2>
+              </div>
+              
+              <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                  {dailyData.articleLink && (
+                    <a href={dailyData.articleLink} target="_blank" rel="noopener noreferrer" className="btn btn-ghost" style={{ fontSize: '0.85rem' }}>
+                      DW 🔗
+                    </a>
+                  )}
+                  {selectedArticleIndex !== -1 && (
+                    <button 
+                      onClick={() => setShowManuscript(!showManuscript)} 
+                      className={`btn ${showManuscript ? 'btn-ghost' : 'btn-accent'}`}
+                      style={{ fontSize: '0.85rem', padding: '0.5rem 0.8rem' }}
+                    >
+                      {showManuscript ? 'Hide Text' : 'Show Text'}
+                    </button>
+                  )}
+                  {isCompleted && (
+                    <div style={{ color: 'var(--accent)', fontWeight: 'bold', animation: 'popIn 0.5s ease', fontSize: '0.95rem' }}>
+                      🎉 Excellent!
+                    </div>
+                  )}
+              </div>
             </div>
-            
-            <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-                {dailyData.articleLink && (
-                  <a href={dailyData.articleLink} target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
-                    Original DW Article 📖
-                  </a>
-                )}
-                {isCompleted && (
-                  <div style={{ color: 'var(--accent)', fontWeight: 'bold', animation: 'popIn 0.5s ease', fontSize: '0.95rem' }}>
-                    🎉 Excellent!
-                  </div>
-                )}
-            </div>
-          </div>
 
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
-            {selectedArticleIndex !== -1 && (
-                <div className="glass-panel" style={{ padding: '1.5rem', fontSize: '1rem', lineHeight: '1.6', background: 'rgba(0,0,0,0.2)' }}>
-                    <h3 style={{ marginTop: 0, color: 'var(--primary)', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>Manuscript</h3>
-                    <div style={{ whiteSpace: 'pre-wrap' }}>{dailyData.articles[selectedArticleIndex].text}</div>
-                </div>
-            )}
-            
-            <PairingGame 
-                vocabData={getActiveVocab()} 
-                onComplete={() => setIsCompleted(true)} 
-            />
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+              {selectedArticleIndex !== -1 && showManuscript && (
+                  <div className="glass-panel manuscript-container" style={{ padding: '1.25rem', fontSize: '1rem', lineHeight: '1.6', background: 'rgba(0,0,0,0.2)' }}>
+                      <h3 style={{ marginTop: 0, color: 'var(--primary)', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem', fontSize: '1.1rem' }}>Manuscript</h3>
+                      <div style={{ whiteSpace: 'pre-wrap' }}>{dailyData.articles[selectedArticleIndex].text}</div>
+                  </div>
+              )}
+              
+              <PairingGame 
+                  vocabData={getActiveVocab()} 
+                  onComplete={() => setIsCompleted(true)} 
+              />
+            </div>
           </div>
         </main>
       )}
