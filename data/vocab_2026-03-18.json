@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-03-18",
+  "articleLink": "https://learngerman.dw.com/de/18032026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76411318",
+  "articles": [
+    {
+      "title": "Iran: Ali Larijani und Gholamresa Soleimani sind tot",
+      "text": "Der Iran bestätigt: Der Sicherheitschef Ali Larijani ist bei einem israelischen Angriff gestorben. Auch der Chef der Basidsch-Miliz, Gholamresa Soleimani, ist tot. Beide Männer haben eine große Rolle bei der Niederschlagung von Protesten im Januar gespielt.\n\n",
+      "vocab": [
+        {
+          "german": "Sicherheit (f., nur Singular)",
+          "explanation": "eine Situation: etwas ist ohne Gefahr für Menschen oder ein Land; hier: der Sicherheitschef hat Verantwortung für die Sicherheit des Landes",
+          "english": "security (f., only singular)",
+          "id": "1"
+        },
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; der plötzliche Gebrauch von Gewalt",
+          "english": "attack, -e (m.)",
+          "id": "2"
+        },
+        {
+          "german": "Basidsch-Miliz (f., nur Singular)",
+          "explanation": "eine bewaffnete, militärische Gruppe im Iran; sie ist nicht Teil der Armee des Landes",
+          "english": "Basij militia (f., only singular)",
+          "id": "3"
+        },
+        {
+          "german": "eine Rolle bei etwas spielen",
+          "explanation": "(sehr) wichtig für etwas sein",
+          "english": "play a role in something",
+          "id": "4"
+        },
+        {
+          "german": "Niederschlagung, -en (f.)",
+          "explanation": "eine starke Aktion: sie soll etwas (z. B. Proteste) stoppen, oft mit Gewalt und mit Waffen",
+          "english": "suppression, -en (f.)",
+          "id": "5"
+        },
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "hier eine Aktion: Menschen gehen auf die Straße, weil sie gegen jemanden oder etwas sind",
+          "english": "protest, -e (m.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Streit um Hilfe im Iran-Krieg",
+      "text": "Die USA wollen die Straße von Hormus wieder öffnen. US-Präsident Donald Trump sagt: Sie brauchen dafür keine Hilfe mehr von ihren Verbündeten. Die meisten Verbündeten wollten sich nicht in den Krieg einmischen und keine Kriegsschiffe schicken. Trump nennt das enttäuschend und schlecht für die Partnerschaft.\n\nVerbündete, -n (m./f.)  –  hier: ein Land; es arbeitet eng mit einem anderen Land zusammen und steht auf der Seite dieses Landes\n\n",
+      "vocab": [
+        {
+          "german": "sich in etwas ein|mischen",
+          "explanation": "an etwas teilnehmen; ein Teil von etwas werden",
+          "english": "to get involved in something",
+          "id": "7"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "english": "war, -e (m.)",
+          "id": "8"
+        },
+        {
+          "german": "Kriegsschiff, -e (n.)",
+          "explanation": "ein Schiff: es gehört zum Militär eines Landes; man kann damit angreifen (Gewalt benutzen)",
+          "english": "warship, -e (n.)",
+          "id": "9"
+        },
+        {
+          "german": "enttäuschend",
+          "explanation": "nicht so sein, wie man es erwartet hat; weniger gut sein, als man gedacht hat",
+          "english": "disappointing",
+          "id": "10"
+        },
+        {
+          "german": "Partnerschaft, -en (f.)",
+          "explanation": "hier: eine enge Zusammenarbeit zwischen Ländern",
+          "english": "partnership, -en (f.)",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Joseph Kent: Rücktritt wegen Iran-Krieg",
+      "text": "Der Chef des Nationalen Terrorabwehr-Zentrums der USA, Joseph Kent, tritt aus Protest zurück. Er sagt: Er kann den Iran-Krieg „nicht guten Gewissens“ unterstützen. Er meint: Die USA haben den Krieg auf Druck von Israel angefangen. Kent geht als erste wichtige Person aus Trumps Regierung wegen des Kriegs.\n\nRegierung, -en (f.)  –  Politikerinnen und Politiker: sie leiten ein Land\n\n",
+      "vocab": [
+        {
+          "german": "Nationales Terrorabwehr-Zentrum (n., hier: nur Singular)",
+          "explanation": "hier: eine politische Einrichtung der USA; sie soll gegen Terror im Land kämpfen",
+          "english": "National Counter Terrorism Center (n., here: only singular)",
+          "id": "12"
+        },
+        {
+          "german": "zurück|treten",
+          "explanation": "aufhören; nicht mehr in einem Amt oder einer Position arbeiten",
+          "english": "back|step back",
+          "id": "13"
+        },
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "hier eine Situation: man ist gegen jemanden oder etwas und sagt das auch",
+          "english": "protest, -e (m.)",
+          "id": "14"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "english": "war, -e (m.)",
+          "id": "15"
+        },
+        {
+          "german": "guten Gewissens",
+          "explanation": "so, dass man gut mit etwas leben kann; so, dass man etwas für richtig hält",
+          "english": "with a clear conscience",
+          "id": "16"
+        },
+        {
+          "german": "etwas unterstützen",
+          "explanation": "hier: helfen; fördern",
+          "english": "support something",
+          "id": "17"
+        },
+        {
+          "german": "etwas auf Druck von jemandem tun",
+          "explanation": "etwas machen, weil eine andere Person oder Gruppe das so will und sagt, dass man das tun soll",
+          "english": "to do something under pressure from someone",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}

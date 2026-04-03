@@ -1,0 +1,126 @@
+{
+  "articleDate": "2026-03-20",
+  "articleLink": "https://learngerman.dw.com/de/20032026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76448523",
+  "articles": [
+    {
+      "title": "Brüssel: Streit um Kredit für die Ukraine",
+      "text": "Bundeskanzler Friedrich Merz sagt, dass Ungarns Ministerpräsident Viktor Orbán illoyal ist. Orbán hat am Donnerstag in Brüssel einen wichtigen Kredit für die Ukraine blockiert. Letzten Dezember hat er dem Kredit noch zugestimmt. Orbán glaubt, dass die Ukraine Öllieferungen aus Russland nach Ungarn blockiert. Der ukrainische Präsident Wolodymyr Selenskyj sagt: Die Ukraine braucht den Kredit.\n\n",
+      "vocab": [
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Chef/die Chefin einer Regierung in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "1"
+        },
+        {
+          "german": "illoyal",
+          "explanation": "so, dass man jemandem, besonders einem Freund, nicht hilft; man hat vorher etwas gesagt und macht jetzt etwas anderes",
+          "english": "disloyal",
+          "id": "2"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "etwas stoppen; machen, dass etwas nicht passieren oder funktionieren kann",
+          "english": "block something",
+          "id": "3"
+        },
+        {
+          "german": "Kredit, -e (m.)",
+          "explanation": "das Geld: man bekommt es und muss es irgendwann später zurückzahlen",
+          "english": "credit, -e (m.)",
+          "id": "4"
+        },
+        {
+          "german": "etwas zu|stimmen",
+          "explanation": "(offiziell) sagen, dass man für etwas ist",
+          "english": "agree to something",
+          "id": "5"
+        },
+        {
+          "german": "Öllieferung, -en (f.)",
+          "explanation": "eine Aktion: man schickt Öl an jemanden, z. B. in ein anderes Land",
+          "english": "oil delivery, -en (f.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Iran und Israel: neue Angriffe",
+      "text": "Der Iran hat viele Raketen auf Israel abgefeuert. Israel sagt, dass dabei niemand gestorben ist. Kurz vorher hat Israels Ministerpräsident Benjamin Netanjahu erklärt, dass der Krieg den Iran „dezimiert“ hat. Außerdem hat Netanjahu Israels Kriegsziele beschrieben: Das Land will Irans Atom- und Raketenprogramme stoppen und die Möglichkeit schaffen, dass die Menschen im Iran ihr „Schicksal selbst in die Hand nehmen“, so Netanjahu.\n\n",
+      "vocab": [
+        {
+          "german": "eine Rakete ab|feuern",
+          "explanation": "eine große Feuerwaffe benutzen: sie kann weite Strecken durch die Luft fliegen und viele Menschen töten oder verletzen",
+          "english": "to fire a rocket",
+          "id": "7"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Chef/die Chefin einer Regierung in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "8"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "english": "war, -e (m.)",
+          "id": "9"
+        },
+        {
+          "german": "etwas dezimieren",
+          "explanation": "hier: etwas sehr schwach oder klein machen",
+          "english": "decimate something",
+          "id": "10"
+        },
+        {
+          "german": "Atom- und Raketenprogramm, -e (n.)",
+          "explanation": "der Plan eines Landes: es will nukleare Waffen und große Feuerwaffen bauen oder haben",
+          "english": "Nuclear and missile program, -e (n.)",
+          "id": "11"
+        },
+        {
+          "german": "sein Schicksal selbst in die Hand nehmen",
+          "explanation": "selbst entscheiden; selbst sagen: ich will dies oder das machen",
+          "english": "take his fate into his own hands",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Gabbard: unterschiedliche Ziele im Iran",
+      "text": "Die US-Geheimdienstchefin Tulsi Gabbard hat gesagt, dass die Ziele von Israel und den USA im Iran nicht gleich sind. Sie hat im Repräsentantenhaus erklärt: Israel will die iranische Führung ausschalten und die USA wollen die militärischen Kapazitäten des Landes zerstören.\n\nFührung (f., nur Singular) –  eine oder mehrere Personen: sie sind für etwas verantwortlich; hier auch: die Regierung eines Landes\n\n",
+      "vocab": [
+        {
+          "german": "Geheimdienst, -e (m.)",
+          "explanation": "eine Organisation; eine Gruppe: sie arbeitet für die Regierung eines Landes und sammelt viele Informationen (z. B. über andere Länder und ihr Militär)",
+          "english": "secret service, -e (m.)",
+          "id": "13"
+        },
+        {
+          "german": "Repräsentantenhaus (n., nur Singular)",
+          "explanation": "ein Teil des Parlaments der USA: es besteht aus Politikern und Politikerinnen aus allen Bundesstaaten",
+          "english": "House of Representatives (n., only singular)",
+          "id": "14"
+        },
+        {
+          "german": "etwas aus|schalten",
+          "explanation": "hier: etwas machen, so dass es etwas nicht mehr gibt; auch: jemanden töten",
+          "english": "turn something off",
+          "id": "15"
+        },
+        {
+          "german": "militärische Kapazität, -en (f.)",
+          "explanation": "die Waffen; die Armee eines Landes",
+          "english": "military capacity, -en (f.)",
+          "id": "16"
+        },
+        {
+          "german": "etwas zerstören",
+          "explanation": "etwas kaputt machen, so dass es nicht mehr benutzt werden kann",
+          "english": "destroy something",
+          "id": "17"
+        }
+      ]
+    }
+  ]
+}
