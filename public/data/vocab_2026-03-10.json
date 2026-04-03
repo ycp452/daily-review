@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-03-10",
+  "articleLink": "https://learngerman.dw.com/de/10032026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76291230",
+  "articles": [
+    {
+      "title": "Libanon: 700.000 Menschen auf der Flucht",
+      "text": "Der Konflikt zwischen Israel und der Hisbollah im Libanon geht weiter. UNICEF sagt, dass fast 700.000 Menschen wegen der israelischen Angriffe auf der Flucht sind. In Beirut dient das größte Sportstadion des Landes jetzt als Unterkunft für Hunderte Menschen, die ihr Zuhause verloren haben. Israel sagt, dass das Ziel der Angriffe die Hisbollah-Kämpfer im Süden des Landes und in den Vororten von Beirut sind.\n\n",
+      "vocab": [
+        {
+          "german": "Konflikt, -e (m.)",
+          "explanation": "ein Streit; hier auch: ein Krieg",
+          "english": "conflict, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; der plötzliche Gebrauch von Gewalt",
+          "english": "attack, -e (m.)",
+          "id": "2"
+        },
+        {
+          "german": "auf der Flucht sein",
+          "explanation": "hier: von zu Hause weglaufen, weil es dort gefährlich ist",
+          "english": "be on the run",
+          "id": "3"
+        },
+        {
+          "german": "als etwas dienen",
+          "explanation": "hier: etwas sein, weil man es (für eine bestimmte Zeit) so benutzt",
+          "english": "serve as something",
+          "id": "4"
+        },
+        {
+          "german": "Stadion, Stadien (n.)",
+          "explanation": "ein großes Gebäude: dort gibt es Sportveranstaltungen",
+          "english": "stadium, stadiums (n.)",
+          "id": "5"
+        },
+        {
+          "german": "Kämpfer, -/Kämpferin, -nen",
+          "explanation": "eine Person: sie kämpft mit Gewalt für etwas, aber sie ist keine offizielle Soldatin/kein offizieller Soldat",
+          "english": "fighter",
+          "id": "6"
+        },
+        {
+          "german": "Vorort, -e (m.)",
+          "explanation": "ein Ort in der Stadt: er ist nicht im Zentrum, sondern am Rand der Stadt",
+          "english": "suburb, -e (m.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Ölpreise fallen wieder",
+      "text": "Noch am Montag hat ein Barrel Öl fast 120 Dollar gekostet. Jetzt fallen die Preise wieder, nachdem US-Präsident Donald Trump gesagt hat, dass der Krieg gegen den Iran wahrscheinlich bald enden wird. Er hat aber auch gesagt, dass die USA und Israel noch mehr tun müssen, um den Krieg endgültig zu gewinnen.\n\n",
+      "vocab": [
+        {
+          "german": "Barrel, -s (n., aus dem Englischen)",
+          "explanation": "eine Maßeinheit für Erdöl (etwa 159 Liter)",
+          "english": "Barrel, -s (n., from English)",
+          "id": "8"
+        },
+        {
+          "german": "fallen",
+          "explanation": "hier: kleiner werden, weniger werden",
+          "english": "fall",
+          "id": "9"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt zwischen Ländern oder Gruppen mit Waffen",
+          "english": "war, -e (m.)",
+          "id": "10"
+        },
+        {
+          "german": "endgültig",
+          "explanation": "für immer",
+          "english": "final",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "EU will vielleicht Ölreserven freigeben",
+      "text": "Die EU und die G7 wollen Ölreserven freigeben, wenn die Versorgung mit Öl unterbrochen wird. EU-Wirtschaftskommissar Valdis Dombrovskis sagt, dass die EU-Finanzminister die Ölpreise genau beobachten. Sie sprechen darüber, was sie tun können, damit ihre Länder keine wirtschaftlichen Probleme bekommen.\n\n",
+      "vocab": [
+        {
+          "german": "G7 (nur Plural)",
+          "explanation": "eine Gruppe von sieben wirtschaftlich sehr starken Ländern (Deutschland, Frankreich, Italien, Japan, Kanada, Vereinigtes Königreich (UK) und USA): sie trifft sich regelmäßig und spricht über Wirtschaftsthemen, Politik und große weltweite Probleme",
+          "english": "G7 (plural only)",
+          "id": "12"
+        },
+        {
+          "german": "Ölreserven frei|geben",
+          "explanation": "sagen, dass man das Öl, das man gespart hat, jetzt benutzen kann",
+          "english": "Release oil reserves",
+          "id": "13"
+        },
+        {
+          "german": "Versorgung (f., nur Singular)",
+          "explanation": "hier: das Verteilen von etwas, das andere benutzen können",
+          "english": "supply (f., only singular)",
+          "id": "14"
+        },
+        {
+          "german": "unterbrochen werden",
+          "explanation": "hier: plötzlich für eine bestimmte Zeit gestoppt sein",
+          "english": "be interrupted",
+          "id": "15"
+        },
+        {
+          "german": "Wirtschaftskommissar, -e/Wirtschaftskommissarin, -nen",
+          "explanation": "eine politische Position in der EU: die Person kümmert sich um die Wirtschaftspolitik der EU-Länder",
+          "english": "Economic Commissioner, -e/Economic Commissioner, -nen",
+          "id": "16"
+        },
+        {
+          "german": "EU-Finanzminister,-/EU-Finanzministerin, -nen",
+          "explanation": "eine politische Position in einem Land der Europäischen Union: die Person kümmert sich um die nationale Finanz- und Wirtschaftspolitik und trifft sich regelmäßig mit den Finanzministerinnen und -ministern anderer EU-Länder",
+          "english": "EU finance minister/EU finance minister",
+          "id": "17"
+        },
+        {
+          "german": "etwas beobachten",
+          "explanation": "hier: etwas eine bestimmte Zeit lang genau ansehen; kontrollieren, wie etwas ist",
+          "english": "observe something",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
