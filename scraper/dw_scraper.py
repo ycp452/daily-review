@@ -68,6 +68,19 @@ def extract_id_from_url(url):
         return match.group(1)
     return None
 
+def extract_date_from_url(url):
+    """
+    Parse the date from a DW article URL slug.
+    The slug format is DDMMYYYY, e.g.:
+      /de/12032026-kurz-und-leicht-... -> 2026-03-12
+    Returns a YYYY-MM-DD string, or None if not found.
+    """
+    match = re.search(r"/de/(\d{2})(\d{2})(\d{4})-", url)
+    if match:
+        day, month, year = match.group(1), match.group(2), match.group(3)
+        return f"{year}-{month}-{day}"
+    return None
+
 def extract_article_data(article_id):
     """
     Query DW GraphQL API for article content and extract multiple sub-articles with their text and vocab.
@@ -192,7 +205,13 @@ def main():
             if not article_id:
                 print(f"Error: Could not extract article ID from URL: {args.url}")
                 return
-            print(f"Using direct URL: {article_url} (Extracted ID: {article_id})")
+            # Auto-parse the date from the URL slug (DDMMYYYY format)
+            parsed_date = extract_date_from_url(args.url)
+            if parsed_date:
+                date_str = parsed_date
+                print(f"Using direct URL: {article_url} (ID: {article_id}, Date parsed from URL: {date_str})")
+            else:
+                print(f"Using direct URL: {article_url} (ID: {article_id}, Date: {date_str})")
         else:
             article_id, article_url = find_article_info(date_str)
             if not article_id:

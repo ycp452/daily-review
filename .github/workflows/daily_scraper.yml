@@ -2,7 +2,7 @@ name: Daily Scraper
 
 on:
   schedule:
-    - cron: '0 1 * * *' # Run at 01:00 UTC every day
+    - cron: '0 14 * * *' # Run at 01:00 UTC every day
   workflow_dispatch: # Allow manual trigger with custom inputs
     inputs:
       date:
@@ -34,10 +34,21 @@ jobs:
 
       - name: Run Scraper
         run: |
-          ARGS=""
-          if [ -n "${{ github.event.inputs.date }}" ]; then ARGS="$ARGS --date ${{ github.event.inputs.date }}"; fi
-          if [ -n "${{ github.event.inputs.url }}" ]; then ARGS="$ARGS --url ${{ github.event.inputs.url }}"; fi
-          uv run scraper/dw_scraper.py $ARGS
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            # Manual run with specific date
+            uv run scraper/dw_scraper.py --date ${{ github.event.inputs.date }}
+          elif [ -n "${{ github.event.inputs.url }}" ]; then
+            # Manual run with specific URL
+            uv run scraper/dw_scraper.py --url ${{ github.event.inputs.url }}
+          else
+            # Scheduled run: try both yesterday and today to handle timezone gaps
+            YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
+            TODAY=$(date +%Y-%m-%d)
+            echo "Scraping yesterday: $YESTERDAY"
+            uv run scraper/dw_scraper.py --date $YESTERDAY
+            echo "Scraping today: $TODAY"
+            uv run scraper/dw_scraper.py --date $TODAY
+          fi
         
       - name: Commit and Push changes
         run: |
