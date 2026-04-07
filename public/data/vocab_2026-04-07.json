@@ -1,0 +1,180 @@
+{
+  "articleDate": "2026-04-07",
+  "articleLink": "https://learngerman.dw.com/de/07042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76691110",
+  "articles": [
+    {
+      "title": "„Artemis 2“ auf dem Rückweg",
+      "text": "Nach ihrer Reise um den Mond ist die Besatzung der „Artemis 2“-Mission auf dem Rückweg zur Erde. Die vier Astronauten sind um den Mond geflogen und haben dabei seine Rückseite gesehen. Außerdem haben sie gestern einen neuen Rekord aufgestellt: Noch nie waren Menschen weiter von der Erde entfernt.\n\n",
+      "vocab": [
+        {
+          "german": "Mond, -e (m.)",
+          "explanation": "ein Himmelskörper: er bewegt sich um einen Planeten, zum Beispiel um die Erde",
+          "english": "moon, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "Besatzung, -en (f.)",
+          "explanation": "die Crew; Menschen: sie arbeiten auf einem Schiff, in einem Flugzeug oder (hier) in einem Raumschiff",
+          "english": "crew, -en (f.)",
+          "id": "2"
+        },
+        {
+          "german": "Mission, -en (f.)",
+          "explanation": "hier: eine Aufgabe für eine Gruppe von Menschen: man schickt sie an einen Ort und dort arbeiten sie",
+          "english": "mission, -en (f.)",
+          "id": "3"
+        },
+        {
+          "german": "Rückweg, -e (m.)",
+          "explanation": "der Weg zurück (z. B. nach Hause)",
+          "english": "way back, -e (m.)",
+          "id": "4"
+        },
+        {
+          "german": "Astronaut, -en/Astronautin, -nen",
+          "explanation": "eine Person: sie fliegt ins Weltall; der Raumfahrer/die Raumfahrerin",
+          "english": "Astronaut, -en/astronaut, -nen",
+          "id": "5"
+        },
+        {
+          "german": "Rückseite, -n (f.)",
+          "explanation": "eine Seite von etwas: man kann sie meistens nicht sehen",
+          "english": "back, -n (f.)",
+          "id": "6"
+        },
+        {
+          "german": "einen neuen Rekord auf|stellen",
+          "explanation": "besser/schneller/weiter in einem Gebiet sein als andere vorher; bei etwas die beste/größte Leistung aller Zeiten zeigen",
+          "english": "set a new record",
+          "id": "7"
+        },
+        {
+          "german": "von etwas entfernt",
+          "explanation": "von etwas (weit) weg",
+          "english": "away from something",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Iran: neues US-Ultimatum",
+      "text": "Ein Sprecher des iranischen Außenministeriums sagt: Die USA drohen einerseits mit Angriffen, andererseits wollen sie Verhandlungen. US-Präsident Donald Trump hat dem Iran ein neues Ultimatum gestellt: Die Straße von Hormus soll bis 20 Uhr Ortszeit in Washington wieder offen sein. Sonst wollen die USA Kraftwerke und Brücken im Land zerstören.\n\n",
+      "vocab": [
+        {
+          "german": "Außenministerium, -ministerien (n.)",
+          "explanation": "eine staatliche Stelle: sie kümmert sich um die Beziehungen zu anderen Ländern",
+          "english": "Foreign Ministry, Ministries (n.)",
+          "id": "9"
+        },
+        {
+          "german": "jemandem mit Angriffen drohen",
+          "explanation": "jemandem sagen, dass man in Zukunft militärische Gewalt benutzt, wenn er etwas tut oder nicht tut",
+          "english": "threaten to attack someone",
+          "id": "10"
+        },
+        {
+          "german": "einerseits ... andererseits",
+          "explanation": "hier: erst so, dann so: jemand sagt oder tut zwei Dinge, aber sie passen nicht zusammen",
+          "english": "on the one hand...on the other hand",
+          "id": "11"
+        },
+        {
+          "german": "Verhandlung, -en (f.)",
+          "explanation": "ein Gespräch mit einem bestimmten Ziel: Personen oder Gruppen wollen so z. B. einen Streit lösen",
+          "english": "negotiation, -en (f.)",
+          "id": "12"
+        },
+        {
+          "german": "jemandem ein Ultimatum stellen",
+          "explanation": "jemandem sagen, dass er bis zu einer bestimmten Zeit etwas tun muss, sonst macht man etwas Schlimmes",
+          "english": "give someone an ultimatum",
+          "id": "13"
+        },
+        {
+          "german": "Straße von Hormus (f., nur Singular)",
+          "explanation": "ein schmaler Wasserweg zwischen dem Iran und der arabischen Halbinsel",
+          "english": "Strait of Hormuz (f., only singular)",
+          "id": "14"
+        },
+        {
+          "german": "20 Uhr Ortszeit",
+          "explanation": "so, dass es an einem bestimmten Ort (z. B. in Washington in den USA) gerade 20 Uhr ist",
+          "english": "8 p.m. local time",
+          "id": "15"
+        },
+        {
+          "german": "Kraftwerk, -e (n.)",
+          "explanation": "hier: ein oder mehrere Gebäude: dort stellt man Energie her",
+          "english": "power plant, -e (n.)",
+          "id": "16"
+        },
+        {
+          "german": "etwas zerstören",
+          "explanation": "etwas kaputt machen",
+          "english": "destroy something",
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "title": "Angriff im Gazastreifen",
+      "text": "Israel hat gestern Abend ein Flüchtlingslager im Gazastreifen angegriffen. Dabei sind laut Mitarbeitern eines Krankenhauses mindestens zehn Menschen gestorben. Augenzeugen sagen: Davor hat es Zusammenstöße zwischen Unterstützern und Gegnern der Hamas gegeben. Eigentlich gilt seit Oktober 2025 eine Waffenruhe im Gazastreifen.\n\n",
+      "vocab": [
+        {
+          "german": "Flüchtlingslager, - (n.)",
+          "explanation": "ein Ort ohne richtige Häuser: dort leben Menschen, die ihr Zuhause verloren haben oder nicht dorthin zurückgehen können",
+          "english": "refugee camp, - (n.)",
+          "id": "18"
+        },
+        {
+          "german": "jemanden an|greifen",
+          "explanation": "Gewalt gegen jemanden benutzen (z. B. mit einer militärischen Aktion)",
+          "english": "to attack|attack someone",
+          "id": "19"
+        },
+        {
+          "german": "laut",
+          "explanation": "hier: so, wie jemand es gesagt hat; nach den Worten von jemandem",
+          "english": "loud",
+          "id": "20"
+        },
+        {
+          "german": "Augenzeuge, -n/Augenzeugin, -nen",
+          "explanation": "eine Person: sie hat etwas selbst (mit ihren eigenen Augen) gesehen",
+          "english": "eyewitness, -n/eyewitness, -nen",
+          "id": "21"
+        },
+        {
+          "german": "Zusammenstoß, -stöße (m.)",
+          "explanation": "hier: eine Situation: verschiedene Gruppen treffen aufeinander und es bleibt dabei nicht friedlich",
+          "english": "collision, collisions (m.)",
+          "id": "22"
+        },
+        {
+          "german": "Unterstützer, -/Unterstützerin, -nen",
+          "explanation": "eine Person: sie ist für jemanden/eine Gruppe",
+          "english": "Supporter, -/supporter, -nen",
+          "id": "23"
+        },
+        {
+          "german": "Gegner, -/Gegnerin, -nen",
+          "explanation": "eine Person: sie ist gegen jemanden/eine Gruppe",
+          "english": "Opponent, -/opponent, -nen",
+          "id": "24"
+        },
+        {
+          "german": "Hamas (f., nur Singular)",
+          "explanation": "eine terroristische Organisation im Gazastreifen",
+          "english": "Hamas (f., only singular)",
+          "id": "25"
+        },
+        {
+          "german": "es gilt eine Waffenruhe",
+          "explanation": "in einem Krieg oder in einem militärischen Konflikt gibt es eine Pause: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "there is a ceasefire",
+          "id": "26"
+        }
+      ]
+    }
+  ]
+}
