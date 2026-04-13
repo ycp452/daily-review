@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-04-13",
+  "articleLink": "https://learngerman.dw.com/de/13042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76764337",
+  "articles": [
+    {
+      "title": "Ungarn: Péter Magyar gewinnt Parlamentswahl",
+      "text": "Die Oppositionspartei Tisza von Péter Magyar hat die ungarische Parlamentswahl gewonnen und eine Zweidrittelmehrheit bekommen. Damit kann sie jetzt auch die Verfassung ändern. Der aktuelle ungarische Ministerpräsident Viktor Orbán hat zugegeben, dass er verloren hat. Über 77 Prozent der Menschen in Ungarn haben gewählt. Das ist ein Rekord.\n\n",
+      "vocab": [
+        {
+          "german": "Oppositionspartei, -en (f.)",
+          "explanation": "eine Gruppe von Menschen: sie arbeiten politisch zusammen, zum Beispiel im Parlament, aber sie ist nicht Teil der Regierung im Land; sie ist gegen die Regierung",
+          "english": "opposition party, -en (f.)",
+          "id": "1"
+        },
+        {
+          "german": "Parlamentswahl, -en (f.)",
+          "explanation": "eine politische Wahl: die Menschen in einem Land entscheiden über ein neues Parlament",
+          "english": "parliamentary election, -en (f.)",
+          "id": "2"
+        },
+        {
+          "german": "Zweidrittelmehrheit, -en (f.)",
+          "explanation": "mehr als 66,6 Prozent von etwas (hier: der Sitze in einem Parlament)",
+          "english": "two-thirds majority, -en (f.)",
+          "id": "3"
+        },
+        {
+          "german": "Verfassung, -en (f.)",
+          "explanation": "die wichtigsten Regeln und Gesetze eines Staates",
+          "english": "constitution, -en (f.)",
+          "id": "4"
+        },
+        {
+          "german": "etwas zu|geben",
+          "explanation": "hier: sagen, dass etwas Negatives richtig ist",
+          "english": "to admit something",
+          "id": "5"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Regierungschef/die Regierungschefin in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "6"
+        },
+        {
+          "german": "Rekord, -e (m.)",
+          "explanation": "hier: die höchste Zahl",
+          "english": "record, -e (m.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "USA und Iran: keine Einigung",
+      "text": "US-Präsident Donald Trump hat in den sozialen Medien geschrieben, dass die US-Marine alle Schiffe in der Straße von Hormus blockieren soll. Er meint außerdem: Der Iran will seine nuklearen Pläne nicht aufgeben. Die USA und der Iran haben sich am Sonntag in Islamabad in Pakistan getroffen. Die Gespräche haben 21 Stunden gedauert. Es hat aber keine Einigung gegeben.\n\nMarine (f., nur Singular) –  Soldatinnen und Soldaten: sie arbeiten normalerweise auf Schiffen und gehören zum Militär eines Landes\n\n",
+      "vocab": [
+        {
+          "german": "Straße von Hormus (f., nur Singular)",
+          "explanation": "ein schmaler Wasserweg zwischen dem Iran und der arabischen Halbinsel",
+          "english": "Strait of Hormuz (f., only singular)",
+          "id": "8"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "etwas stoppen; machen, dass etwas nicht durch etwas fahren kann",
+          "english": "block something",
+          "id": "9"
+        },
+        {
+          "german": "nuklear",
+          "explanation": "mit Atomkraft oder Atomwaffen verbunden oder darauf bezogen",
+          "english": "nuclear",
+          "id": "10"
+        },
+        {
+          "german": "etwas auf|geben",
+          "explanation": "hier: mit etwas aufhören; mit etwas nicht weitermachen",
+          "english": "give up something",
+          "id": "11"
+        },
+        {
+          "german": "Einigung, -en (f.)",
+          "explanation": "eine gemeinsame Lösung für einen Streit oder ein Problem",
+          "english": "agreement, -en (f.)",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Bollywood-Sängerin Asha Bhosle ist tot",
+      "text": "Die berühmte Bollywood-Sängerin Asha Bhosle ist in einem Krankenhaus in Mumbai in Indien gestorben. Sie ist 92 Jahre alt geworden. In über acht Jahrzehnten hat sie mehr als 12.000 Lieder für Filme gesungen. Indiens Premierminister Narendra Modi hat in den sozialen Medien geschrieben: Ihre Stimme hat eine besondere Brillanz gehabt.\n\n",
+      "vocab": [
+        {
+          "german": "Bollywood (n., aus dem Englischen, Mischung aus Bombay und Hollywood)",
+          "explanation": "die Bezeichnung für die Filmindustrie in Mumbai (Indien); der größte Teil des indischen Kinos",
+          "english": "Bollywood (n., from English, mixture of Bombay and Hollywood)",
+          "id": "13"
+        },
+        {
+          "german": "Jahrzehnt, -e (n.)",
+          "explanation": "ein Zeitraum von zehn Jahren",
+          "english": "decade, -e (n.)",
+          "id": "14"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -/Prime Minister, -nen",
+          "id": "15"
+        },
+        {
+          "german": "Stimme, -n (f.)",
+          "explanation": "hier: der Klang, wenn ein Mensch spricht oder singt; das, was man hört, wenn jemand etwas sagt oder singt",
+          "english": "voice, -n (f.)",
+          "id": "16"
+        },
+        {
+          "german": "besonders",
+          "explanation": "hier: nicht gewöhnlich; nicht normal; anders und besser als die meisten",
+          "english": "especially",
+          "id": "17"
+        },
+        {
+          "german": "Brillanz (f., nur Singular)",
+          "explanation": "der Glanz; die Kraft; hier auch: der Klang",
+          "english": "brilliance (f., only singular)",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
