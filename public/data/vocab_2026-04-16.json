@@ -1,0 +1,120 @@
+{
+  "articleDate": "2026-04-16",
+  "articleLink": "https://learngerman.dw.com/de/16042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76809385",
+  "articles": [
+    {
+      "title": "António Guterres fordert Ende des Bürgerkriegs im Sudan",
+      "text": "Bei einem internationalen Treffen zum Sudan-Krieg in Berlin hat UN-Generalsekretär António Guterres ein Ende des Bürgerkriegs in dem Land gefordert. Wegen des Kriegs mussten bis jetzt etwa 14 Millionen Menschen ihre Heimat verlassen. 34 Millionen brauchen humanitäre Hilfe. Die Kämpfe zwischen der sudanesischen Armee und der paramilitärischen Gruppe RSF haben 2023 begonnen.\n\netwas verlassen – von einem Ort weggehen\n\nBürgerkrieg, -e (m.) – ein Konflikt mit Waffen: er findet in einem Land statt, nicht zwischen verschiedenen Ländern\n\n",
+      "vocab": [
+        {
+          "german": "Generalsekretär, -e/Generalsekretärin, -nen",
+          "explanation": "hier: die wichtigste Person in einer internationalen Organisation",
+          "english": "General Secretary, -e/General Secretary, -nen",
+          "id": "1"
+        },
+        {
+          "german": "etwas fordern",
+          "explanation": "sagen, dass man etwas will",
+          "english": "demand something",
+          "id": "2"
+        },
+        {
+          "german": "humanitäre Hilfe (f., meist Singular)",
+          "explanation": "die Hilfe gegen die schlimmste menschliche Not, zum Beispiel mit Medikamenten und Nahrungsmitteln",
+          "english": "humanitarian aid (f., usually singular)",
+          "id": "3"
+        },
+        {
+          "german": "Kampf, Kämpfe (m.)",
+          "explanation": "hier: ein Streit oder Konflikt mit Waffen",
+          "english": "fight, fights (m.)",
+          "id": "4"
+        },
+        {
+          "german": "Armee, -n (f.)",
+          "explanation": "das Militär; die Soldatinnen und Soldaten eines Landes",
+          "english": "army, -n (f.)",
+          "id": "5"
+        },
+        {
+          "german": "paramilitärisch",
+          "explanation": "nicht von der Armee organisiert; so, dass eine Gruppe ähnlich wie das das staatliche Militär handelt, aber nicht dazugehört",
+          "english": "paramilitary",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "USA: Keine längere Waffenruhe, aber neue Friedensgespräche mit dem Iran",
+      "text": "Die Pressesprecherin von US-Präsident Donald Trump, Karoline Leavitt, hat gesagt: Die USA fordern keine längere Waffenruhe mit dem Iran. Sie hat aber berichtet, dass jetzt neue Friedensgespräche laufen. Der Iran will den Schiffsverkehr im Roten Meer stören, wenn die USA weiter die Straße von Hormus blockieren.\n\nFriedensgespräch, -e (n.) – hier: ein internationales Treffen: Politikerinnen und Politiker reden miteinander, weil sie einen Krieg in einem Land beenden wollen\n\n",
+      "vocab": [
+        {
+          "german": "Pressesprecher, -/ Pressesprecherin, -nen",
+          "explanation": "eine Person: sie spricht öffentlich z. B. für eine Regierung oder eine Organisation",
+          "english": "Press spokesman, -/press spokeswoman, -nen",
+          "id": "7"
+        },
+        {
+          "german": "Waffenruhe (f., nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire (f., only singular)",
+          "id": "8"
+        },
+        {
+          "german": "das Rote Meer (n., nur Singular)",
+          "explanation": "ein Meer zwischen Afrika und Arabien",
+          "english": "the Red Sea (n., only singular)",
+          "id": "9"
+        },
+        {
+          "german": "Straße von Hormus (f., nur Singular)",
+          "explanation": "ein schmaler Wasserweg zwischen dem Iran und der arabischen Halbinsel",
+          "english": "Strait of Hormuz (f., only singular)",
+          "id": "10"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "etwas stoppen; machen, dass etwas nicht durch etwas fahren kann",
+          "english": "block something",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Mindestens zehn Tote an Schule in der Türkei",
+      "text": "Ein 14 Jahre alter Junge hat an einer Schule im Süden der Türkei mindestens acht Schüler und einen Lehrer erschossen. Mehrere Personen sind lebensgefährlich verletzt. Der Gouverneur hat berichtet: Der Angreifer hat sich nach der Tat selbst erschossen. Einen Tag vorher hat ein ehemaliger Schüler an einer anderen Schule in der Türkei 16 Menschen verletzt.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden erschießen",
+          "explanation": "jemanden mit einer Schusswaffe, z. B. einer Pistole, töten",
+          "english": "shoot someone",
+          "id": "12"
+        },
+        {
+          "german": "lebensgefährlich",
+          "explanation": "so, dass jemand vielleicht stirbt",
+          "english": "life-threatening",
+          "id": "13"
+        },
+        {
+          "german": "Gouverneur, -e/Gouverneurin, -nen",
+          "explanation": "hier: ein/e wichtige/r Politiker/in für eine bestimmte Region in einem Land",
+          "english": "Governor, -e/Governoress, -nen",
+          "id": "14"
+        },
+        {
+          "german": "Angreifer, -/Angreiferin, -nen",
+          "explanation": "hier: eine Person: sie attackiert jemanden (z. B. mit einer Waffe) und versucht, eine Person zu verletzen oder zu töten",
+          "english": "attacker",
+          "id": "15"
+        },
+        {
+          "german": "ehemalig",
+          "explanation": "von früher",
+          "english": "former",
+          "id": "16"
+        }
+      ]
+    }
+  ]
+}
