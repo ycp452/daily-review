@@ -1,0 +1,126 @@
+{
+  "articleDate": "2026-04-17",
+  "articleLink": "https://learngerman.dw.com/de/17042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76825312",
+  "articles": [
+    {
+      "title": "Menschen im Libanon feiern Waffenruhe",
+      "text": "Im Libanon freuen sich die Menschen über den Beginn einer zehntägigen Waffenruhe zwischen Israel und der Hisbollah. In Beirut, Sidon und anderen libanesischen Städten haben Menschen auf den Straßen gefeiert. Der israelische Ministerpräsident Benjamin Netanjahu hat gesagt: Die israelischen Truppen sollen im Süden des Landes bleiben. Die Hisbollah hat ihren Rückzug gefordert.\n\n",
+      "vocab": [
+        {
+          "german": "zehntägig",
+          "explanation": "so, dass etwas zehn Tage dauert",
+          "english": "ten days",
+          "id": "1"
+        },
+        {
+          "german": "Waffenruhe (f., nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire (f., only singular)",
+          "id": "2"
+        },
+        {
+          "german": "Hisbollah (f., nur Singular)",
+          "explanation": "eine militärische Gruppe im Libanon: der Iran unterstützt die Gruppe; für viele Länder ist sie eine Terrorgruppe",
+          "english": "Hezbollah (f., only singular)",
+          "id": "3"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Regierungschef/die Regierungschefin in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "4"
+        },
+        {
+          "german": "Truppe, -n (f.)",
+          "explanation": "hier: die Soldaten; das Militär",
+          "english": "troop, -n (f.)",
+          "id": "5"
+        },
+        {
+          "german": "Rückzug, -züge (m.)",
+          "explanation": "eine Situation oder Aktion, oft in einem Krieg: man geht wieder weg von einem Ort",
+          "english": "retreat, moves (m.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Gespräche zwischen den USA und dem Iran möglich",
+      "text": "US‑Präsident Donald Trump hat gesagt, dass sich die USA und der Iran am Wochenende wieder treffen können. Trump hat außerdem erklärt: Der Iran ist einverstanden, mehr als 20 Jahre lang keine Atomwaffen zu haben. Regierungsvertreter aus Pakistan wollen, dass neue Gespräche vor dem Ende der Waffenruhe nächste Woche stattfinden.\n\n",
+      "vocab": [
+        {
+          "german": "Präsident, -en/Präsidentin, -nen",
+          "explanation": "hier: der höchste Politiker/die höchste Politikerin in einem Land; der Chef/die Chefin einer Regierung",
+          "english": "President, -en/President, -nen",
+          "id": "7"
+        },
+        {
+          "german": "Atomwaffe, -n (f.)",
+          "explanation": "ein nukleares Instrument oder Gerät (eine Rakete): es ist sehr gefährlich und kann sehr viele Menschen töten",
+          "english": "nuclear weapon, -n (f.)",
+          "id": "8"
+        },
+        {
+          "german": "Regierungsvertreter, -/Regierungsvertreterin",
+          "explanation": "eine Person: sie spricht für die  Regierung eines Landes",
+          "english": "Government representative",
+          "id": "9"
+        },
+        {
+          "german": "Waffenruhe (f., nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire (f., only singular)",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "title": "Energiekrise gefährdet den Flugverkehr in Europa",
+      "text": "Der Chef der Internationalen Energieagentur Fatih Birol meint: Europa hat nur noch für sechs Wochen genug Kerosin. Die Energiekrise auf der ganzen Welt gefährdet auch den Flugverkehr in Europa. Wegen des Iran-Kriegs und der Blockade der Straße von Hormus gibt es Engpässe kurz vor der Reisezeit im Sommer.\n\n",
+      "vocab": [
+        {
+          "german": "Internationale Energieagentur (f., Eigenname, nur Singular)",
+          "explanation": "eine Organisation: sie kümmert sich um die Herstellung und Benutzung von Energie auf der Welt",
+          "english": "International Energy Agency (f., proper noun, only singular)",
+          "id": "11"
+        },
+        {
+          "german": "Kerosin (n., nur Singular)",
+          "explanation": "ein Treibstoff für Flugzeuge: damit fliegen Flugzeuge",
+          "english": "Kerosene (n., only singular)",
+          "id": "12"
+        },
+        {
+          "german": "Energiekrise, -n (f.)",
+          "explanation": "eine schwierige Situation: es gibt Probleme mit der Herstellung von Energie, weil zum Beispiel Öl fehlt",
+          "english": "energy crisis, -n (f.)",
+          "id": "13"
+        },
+        {
+          "german": "jemanden/etwas gefährden",
+          "explanation": "jemanden/etwas in Gefahr bringen; ein Risiko für etwas sein",
+          "english": "endanger someone/something",
+          "id": "14"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "english": "war, -e (m.)",
+          "id": "15"
+        },
+        {
+          "german": "Blockade, -n (f.)",
+          "explanation": "der Stopp von etwas; die starke Störung: man macht, dass jemand oder etwas nicht irgendwo durch- oder hinfahren kann",
+          "english": "blockade, -n (f.)",
+          "id": "16"
+        },
+        {
+          "german": "Engpass, -pässe (m.)",
+          "explanation": "eine Situation: es gibt nicht genug von etwas; etwas ist für eine Zeit nur wenig da",
+          "english": "bottleneck, passages (m.)",
+          "id": "17"
+        }
+      ]
+    }
+  ]
+}
