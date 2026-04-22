@@ -1,0 +1,144 @@
+{
+  "articleDate": "2026-04-22",
+  "articleLink": "https://learngerman.dw.com/de/22042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76896255",
+  "articles": [
+    {
+      "title": "Verlängerung der Waffenruhe im Iran",
+      "text": "US-Präsident Donald Trump sagt, dass er auf Wunsch Pakistans die Waffenruhe mit dem Iran verlängert. Eigentlich sollte die Waffenruhe heute enden. Jetzt soll sie so lange dauern, bis der Iran einen Vorschlag für ein Ende des Kriegs macht und die beiden Länder darüber gesprochen haben. Die USA blockieren aber weiter iranische Häfen. Beide Länder sagen, dass der Krieg weitergeht, wenn es keine Einigung gibt.\n\n",
+      "vocab": [
+        {
+          "german": "Waffenruhe, -n (f.)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire, -n (f.)",
+          "id": "1"
+        },
+        {
+          "german": "etwas verlängern",
+          "explanation": "etwas länger machen",
+          "english": "extend a little",
+          "id": "2"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen mehreren Ländern: dabei gibt es viele Tote und Verletzte",
+          "english": "war, -e (m.)",
+          "id": "3"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "etwas sperren: andere können es nicht benutzen oder durch etwas hindurchfahren",
+          "english": "block something",
+          "id": "4"
+        },
+        {
+          "german": "Hafen, Häfen (m.)",
+          "explanation": "ein Ort: hier liegen Schiffe, wenn sie nicht fahren",
+          "english": "harbor, ports (m.)",
+          "id": "5"
+        },
+        {
+          "german": "Einigung, -en (f.)",
+          "explanation": "eine gemeinsame Lösung für einen Streit oder ein Problem",
+          "english": "agreement, -en (f.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Gespräche zwischen Libanon und Israel geplant",
+      "text": "Der französische Präsident Emmanuel Macron und der libanesische Ministerpräsident Nawaf Salam haben sich in Paris getroffen. Sie möchten die fragile Waffenruhe zwischen Israel und der Hisbollah festigen. Macron hat gesagt: Der Libanon kann nur stabil werden, wenn sich Israel aus dem Land zurückzieht. Gespräche zwischen dem Libanon und Israel sind für diese Woche in Washington geplant.\n\n",
+      "vocab": [
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Regierungschef/die Regierungschefin in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "7"
+        },
+        {
+          "german": "fragil",
+          "explanation": "hier: so, dass etwas schnell wieder aufhören kann; so, dass etwas nicht stabil ist und vielleicht nicht lange dauert",
+          "english": "fragile",
+          "id": "8"
+        },
+        {
+          "german": "Waffenruhe, -n (f.)",
+          "explanation": "eine Pause in einem Krieg",
+          "english": "ceasefire, -n (f.)",
+          "id": "9"
+        },
+        {
+          "german": "Hisbollah (f., nur Singular)",
+          "explanation": "eine militärische Gruppe im Libanon: der Iran unterstützt die Gruppe; für viele Länder ist sie eine Terrorgruppe",
+          "english": "Hezbollah (f., only singular)",
+          "id": "10"
+        },
+        {
+          "german": "etwas festigen",
+          "explanation": "machen, dass etwas länger dauert und stabil bleibt",
+          "english": "consolidate something",
+          "id": "11"
+        },
+        {
+          "german": "stabil",
+          "explanation": "so, dass etwas nicht leicht kaputtgeht; hier so, dass etwas politisch sicher ist und sich die Situation nicht schnell verändert",
+          "english": "stable",
+          "id": "12"
+        },
+        {
+          "german": "sich zurück|ziehen",
+          "explanation": "hier: von einem Ort weggehen (oft in einem Krieg oder einem Konflikt)",
+          "english": "to withdraw|withdraw",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Japan: Waffenexporte wieder möglich",
+      "text": "Japans Regierung hat gesagt, dass das Land jetzt wieder tödliche Waffen exportieren will, zum Beispiel Kriegsschiffe oder Raketen. Das hat zu vielen Diskussionen im Land geführt. Auch die Regierung von China ist verärgert. Japan ändert schon seit einiger Zeit seine eigentlich pazifistische Politik.\n\n",
+      "vocab": [
+        {
+          "german": "tödliche Waffe, -n (f.)",
+          "explanation": "ein sehr gefährlicher Gegenstand: er kann Menschen töten",
+          "english": "deadly weapon, -n (f.)",
+          "id": "14"
+        },
+        {
+          "german": "etwas exportieren",
+          "explanation": "etwas an ein anderes Land verkaufen",
+          "english": "export something",
+          "id": "15"
+        },
+        {
+          "german": "Kriegsschiff, -e (n.)",
+          "explanation": "ein Schiff: es hat Waffen, man kann andere damit attackieren oder sich verteidigen",
+          "english": "warship, -e (n.)",
+          "id": "16"
+        },
+        {
+          "german": "Rakete, -n (f.)",
+          "explanation": "hier: ein schnelles Fluggerät: man benutzt es als Waffe in einem Krieg; es fliegt mit großer Kraft sehr weit und kann viel kaputt machen",
+          "english": "rocket, -n (f.)",
+          "id": "17"
+        },
+        {
+          "german": "zu etwas führen",
+          "explanation": "die Folge von etwas sein: etwas passiert, weil vorher etwas anderes passiert ist",
+          "english": "lead to something",
+          "id": "18"
+        },
+        {
+          "german": "verärgert",
+          "explanation": "wütend; so dass man etwas sehr schlecht findet",
+          "english": "upset",
+          "id": "19"
+        },
+        {
+          "german": "pazifistisch",
+          "explanation": "so, dass einem Frieden sehr wichtig ist und man sehr viel dafür tut, dass es keine Kriege gibt",
+          "english": "pacifist",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
