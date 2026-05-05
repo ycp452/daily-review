@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-05-04",
+  "articleLink": "https://learngerman.dw.com/de/04052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77038142",
+  "articles": [
+    {
+      "title": "Gespräche zwischen den USA und dem Iran",
+      "text": "Donald Trump sagt: Die Gespräche mit dem Iran sind gut. Die USA wollen nun Schiffe aus der Straße von Hormus eskortieren. Der Iran erklärt: Er prüft die US‑Antwort auf sein neues Angebot für Friedensgespräche. Vorher hat ein iranischer Vertreter gesagt: Der Iran will den Krieg und die Blockade beenden. Über das Atomprogramm will man später sprechen.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden/etwas eskortieren",
+          "explanation": "neben jemandem oder etwas (hier: einem Schiff) gehen oder fahren, um ihn/sie/es zu schützen",
+          "english": "to escort someone/something",
+          "id": "1"
+        },
+        {
+          "german": "Friedensgespräch, -e (n.)",
+          "explanation": "ein Treffen zwischen Politikerinnen und Politikern: dabei geht es darum, wie ein Krieg zu Ende gehen kann",
+          "english": "peace talk, -e (n.)",
+          "id": "2"
+        },
+        {
+          "german": "Vertreter, -/Vertreterin, -nen",
+          "explanation": "hier: eine Person: sie spricht oder handelt für eine andere Person oder Gruppe oder für ein Land",
+          "english": "Representative",
+          "id": "3"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt zwischen Ländern oder Gruppen mit Waffen",
+          "english": "war, -e (m.)",
+          "id": "4"
+        },
+        {
+          "german": "Blockade, -n (f.)",
+          "explanation": "eine Situation: andere können etwas nicht benutzen oder nicht durch etwas hindurchfahren, weil zum Beispiel jemand den Weg dorthin zumacht",
+          "english": "blockade, -n (f.)",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Friedrich Merz und Donald Trump",
+      "text": "Bundeskanzler Friedrich Merz meint: Er gibt die transatlantischen Beziehungen zu den USA nicht auf. Letzte Woche hat Merz gesagt: Der Iran demütigt Washington bei den Verhandlungen. Donald Trump hat das geärgert. Er hat geantwortet, dass Merz seine Arbeit schlecht macht und dass die USA 5000 US-Soldaten aus Deutschland abziehen wollen.\n\n",
+      "vocab": [
+        {
+          "german": "Bundeskanzler, -/Bundeskanzlerin, -nen",
+          "explanation": "hier: der Regierungschef/die Regierungschefin in Deutschland",
+          "english": "Federal Chancellor, -/Federal Chancellor, -nen",
+          "id": "6"
+        },
+        {
+          "german": "etwas nicht auf|geben",
+          "explanation": "hier: mit etwas nicht aufhören; mit etwas weitermachen; etwas nicht stoppen",
+          "english": "not to give up something",
+          "id": "7"
+        },
+        {
+          "german": "transatlantische Beziehung, -en (f., meist Plural)",
+          "explanation": "ein Kontakt über den Atlantik hinweg, hier: der Kontakt zwischen Deutschland und den USA",
+          "english": "transatlantic relationship, -en (f., mostly plural)",
+          "id": "8"
+        },
+        {
+          "german": "jemanden demütigen",
+          "explanation": "hier: jemanden sehr schlecht oder schwach aussehen lassen",
+          "english": "humiliate someone",
+          "id": "9"
+        },
+        {
+          "german": "Verhandlung, -en (f.)",
+          "explanation": "ein Gespräch mit einem bestimmten Ziel: Personen oder Gruppen wollen so z. B. einen Streit lösen",
+          "english": "negotiation, -en (f.)",
+          "id": "10"
+        },
+        {
+          "german": "Soldat, -en/Soldatin, -nen",
+          "explanation": "eine Person: sie arbeitet beim Militär und soll das Land schützen",
+          "english": "soldier, -en/soldier, -nen",
+          "id": "11"
+        },
+        {
+          "german": "jemanden/etwas ab|ziehen",
+          "explanation": "hier: jemanden oder etwas von einem Ort wegnehmen",
+          "english": "to pull someone/something off",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "WHO: Hantavirus-Fall auf Kreuzfahrtschiff",
+      "text": "Auf einem Kreuzfahrtschiff sind wahrscheinlich drei Menschen am Hantavirus gestorben. Das berichtet die Weltgesundheitsorganisation WHO. Das Schiff ist von Argentinien nach Kap Verde gefahren. Die WHO hat einen Fall bestätigt und untersucht fünf weitere. Menschen können das Virus durch Kontakt mit Urin oder Kot von Nagetieren bekommen.\n\n",
+      "vocab": [
+        {
+          "german": "Hantavirus, -viren (n./m.)",
+          "explanation": "ein Krankheitserreger: er kann Menschen so krank machen, dass sie sterben",
+          "english": "Hantavirus, viruses (n./m.)",
+          "id": "13"
+        },
+        {
+          "german": "Kreuzfahrtschiff, -e (n.)",
+          "explanation": "ein Schiff: auf ihm machen Menschen Urlaub",
+          "english": "cruise ship, -e (n.)",
+          "id": "14"
+        },
+        {
+          "german": "Weltgesundheitsorganisation WHO (f., nur Singular)",
+          "explanation": "eine Organisation: sie kümmert sich um Gesundheitsthemen auf der ganzen Welt",
+          "english": "World Health Organization WHO (f., only singular)",
+          "id": "15"
+        },
+        {
+          "german": "Hantavirus-Fall, -Fälle (m.)",
+          "explanation": "eine Situation: eine Person hat das Hantavirus",
+          "english": "Hantavirus case, cases (m.)",
+          "id": "16"
+        },
+        {
+          "german": "Urin (m., nur Singular)",
+          "explanation": "eine Flüssigkeit: sie kommt aus dem Körper von Menschen und Tieren",
+          "english": "urine (m., only singular)",
+          "id": "17"
+        },
+        {
+          "german": "Kot (m., nur Singular)",
+          "explanation": "eine feste Substanz: sie kommt aus dem Körper von Menschen und Tieren",
+          "english": "feces (m., only singular)",
+          "id": "18"
+        },
+        {
+          "german": "Nagetier, -e (n.)",
+          "explanation": "ein Tier (z. B. eine Maus oder Ratte): es ist meist klein und hat scharfe Zähne",
+          "english": "rodent, -e (n.)",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}

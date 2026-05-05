@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-05-05",
+  "articleLink": "https://learngerman.dw.com/de/05052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77053491",
+  "articles": [
+    {
+      "title": "Neue Spannungen in der Straße von Hormus",
+      "text": "In der Straße von Hormus gibt es neue Spannungen. Die USA sagen: Sie haben zwei US-Handelsschiffe sicher durch die Meerenge geführt. Der Iran berichtet: Er hat Warnschüsse abgefeuert. Der Iran sagt auch: Raketen haben ein US-Kriegsschiff getroffen. Die USA sagen, dass das nicht stimmt.\n\n",
+      "vocab": [
+        {
+          "german": "Spannung, -en (f.)",
+          "explanation": "hier: ein Streit: zwei Seiten (z. B. zwei Länder) haben sehr unterschiedliche Meinungen",
+          "english": "tension, -en (f.)",
+          "id": "1"
+        },
+        {
+          "german": "Handelsschiff, -e (n.)",
+          "explanation": "ein Schiff: es transportiert Waren",
+          "english": "merchant ship, -e (n.)",
+          "id": "2"
+        },
+        {
+          "german": "Meerenge, -n (f.)",
+          "explanation": "eine schmale Stelle im Meer: sie liegt zwischen zwei Ländern oder Teilen von Land",
+          "english": "strait, -n (f.)",
+          "id": "3"
+        },
+        {
+          "german": "jemanden/etwas führen",
+          "explanation": "hier: dabei helfen, dass jemand oder etwas den richtigen Weg findet",
+          "english": "to lead someone/something",
+          "id": "4"
+        },
+        {
+          "german": "einen Warnschuss ab|feuern",
+          "explanation": "mit einer Waffe schießen: der Schuss soll das Ziel aber nicht erreichen",
+          "english": "fire a warning shot",
+          "id": "5"
+        },
+        {
+          "german": "Rakete, -n (f.)",
+          "explanation": "hier: eine Waffe: sie fliegt sehr schnell und kann viel zerstören",
+          "english": "rocket, -n (f.)",
+          "id": "6"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Kampf zwischen Ländern oder Gruppen mit Waffen",
+          "english": "war, -e (m.)",
+          "id": "7"
+        },
+        {
+          "german": "treffen",
+          "explanation": "hier: mit einer Waffe ein Ziel erreichen",
+          "english": "meet",
+          "id": "8"
+        },
+        {
+          "german": "stimmen",
+          "explanation": "richtig sein; wahr sein",
+          "english": "agree",
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "title": "Angriffe auf Ölhafen Fudschaira in den Vereinigten Arabischen Emiraten",
+      "text": "Die Vereinigten Arabischen Emirate berichten: Der Iran hat den Ölhafen Fudschaira mit Drohnen und Raketen angegriffen. Später ist der Ölpreis auf 115 US-Dollar pro Barrel gestiegen. Es ist möglich, dass die Angriffe eine Reaktion auf die Pläne von US-Präsident Donald Trump sind: Er will die Straße von Hormus wieder öffnen.\n\nDrohne, -n (f.) – ein kleines Flugobjekt: es kann selbstständig fliegen; man benutzt es auch im Krieg als Waffe\n\netwas/jemanden an|greifen – hier: mit Waffen gegen etwas oder jemanden kämpfen (Nomen: der Angriff)\n\n",
+      "vocab": [
+        {
+          "german": "Rakete, -n (f.)",
+          "explanation": "hier: eine Waffe: sie fliegt sehr schnell und kann viel zerstören",
+          "english": "rocket, -n (f.)",
+          "id": "10"
+        },
+        {
+          "german": "Barrel, -s (n., aus dem Englischen)",
+          "explanation": "eine Maßeinheit für Erdöl (etwa 159 Liter)",
+          "english": "Barrel, -s (n., from English)",
+          "id": "11"
+        },
+        {
+          "german": "steigen",
+          "explanation": "hier: höher werden; mehr werden",
+          "english": "rise",
+          "id": "12"
+        },
+        {
+          "german": "Reaktion, -en (f.)",
+          "explanation": "eine Antwort: jemand macht etwas, weil vorher etwas passiert ist",
+          "english": "reaction, -en (f.)",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Leipzig: Auto fährt in Fußgängerzone",
+      "text": "In Leipzig ist ein Auto in eine Fußgängerzone gefahren. Zwei Menschen sind gestorben, mehrere sind verletzt. Der Ministerpräsident von Sachsen sagt: Der Mann hat vielleicht psychische Probleme. Die Polizei meint: Es hat wahrscheinlich kein religiöses oder politisches Motiv gegeben.\n\n",
+      "vocab": [
+        {
+          "german": "Fußgängerzone, -n (f.)",
+          "explanation": "eine Straße: auf ihr dürfen keine Autos fahren",
+          "english": "pedestrian zone, -n (f.)",
+          "id": "14"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "hier: der Chef/die Chefin eines Bundeslands (z. B. Sachsen): diese Person leitet dort die Regierung",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "15"
+        },
+        {
+          "german": "psychisch",
+          "explanation": "mental; seelisch",
+          "english": "psychological",
+          "id": "16"
+        },
+        {
+          "german": "religiös",
+          "explanation": "mit der Religion verbunden",
+          "english": "religious",
+          "id": "17"
+        },
+        {
+          "german": "politisch",
+          "explanation": "mit der Politik verbunden",
+          "english": "political",
+          "id": "18"
+        },
+        {
+          "german": "Motiv, -e (n.)",
+          "explanation": "der Grund, warum jemand etwas macht",
+          "english": "motif, -e (n.)",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
