@@ -1,0 +1,120 @@
+{
+  "articleDate": "2026-05-06",
+  "articleLink": "https://learngerman.dw.com/de/06052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77066453",
+  "articles": [
+    {
+      "title": "Straße von Hormus: Pause bei der US-Eskorte von Schiffen",
+      "text": "US-Präsident Donald Trump sagt: Die USA eskortieren in der nächsten Zeit keine Schiffe mehr durch die Straße von Hormus. Er meint, dass diese Pause ein Abkommen mit dem Iran möglich machen soll. Vorher hat Außenminister Marco Rubio erklärt: Die USA haben ihre Offensivoperationen beendet; die Eskorte von Schiffen war nur eine defensive Maßnahme.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden eskortieren, -n (f.)",
+          "explanation": "hier: jemanden oder etwas (z. B. ein Schiff) bei einer Fahrt begleiten: man fährt neben ihm und schützt es so vor Gefahr (Substantiv: die Eskorte)",
+          "english": "to escort someone, -n (f.)",
+          "id": "1"
+        },
+        {
+          "german": "Abkommen, - (n.)",
+          "explanation": "ein Vertrag: mehrere Staaten oder Gruppen vereinbaren, dass sie jetzt etwas tun wollen (z. B. damit ein Konflikt endet)",
+          "english": "agreement, - (n.)",
+          "id": "2"
+        },
+        {
+          "german": "Außenminister, -/Außenministerin, -nen",
+          "explanation": "ein Politiker/eine Politikerin in der Regierung: er/sie kümmert sich um die Beziehungen zu anderen Ländern",
+          "english": "Foreign Minister, -/Foreign Minister, -nen",
+          "id": "3"
+        },
+        {
+          "german": "Offensivoperation, -en (f.)",
+          "explanation": "eine militärische Aktion: man attackiert, man greift jemanden an",
+          "english": "offensive operation, -en (f.)",
+          "id": "4"
+        },
+        {
+          "german": "defensiv Maßnahme, -n (f.)",
+          "explanation": "eine (militärische) die Aktion zur Verteidigung, zum eigenen Schutz, aber nicht zum Angriff",
+          "english": "defensive measure, -n (f.)",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Ostukraine: Neue Angriffe durch Russland kurz vor geplanter Waffenruhe",
+      "text": "Bei russischen Angriffen in der Ostukraine sind mindestens 25 Menschen gestorben. Die Angriffe kamen kurz vor einer Waffenruhe, die die Ukraine ausgerufen hat. Russland hat eine eigene Waffenruhe für den 8. und 9. Mai angekündigt; dann feiert Moskau seinen Sieg im Zweiten Weltkrieg. Kiew ist dagegen und will eine dauerhafte Waffenruhe.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "hier: eine militärische Aktion; die Attacke gegen jemanden/etwas",
+          "english": "attack, -e (m.)",
+          "id": "6"
+        },
+        {
+          "german": "Waffenruhe, -n (f.)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire, -n (f.)",
+          "id": "7"
+        },
+        {
+          "german": "etwas aus|rufen",
+          "explanation": "offiziell sagen, dass etwas ab jetzt so ist oder gültig ist",
+          "english": "to call something out",
+          "id": "8"
+        },
+        {
+          "german": "etwas an|kündigen",
+          "explanation": "sagen, dass etwas in der Zukunft passiert",
+          "english": "to announce|announce something",
+          "id": "9"
+        },
+        {
+          "german": "Sieg, -e (m.)",
+          "explanation": "eine Aktion oder Situation: jemand gewinnt",
+          "english": "victory, -e (m.)",
+          "id": "10"
+        },
+        {
+          "german": "Zweiter Weltkrieg (m., nur Singular)",
+          "explanation": "der große Krieg von 1939 bis 1945; Deutschland hat ihn begonnen und viele Länder auf der ganzen Welt haben gekämpft",
+          "english": "Second World War (m., only singular)",
+          "id": "11"
+        },
+        {
+          "german": "dauerhaft",
+          "explanation": "für lange Zeit; für immer",
+          "english": "permanently",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Kreuzfahrtschiff mit Hantavirus fährt zu Kanarischen Inseln",
+      "text": "Die spanische Regierung möchte dem Kreuzfahrtschiff „Hondius“ erlauben, zu den Kanarischen Inseln zu fahren. Auf dem Schiff ist das Hantavirus ausgebrochen. Der Regierungschef der Kanarischen Inseln ist aber dagegen. Das Schiff liegt aktuell vor Kap Verde. Drei Menschen sind an Bord gestorben.\n\n",
+      "vocab": [
+        {
+          "german": "Kreuzfahrtschiff, -e (n.)",
+          "explanation": "ein Schiff: mit ihm fahren Menschen auf Urlaub meist in verschiedene Länder",
+          "english": "cruise ship, -e (n.)",
+          "id": "13"
+        },
+        {
+          "german": "Hantavirus (n., nur Singular)",
+          "explanation": "ein sehr kleiner Organismus (ein Virus): er kann jemanden sehr krank machen",
+          "english": "Hantavirus (n., only singular)",
+          "id": "14"
+        },
+        {
+          "german": "aus|brechen",
+          "explanation": "hier: eine Krankheit beginnt, entsteht oder erscheint",
+          "english": "break out",
+          "id": "15"
+        },
+        {
+          "german": "an Bord",
+          "explanation": "auf dem Schiff",
+          "english": "on board",
+          "id": "16"
+        }
+      ]
+    }
+  ]
+}
