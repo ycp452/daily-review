@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-05-11",
+  "articleLink": "https://learngerman.dw.com/de/11052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77121252",
+  "articles": [
+    {
+      "title": "Iran reagiert auf US-Vorschlag für Waffenruhe",
+      "text": "Iran hat auf einen Vorschlag der USA für eine Waffenruhe reagiert und eigene Forderungen gestellt. US-Präsident Donald Trump sagt, dass Irans Reaktion nicht akzeptabel ist. Laut Medienberichten will Teheran ein Ende der Sanktionen und eine stärkere Kontrolle über die Straße von Hormus. Die USA wollen dort freien Schiffsverkehr, und ein schwächeres iranisches Atomprogramm.\n\n",
+      "vocab": [
+        {
+          "german": "auf etwas reagieren",
+          "explanation": "etwas sagen oder machen, weil vorher etwas passiert ist (Substantiv: die Reaktion)",
+          "english": "react to something",
+          "id": "1"
+        },
+        {
+          "german": "Waffenruhe (f., hier nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire (f., here only singular)",
+          "id": "2"
+        },
+        {
+          "german": "Forderungen stellen",
+          "explanation": "sagen, dass man etwas will, wenn etwas anderes passieren soll",
+          "english": "make demands",
+          "id": "3"
+        },
+        {
+          "german": "akzeptabel",
+          "explanation": "in Ordnung; so, dass man mit etwas einverstanden sein kann",
+          "english": "acceptable",
+          "id": "4"
+        },
+        {
+          "german": "laut Medienberichten",
+          "explanation": "so, wie z. B. Zeitungen, Radio und Fernsehen berichten oder schreiben",
+          "english": "according to media reports",
+          "id": "5"
+        },
+        {
+          "german": "Sanktion, -en (f.)",
+          "explanation": "hier eine Regel: sie soll negativ für ein anderes Land sein; eine Strafe oder ein Verbot gegen ein Land",
+          "english": "sanction, -en (f.)",
+          "id": "6"
+        },
+        {
+          "german": "Atomprogramm, -e (n.)",
+          "explanation": "der Plan eines Landes: es will Atomenergie für sich nutzen und z. B. auch nukleare Waffen bauen",
+          "english": "Nuclear program, -e (n.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Demonstration in Mexiko-Stadt",
+      "text": "Gestern, am Muttertag, haben in Mexiko-Stadt viele Angehörige von vermissten Menschen demonstriert. Sie sagen, dass die Regierung nicht genug unternimmt und stattdessen zum Beispiel viel Geld für die Fußball-Weltmeisterschaft im Sommer ausgibt. In Mexiko gelten mehr als 130.000 Menschen als vermisst.\n\n",
+      "vocab": [
+        {
+          "german": "Angehörige, -n (m./f.)",
+          "explanation": "Verwandte; die Familie einer Person",
+          "english": "Relatives, -n (m./f.)",
+          "id": "8"
+        },
+        {
+          "german": "vermisst",
+          "explanation": "verschwunden; nicht da: niemand weiß, wo eine Person ist",
+          "english": "missed",
+          "id": "9"
+        },
+        {
+          "german": "demonstrieren",
+          "explanation": "auf die Straße gehen, weil man gegen etwas ist; an einer öffentlichen Veranstaltung (Demonstration) teilnehmen",
+          "english": "demonstrate",
+          "id": "10"
+        },
+        {
+          "german": "stattdessen",
+          "explanation": "so, dass man etwas nicht tut und dafür etwas anderes tut",
+          "english": "instead",
+          "id": "11"
+        },
+        {
+          "german": "Fußball-Weltmeisterschaft, -en (f.)",
+          "explanation": "das größte internationale Fußballturnier: Teams aus allen Ländern der Welt spielen gegeneinander",
+          "english": "Football World Cup, -en (f.)",
+          "id": "12"
+        },
+        {
+          "german": "als etwas gelten",
+          "explanation": "man glaubt, dass etwas so ist",
+          "english": "count as something",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Putin will Schröder als Vermittler",
+      "text": "Russlands Präsident Wladimir Putin hat gesagt, dass der Krieg in der Ukraine bald endet. Außerdem hat er erklärt, dass der frühere deutsche Bundeskanzler Gerhard Schröder bei Friedensverhandlungen vermitteln soll. Die Bundesregierung hat auf den Vorschlag zurückhaltend reagiert. Putin und Schröder sind schon seit vielen Jahren befreundet.\n\nzurückhaltend – nicht sehr begeistert; skeptisch; so, dass jemand etwas nicht besonders gut findet\n\n",
+      "vocab": [
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen mehreren Ländern; dabei gibt es viele Tote und Verletzte",
+          "english": "war, -e (m.)",
+          "id": "14"
+        },
+        {
+          "german": "Friedensverhandlung, -en (f.)",
+          "explanation": "ein Gespräch: man möchte eine Lösung in einem gewaltsamen Konflikt finden; man will einen Krieg beenden",
+          "english": "peace negotiations, -en (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Vermittler, -/Vermittlerin, -nen",
+          "explanation": "hier eine Person: sie hilft, Probleme zwischen anderen zu lösen",
+          "english": "mediator",
+          "id": "16"
+        },
+        {
+          "german": "auf etwas reagieren",
+          "explanation": "etwas sagen oder machen, weil vorher etwas passiert ist",
+          "english": "react to something",
+          "id": "17"
+        },
+        {
+          "german": "befreundet sein",
+          "explanation": "Freunde sein",
+          "english": "be friends",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
