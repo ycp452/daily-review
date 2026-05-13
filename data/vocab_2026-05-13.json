@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-05-13",
+  "articleLink": "https://learngerman.dw.com/de/13052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77145210",
+  "articles": [
+    {
+      "title": "Starmer will nicht zurücktreten",
+      "text": "Der britische Premierminister Keir Starmer hat erklärt, dass er nicht zurücktreten will. Über 80 Abgeordnete seiner Labour-Partei haben ihn dazu aufgefordert. Die Partei hat letzte Woche bei den Kommunalwahlen ein sehr schlechtes Ergebnis erzielt.\n\n",
+      "vocab": [
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -/Prime Minister, -nen",
+          "id": "1"
+        },
+        {
+          "german": "zurück|treten",
+          "explanation": "ein politisches Amt vor dem Ende abgeben; seine politische Arbeit nicht weitermachen; aufhören",
+          "english": "back|step back",
+          "id": "2"
+        },
+        {
+          "german": "Abgeordnete, -n (m./f.)",
+          "explanation": "eine wichtige Person: sie arbeitet im Parlament und trifft Entscheidungen für ein Land",
+          "english": "MPs, -n (m./f.)",
+          "id": "3"
+        },
+        {
+          "german": "Labour-Partei (f., nur Singular)",
+          "explanation": "die sozialdemokratische „Arbeiter“-Partei in Großbritannien",
+          "english": "Labor Party (f., only singular)",
+          "id": "4"
+        },
+        {
+          "german": "jemanden zu etwas auf|fordern",
+          "explanation": "jemandem sagen, dass er etwas machen soll",
+          "english": "to ask someone to do something",
+          "id": "5"
+        },
+        {
+          "german": "Kommunalwahl, -en (f.)",
+          "explanation": "die politische Wahl in den Städten und Gemeinden eines Landes",
+          "english": "local election, -en (f.)",
+          "id": "6"
+        },
+        {
+          "german": "ein schlechtes Ergebnis erzielen",
+          "explanation": "hier: bei einer Wahl wenig Stimmen bekommen",
+          "english": "achieve a bad result",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Trump fliegt nach China",
+      "text": "",
+      "vocab": [
+        {
+          "german": "US-Präsident Donald Trump ist nach China gereist",
+          "explanation": "zum ersten Mal seit 2017. Bei seinem Staatsbesuch trifft sich Trump mit Chinas Präsident Xi Jinping. Die beiden sprechen wahrscheinlich auch über den Krieg im Iran. Trump hat aber vor seiner Reise gesagt: Er kann diesen Krieg auch ohne die Hilfe von China beenden.",
+          "english": "US President Donald Trump traveled to China",
+          "id": "8"
+        },
+        {
+          "german": "Staatsbesuch, -e (m.)",
+          "explanation": "ein offizieller Besuch in einem Land, meistens zwischen Mitgliedern von Regierungen",
+          "english": "State visit, -e (m.)",
+          "id": "9"
+        },
+        {
+          "german": "Präsident, -en/Präsidentin, -nen",
+          "explanation": "der höchste Politiker/die höchste Politikerin in einem Land; der Chef/die Chefin einer Regierung",
+          "english": "President, -en/President, -nen",
+          "id": "10"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; Kämpfe, oft zwischen zwei Ländern",
+          "english": "war, -e (m.)",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Neue Regierung in Ungarn",
+      "text": "In Ungarn hat die neue Regierung offiziell mit ihrer Arbeit begonnen. Damit ist die Regierungszeit von Viktor Orbán zu Ende. Der neue Ministerpräsident Péter Magyar ist Chef einer Mitte-rechts-Regierung. Er will die demokratischen Institutionen im Land wieder stärken. Außerdem möchte er gegen Korruption vorgehen.\n\n",
+      "vocab": [
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "mehrere Politiker und Politikerinnern: sie leiten ein Land",
+          "english": "government, -en (f.)",
+          "id": "12"
+        },
+        {
+          "german": "offiziell",
+          "explanation": "amtlich; so, dass man jetzt etwas auch formal machen darf",
+          "english": "official",
+          "id": "13"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "14"
+        },
+        {
+          "german": "Mitte-rechts-Regierung, -en (f.)",
+          "explanation": "eine Regierung: sie besteht aus Politikerinnen und Politikern der Mitte (sie sind gemäßigt/moderat) und der Rechten (sie sind konservativ und wollen keine großen Veränderungen)",
+          "english": "Center-right government, -en (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Institution, -en (f.)",
+          "explanation": "hier: die Behörde; die staatliche Stelle",
+          "english": "institution, -en (f.)",
+          "id": "16"
+        },
+        {
+          "german": "etwas stärken",
+          "explanation": "etwas besser oder leistungsfähiger machen",
+          "english": "strengthen something",
+          "id": "17"
+        },
+        {
+          "german": "gegen etwas vor|gehen",
+          "explanation": "etwas gegen etwas tun",
+          "english": "to take action against something",
+          "id": "18"
+        },
+        {
+          "german": "Korruption (f., nur Singular)",
+          "explanation": "eine verbotene Handlung: jemand macht etwas für jemand anderen und bekommt dafür etwas, z. B. Geld",
+          "english": "corruption (f., only singular)",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
