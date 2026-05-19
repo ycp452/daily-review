@@ -1,0 +1,168 @@
+{
+  "articleDate": "2026-05-18",
+  "articleLink": "https://learngerman.dw.com/de/18052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77197819",
+  "articles": [
+    {
+      "title": "Russische Angriffe auf die Ukraine",
+      "text": "Die Ukraine sagt: Russland hat in der Nacht mehr als 520 Drohnen und 22 Raketen auf die Zentral- und Südukraine abgefeuert. Mindestens 20 Menschen sind verletzt. Wohnhäuser und andere Gebäude sind beschädigt. Am Sonntag hat die Ukraine die Region Moskau angegriffen.\n\n",
+      "vocab": [
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein Fluggerät: es kann ohne Menschen an Bord durch die Luft fliegen",
+          "english": "drone, -n (f.)",
+          "id": "1"
+        },
+        {
+          "german": "Rakete, -n (f.)",
+          "explanation": "eine Waffe: sie fliegt durch die Luft und explodiert",
+          "english": "rocket, -n (f.)",
+          "id": "2"
+        },
+        {
+          "german": "etwas ab|feuern",
+          "explanation": "etwas schnell durch die Luft schießen",
+          "english": "fire something",
+          "id": "3"
+        },
+        {
+          "german": "Gebäude, - (n.)",
+          "explanation": "das Haus (auch für Läden, Schulen, Behörden usw.)",
+          "english": "building, - (n.)",
+          "id": "4"
+        },
+        {
+          "german": "etwas beschädigen",
+          "explanation": "etwas kaputt machen",
+          "english": "damage something",
+          "id": "5"
+        },
+        {
+          "german": "Region, -en (f.)",
+          "explanation": "hier: ein Teil von einem Land oder ein Gebiet bei einer Stadt",
+          "english": "region, -en (f.)",
+          "id": "6"
+        },
+        {
+          "german": "jemanden/etwas an|greifen",
+          "explanation": "hier: gegen jemanden oder etwas kämpfen (Nomen: der Angriff)",
+          "english": "to attack someone/something",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Vereinigte Arabische Emirate: Drohnenangriff auf Atomkraftwerk",
+      "text": "In den Vereinigten Arabischen Emiraten hat es durch einen Drohnenangriff ein Feuer im einzigen Atomkraftwerk des Landes gegeben. Behörden sagen: Es war ein „unprovozierter Terroranschlag“. Der Angriff ist ein weiterer Rückschritt bei den Friedensbemühungen im Iran-Krieg.\n\n",
+      "vocab": [
+        {
+          "german": "Drohnenangriff, -e (m.)",
+          "explanation": "eine Attacke mit einem kleinen Fluggerät: darin sitzt kein Mensch",
+          "english": "Drone attack, -e (m.)",
+          "id": "8"
+        },
+        {
+          "german": "Feuer, - (n.)",
+          "explanation": "eine Situation: etwas brennt und geht kaputt (z. B. ein Haus)",
+          "english": "fire, - (n.)",
+          "id": "9"
+        },
+        {
+          "german": "Atomkraftwerk, -e (n.)",
+          "explanation": "mehrere Gebäude: dort produziert man Energie aus Kernkraft",
+          "english": "nuclear power plant, -e (n.)",
+          "id": "10"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "das Amt; die staatliche Stelle",
+          "english": "authority, -n (f.)",
+          "id": "11"
+        },
+        {
+          "german": "unprovoziert",
+          "explanation": "ohne Grund; ohne, dass eine andere Person vorher z. B. etwas Schlechtes gemacht hat",
+          "english": "unprovoked",
+          "id": "12"
+        },
+        {
+          "german": "Terroranschlag, -anschläge (m.)",
+          "explanation": "eine Attacke oder Gewalt: sie soll den Menschen Angst machen",
+          "english": "terrorist attack, attacks (m.)",
+          "id": "13"
+        },
+        {
+          "german": "Rückschritt, -e (m.)",
+          "explanation": "eine Bewegung zurück: etwas wird schlechter",
+          "english": "regression, -e (m.)",
+          "id": "14"
+        },
+        {
+          "german": "Friedensbemühung, -en (f.)",
+          "explanation": "Gespräche zwischen Ländern: man will, dass es keinen Krieg mehr gibt",
+          "english": "peace effort, -en (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen: Menschen sterben und werden verletzt",
+          "english": "war, -e (m.)",
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "title": "Ebola-Ausbruch in Uganda und in der Demokratischen Republik Kongo",
+      "text": "Nach dem Ebola-Ausbruch in Uganda und in der Demokratischen Republik Kongo hat die WHO einen internationalen Gesundheitsnotstand ausgerufen. Behörden sagen: Mehr als 85 Menschen sind gestorben. Der Ausbruch ist aber keine Pandemie. Wahrscheinlich sind auch mehrere Menschen aus den USA mit dem neuesten Ebola-Stamm in Kontakt gekommen. Dagegen gibt es keinen Impfstoff.\n\nes gibt einen Impfstoff gegen etwas – es gibt ein Medikament gegen eine Krankheit: man nimmt es und kann so nicht krank werden\n\n",
+      "vocab": [
+        {
+          "german": "Ebola (n., nur Singular)",
+          "explanation": "eine gefährliche Krankheit",
+          "english": "Ebola (n., only singular)",
+          "id": "17"
+        },
+        {
+          "german": "Ausbruch, Ausbrüche (m.)",
+          "explanation": "der Beginn einer Krankheit: viele Menschen werden gleichzeitig krank",
+          "english": "outbreak, outbreaks (m.)",
+          "id": "18"
+        },
+        {
+          "german": "WHO (f., nur Singular)",
+          "explanation": "die Weltgesundheitsorganisation: sie arbeitet in vielen Ländern, hilft bei Krankheiten und informiert die Menschen",
+          "english": "WHO (f., only singular)",
+          "id": "19"
+        },
+        {
+          "german": "einen Gesundheitsnotstand aus|rufen",
+          "explanation": "offiziell sagen, dass es eine besondere Situation gibt: viele Menschen sind krank und man kann die Situation nicht gut kontrollieren",
+          "english": "declare a public health emergency",
+          "id": "20"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "das Amt; die staatliche Stelle",
+          "english": "authority, -n (f.)",
+          "id": "21"
+        },
+        {
+          "german": "Pandemie, -n (f.)",
+          "explanation": "eine Situation. viele Menschen werden auf der ganzen Welt krank",
+          "english": "pandemic, -n (f.)",
+          "id": "22"
+        },
+        {
+          "german": "Stamm, Stämme (m.)",
+          "explanation": "hier: die Variante einer Krankheit; ein bestimmter Typ einer Krankheit",
+          "english": "tribe, tribes (m.)",
+          "id": "23"
+        },
+        {
+          "german": "mit etwas in Kontakt kommen",
+          "explanation": "hier: etwas sehr nah sein oder etwas berühren und deshalb krank werden",
+          "english": "come into contact with something",
+          "id": "24"
+        }
+      ]
+    }
+  ]
+}
