@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-05-22",
+  "articleLink": "https://learngerman.dw.com/de/22052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77252243",
+  "articles": [
+    {
+      "title": "Trump will mehr Soldaten nach Polen schicken",
+      "text": "US-Präsident Donald Trump sagt, dass die USA 5000 zusätzliche Soldaten nach Polen schicken wollen. Das hat er wegen seiner guten Beziehungen zum polnischen Präsidenten Karol Nawrocki beschlossen, sagt er. Trumps Ankündigung passt nicht zu einer Aussage des Pentagon. Denn das hat gesagt: die USA planen, dass es bald weniger US-Soldaten in Europa gibt.\n\n",
+      "vocab": [
+        {
+          "german": "zusätzlich",
+          "explanation": "extra; mehr als geplant",
+          "english": "additionally",
+          "id": "1"
+        },
+        {
+          "german": "Soldat, -en/Soldatin, -nen",
+          "explanation": "eine Person: sie arbeitet beim Militär und soll ihr Land schützen",
+          "english": "soldier, -en/soldier, -nen",
+          "id": "2"
+        },
+        {
+          "german": "Beziehung, -en (f.)",
+          "explanation": "hier: der Kontakt oder die Zusammenarbeit mit einer anderen Person oder einem anderen Land",
+          "english": "relationship, -en (f.)",
+          "id": "3"
+        },
+        {
+          "german": "etwas beschließen",
+          "explanation": "etwas entscheiden; sagen, dass etwas so sein soll",
+          "english": "decide something",
+          "id": "4"
+        },
+        {
+          "german": "Ankündigung, -en (f.)",
+          "explanation": "eine Aussage: man sagt, dass man bald etwas machen will",
+          "english": "announcement, -en (f.)",
+          "id": "5"
+        },
+        {
+          "german": "Aussage, -n (f.)",
+          "explanation": "etwas, das jemand sagt",
+          "english": "statement, -n (f.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Türkisches Gericht: Özgür Özel muss als CHP-Chef gehen",
+      "text": "Ein Gericht in der Türkei hat entschieden, dass der Politiker Özgür Özel nicht mehr Chef der größten türkischen Oppositionspartei CHP sein darf. Daraufhin hat es in Ankara eine Demonstration gegeben. Die Entscheidung ist eine weitere schlechte Nachricht für die Partei. Sie versucht seit Jahren, stärker zu werden und in Wahlen gegen den türkischen Präsidenten Recep Tayyip Erdoğan zu gewinnen.\n\n",
+      "vocab": [
+        {
+          "german": "Gericht, -e (n.)",
+          "explanation": "hier eine Institution: sie sagt, was nach den Gesetzen richtig oder falsch ist",
+          "english": "court, -e (n.)",
+          "id": "7"
+        },
+        {
+          "german": "etwas entscheiden",
+          "explanation": "sagen, dass etwas so ist (Substantiv: die Entscheidung)",
+          "english": "decide something",
+          "id": "8"
+        },
+        {
+          "german": "Oppositionspartei, -en (f.)",
+          "explanation": "eine Partei in einem Parlament: sie gehört nicht zur Regierung",
+          "english": "opposition party, -en (f.)",
+          "id": "9"
+        },
+        {
+          "german": "daraufhin",
+          "explanation": "dann; deshalb",
+          "english": "then",
+          "id": "10"
+        },
+        {
+          "german": "Demonstration, -en (f.)",
+          "explanation": "eine Veranstaltung: man geht zusammen auf die Straße und sagt seine Meinung",
+          "english": "demonstration, -en (f.)",
+          "id": "11"
+        },
+        {
+          "german": "Wahl, -en (f.)",
+          "explanation": "eine politische Veranstaltung: die Menschen wählen eine Partei oder einen Politiker/eine Politikerin",
+          "english": "choice, -en (f.)",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Demonstrationen in Grönland",
+      "text": "In Grönland haben mehrere hundert Menschen gegen die Eröffnung der neuen diplomatischen Vertretung der USA auf der Insel demonstriert. Der grönländische Ministerpräsident Jens-Frederik Nielsen und andere Politiker haben Einladungen zur Eröffnungsfeier in Nuuk abgelehnt und nicht daran teilgenommen. Die Beziehungen zwischen Grönland und den USA sind schwierig, seit die USA gesagt haben, dass sie Grönland kaufen oder annektieren wollen.\n\n",
+      "vocab": [
+        {
+          "german": "gegen etwas demonstrieren",
+          "explanation": "zusammen auf die Straße gehen und sagen, dass man gegen etwas ist",
+          "english": "demonstrate against something",
+          "id": "13"
+        },
+        {
+          "german": "Eröffnung, -en (f.)",
+          "explanation": "hier: eine Veranstaltung: eine neue Institution oder ein neues Geschäft macht auf",
+          "english": "opening, -en (f.)",
+          "id": "14"
+        },
+        {
+          "german": "diplomatische Vertretung, -en (f.)",
+          "explanation": "die Vertretung eines Landes in einem anderen Land, zum Beispiel ein Konsulat oder eine Botschaft",
+          "english": "diplomatic representation, -en (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Regierungschef/die Regierungschefin",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "16"
+        },
+        {
+          "german": "etwas ab|lehnen",
+          "explanation": "Nein zu etwas sagen",
+          "english": "reject something",
+          "id": "17"
+        },
+        {
+          "german": "Beziehung, -en (f.)",
+          "explanation": "hier: der Kontakt oder die Zusammenarbeit mit einer anderen Person oder einem anderen Land",
+          "english": "relationship, -en (f.)",
+          "id": "18"
+        },
+        {
+          "german": "etwas annektieren",
+          "explanation": "sich ein Land oder ein Teil von einem Land nehmen und sagen, dass es jetzt zu dem eigenen Land gehört",
+          "english": "annex something",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
