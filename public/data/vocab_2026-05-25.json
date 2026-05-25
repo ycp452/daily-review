@@ -1,0 +1,144 @@
+{
+  "articleDate": "2026-05-25",
+  "articleLink": "https://learngerman.dw.com/de/25052026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77286970",
+  "articles": [
+    {
+      "title": "Ankara: Polizei stürmt Büros der türkischen Oppositionspartei CHP",
+      "text": "Die Polizei in Ankara hat die Büros der größten türkischen Oppositionspartei CHP unter anderem mit Tränengas gestürmt. In den Büros waren der frühere Parteichef Özgür Özel und einige seiner Parteianhänger. Sie haben sich drei Tage lang dort verschanzt, weil ein türkisches Gericht letzte Woche gesagt hat: Özels Wahl zum Parteichef von 2023 ist ungültig. Danach hat es große Proteste von Özel und seinen Anhängern gegeben.\n\nGericht, -e (n.) – hier: eine Institution: sie sagt, was nach den Gesetzen richtig oder falsch ist\n\nProtest, -e (m.) – eine Aktion: Menschen gehen auf die Straße, weil sie gegen etwas sind\n\n",
+      "vocab": [
+        {
+          "german": "Oppositionspartei, -en (f.)",
+          "explanation": "eine Partei in einem Parlament: sie gehört nicht zur Regierung",
+          "english": "opposition party, -en (f.)",
+          "id": "1"
+        },
+        {
+          "german": "Tränengas (n., nur Singular)",
+          "explanation": "eine Substanz: man kann nicht mehr richtig sehen, wenn man sie in die Augen bekommt, und muss stark husten, wenn man sie einatmet",
+          "english": "tear gas (n., only singular)",
+          "id": "2"
+        },
+        {
+          "german": "etwas stürmen",
+          "explanation": "hier: schnell und mit Gewalt in einen Ort hineingehen",
+          "english": "storm something",
+          "id": "3"
+        },
+        {
+          "german": "Parteianhänger, -/Parteianhängerin, -nen",
+          "explanation": "eine Person: sie findet eine politische Gruppe gut und unterstützt sie",
+          "english": "Party supporter, -/party supporter, -nen",
+          "id": "4"
+        },
+        {
+          "german": "sich verschanzen",
+          "explanation": "sich an einem Ort verstecken oder einschließen, weil man nicht will, dass andere einen sehen oder erreichen",
+          "english": "to entrench oneself",
+          "id": "5"
+        },
+        {
+          "german": "Wahl, -en (f.)",
+          "explanation": "hier: eine Entscheidung: eine Gruppe stimmt über etwas ab; hier auch: eine Gruppe sagt, wer der neue Chef/die neue Chefin von etwas sein soll",
+          "english": "choice, -en (f.)",
+          "id": "6"
+        },
+        {
+          "german": "ungültig",
+          "explanation": "hier: so, dass ein Gericht sagt: etwas war nicht richtig und gilt deshalb nicht mehr",
+          "english": "invalid",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Gespräche zwischen den USA und dem Iran",
+      "text": "US-Medien berichten, dass die USA und der Iran sich grundsätzlich geeinigt haben: Die Straße von Hormus möchte man wieder öffnen. Außerdem soll der Iran kein hochangereichertes Uran mehr haben dürfen. Donald Trump hat aber auch gesagt, dass man bei den Verhandlungen nicht zu schnell sein soll. Auf Truth Social hat er geschrieben: wenn er einen Deal macht, wird er gut und angemessen sein.\n\nVerhandlung, -en (f.) – hier: ein Gespräch mit einem bestimmten Ziel; Personen oder Gruppen wollen so z. B. einen Streit lösen\n\n",
+      "vocab": [
+        {
+          "german": "Medien (nur Plural)",
+          "explanation": "hier: Zeitungen, Fernsehen, Radio und Internet",
+          "english": "Media (plural only)",
+          "id": "8"
+        },
+        {
+          "german": "sich grundsätzlich einigen",
+          "explanation": "so lange diskutieren, bis alle mit den wichtigsten Punkten eines Vorschlags einverstanden sind",
+          "english": "agree in principle",
+          "id": "9"
+        },
+        {
+          "german": "Straße von Hormus (f., nur Singular)",
+          "explanation": "ein schmaler Wasserweg zwischen dem Iran und der arabischen Halbinsel",
+          "english": "Strait of Hormuz (f., only singular)",
+          "id": "10"
+        },
+        {
+          "german": "hochangereichtes Uran (n., nur Singular)",
+          "explanation": "ein radioaktives Metall: es ist so bearbeitet, dass es eine starke Wirkung hat und sehr gefährlich ist; es kann z. B. als Waffe benutzt werden",
+          "english": "highly enriched uranium (n., only singular)",
+          "id": "11"
+        },
+        {
+          "german": "Deal, -s (m.)",
+          "explanation": "hier: eine Vereinbarung oder ein Geschäft zwischen zwei Seiten; alle sagen Ja zu bestimmten Regeln oder Bedingungen",
+          "english": "deal, -s (m.)",
+          "id": "12"
+        },
+        {
+          "german": "angemessen",
+          "explanation": "hier: passend; richtig für eine Situation",
+          "english": "appropriate",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Erfolgreicher Start des chinesischen Raumschiffs Shenzhou 23",
+      "text": "China hat erfolgreich ein Raumschiff mit zwei Astronauten und einer Astronautin an Bord gestartet. Das Raumschiff Shenzhou 23 hat die Raumstation Tiangong am Montagmorgen erreicht. Einer der drei Astronauten soll dort ein ganzes Jahr im Weltraum bleiben. Damit möchte China sich auf eine erste bemannte Mondlandung bis zum Jahr 2030 vorbereiten.\n\n",
+      "vocab": [
+        {
+          "german": "erfolgreich",
+          "explanation": "so, dass etwas gut klappt oder ein gutes Ergebnis hat",
+          "english": "successful",
+          "id": "14"
+        },
+        {
+          "german": "Raumschiff, -e (n.)",
+          "explanation": "ein Fluggerät: damit reisen zum Beispiel Menschen ins Weltall",
+          "english": "spaceship, -e (n.)",
+          "id": "15"
+        },
+        {
+          "german": "Astronaut, -en/Astronautin, -nen",
+          "explanation": "eine Person: sie fliegt ins Weltall; der Raumfahrer/die Raumfahrerin",
+          "english": "Astronaut, -en/astronaut, -nen",
+          "id": "16"
+        },
+        {
+          "german": "an Bord",
+          "explanation": "in einem Fahrzeug; hier: in einem Raumschiff",
+          "english": "on board",
+          "id": "17"
+        },
+        {
+          "german": "Raumstation, -en (f.)",
+          "explanation": "eine Forschungsstation im Weltraum: hier leben und forschen Astronautinnen und Astronauten",
+          "english": "space station, -en (f.)",
+          "id": "18"
+        },
+        {
+          "german": "Weltraum (m., nur Singular)",
+          "explanation": "der Raum außerhalb der Erde und ihrer Atmosphäre",
+          "english": "Space (m., only singular)",
+          "id": "19"
+        },
+        {
+          "german": "bemannte Mondlandung, -en (f.)",
+          "explanation": "hier: das Ankommen von Menschen auf dem Mond",
+          "english": "manned moon landing, -en (f.)",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
