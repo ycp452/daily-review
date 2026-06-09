@@ -1,0 +1,120 @@
+{
+  "articleDate": "2026-06-09",
+  "articleLink": "https://learngerman.dw.com/de/09062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77474741",
+  "articles": [
+    {
+      "title": "Deutschland und Frankreich beenden Kampfflugzeug-Projekt",
+      "text": "Deutschland und Frankreich haben erklärt, dass sie das gemeinsame Kampfflugzeug-Projekt FCAS beenden wollen. Eigentlich wollten die beiden Länder zusammen eine neue Generation von Kampfflugzeugen bauen und so ältere Flugzeuge ersetzen. Sie haben das Projekt seit Jahren geplant, doch die beteiligten Unternehmen konnten sich nicht auf eine genaue Aufteilung der Aufgaben einigen.\n\nKampfflugzeug, -e (n.)  –  hier ein Flugzeug: es kann in einem Konflikt oder Krieg aus der Luft attackieren\n\n",
+      "vocab": [
+        {
+          "german": "Generation, -en (f.)",
+          "explanation": "hier: eine Gruppe von gleichen Gegenständen: man baut sie so lange, bis sich die Technik verändert",
+          "english": "generation, -en (f.)",
+          "id": "1"
+        },
+        {
+          "german": "etwas ersetzen",
+          "explanation": "hier: etwas nicht mehr benutzen und dafür etwas anderes nehmen",
+          "english": "replace something",
+          "id": "2"
+        },
+        {
+          "german": "beteiligt",
+          "explanation": "so, dass man dabei ist oder bei etwas mitmacht",
+          "english": "involved",
+          "id": "3"
+        },
+        {
+          "german": "sich auf etwas einigen",
+          "explanation": "so lange diskutieren, bis alle mit einem Vorschlag einverstanden sind",
+          "english": "agree on something",
+          "id": "4"
+        },
+        {
+          "german": "Aufteilung, -en (f.)",
+          "explanation": "hier: die Entscheidung, wer bei einem Projekt welche Aufgaben bekommt",
+          "english": "division, -en (f.)",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Israel warnt den Iran",
+      "text": "Der israelische Premierminister Benjamin Netanjahu hat gesagt, dass Israel zurückschlägt, wenn der Iran Israel weiter provoziert. Vorher haben sich der Iran und Israel zum ersten Mal seit zwei Monaten wieder gegenseitig angegriffen. US-Präsident Donald Trump hat zur Zurückhaltung aufgerufen. Auch der libanesische Präsident Joseph Aoun hat in einem Interview gesagt, dass Israel diplomatische Gespräche führen soll und keinen Krieg.\n\n",
+      "vocab": [
+        {
+          "german": "zurück|schlagen",
+          "explanation": "hier: mit Gewalt auf Gewalt antworten/reagieren",
+          "english": "hit back",
+          "id": "6"
+        },
+        {
+          "german": "provozieren",
+          "explanation": "hier: etwas Schlechtes tun, damit jemand darauf reagiert, z.B. mit Gewalt",
+          "english": "provoke",
+          "id": "7"
+        },
+        {
+          "german": "sich gegenseitig an|greifen",
+          "explanation": "hier: einander mit Waffen attackieren: beide Seiten kämpfen gegeneinander",
+          "english": "attack each other",
+          "id": "8"
+        },
+        {
+          "german": "zur Zurückhaltung auf|rufen",
+          "explanation": "hier: sagen, dass man ruhig bleiben sollen und nicht sofort Gewalt oder Waffen benutzen soll",
+          "english": "call for restraint",
+          "id": "9"
+        },
+        {
+          "german": "diplomatische Gespräche führen",
+          "explanation": "hier: offiziell miteinander sprechen, um sich zu einigen und einen Konflikt (ohne Waffen) zu lösen",
+          "english": "conduct diplomatic talks",
+          "id": "10"
+        },
+        {
+          "german": "Krieg führen",
+          "explanation": "mit Militär / mit der Armee gegen andere Staaten oder Gruppen kämpfen",
+          "english": "wage war",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Staatsbesuch von Xi Jinping in Nordkorea",
+      "text": "Chinas Präsident Xi Jinping besucht zum ersten Mal seit 2019 Nordkorea und trifft dort den Staatschef Kim Jong Un. Es ist erst Xis zweiter Staatsbesuch in Nordkorea. Xi will mit seinem Besuch wahrscheinlich die Beziehungen zwischen den beiden Ländern wieder stärken und so etwas gegen die Annäherung Nordkoreas an Russland tun.\n\n",
+      "vocab": [
+        {
+          "german": "Staatschef, -s/ Staatschefin, -nen",
+          "explanation": "die wichtigste politische Person in einem Land",
+          "english": "Head of state, -s/head of state, -nen",
+          "id": "12"
+        },
+        {
+          "german": "Staatsbesuch, -e (m.)",
+          "explanation": "ein offizieller Besuch von einem Staatschef in einem anderen Land",
+          "english": "State visit, -e (m.)",
+          "id": "13"
+        },
+        {
+          "german": "Beziehung, -en (f.)",
+          "explanation": "hier: der Kontakt oder die Zusammenarbeit mit einer anderen Person oder einem anderen Land",
+          "english": "relationship, -en (f.)",
+          "id": "14"
+        },
+        {
+          "german": "etwas stärken",
+          "explanation": "etwas besser oder enger machen",
+          "english": "strengthen something",
+          "id": "15"
+        },
+        {
+          "german": "Annäherung, -en (f.)",
+          "explanation": "hier: die bessere und engere politische und wirtschaftliche Zusammenarbeit mit jemandem",
+          "english": "approach, -en (f.)",
+          "id": "16"
+        }
+      ]
+    }
+  ]
+}
