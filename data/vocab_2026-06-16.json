@@ -1,0 +1,108 @@
+{
+  "articleDate": "2026-06-16",
+  "articleLink": "https://learngerman.dw.com/de/16062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77577836",
+  "articles": [
+    {
+      "title": "Wolodymyr Selenskyj bei G7-Treffen",
+      "text": "Im französischen Évian hat das G7-Treffen begonnen. Auch US-Präsident Donald Trump nimmt daran teil. Wichtige Themen sind das mögliche Ende des Iran-Konflikts und der anhaltende Krieg in der Ukraine. Der ukrainische Präsident Wolodymyr Selenskyj nimmt auch an den Gesprächen teil.\n\n",
+      "vocab": [
+        {
+          "german": "G7 (nur Plural)",
+          "explanation": "sieben wichtige Industriestaaten: sie arbeiten zusammen",
+          "english": "G7 (plural only)",
+          "id": "1"
+        },
+        {
+          "german": "Konflikt, -e (m.)",
+          "explanation": "ein Streit oder ein Krieg",
+          "english": "conflict, -e (m.)",
+          "id": "2"
+        },
+        {
+          "german": "anhaltend",
+          "explanation": "so, dass etwas noch nicht zu Ende ist",
+          "english": "persistent",
+          "id": "3"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen",
+          "english": "war, -e (m.)",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "title": "Abkommen zwischen USA und Iran am Freitag möglich",
+      "text": "Die USA und der Iran wollen am Freitag ein Abkommen für eine 60-tägige Waffenruhe unterschreiben. In dieser Zeit wollen die beiden Länder über wichtige Punkte sprechen, zum Beispiel über ein mögliches Ende von Sanktionen. US-Präsident Donald Trump hat gesagt: Die Straße von Hormus soll bis Freitag wieder offen sein.\n\n...-tägig – … Tage lang\n\n",
+      "vocab": [
+        {
+          "german": "Abkommen, - (n.)",
+          "explanation": "ein Vertrag zwischen Ländern",
+          "english": "agreement, - (n.)",
+          "id": "5"
+        },
+        {
+          "german": "Waffenruhe, -n (f.)",
+          "explanation": "eine Pause in einem Krieg: es gibt in dieser Zeit keine Kämpfe",
+          "english": "ceasefire, -n (f.)",
+          "id": "6"
+        },
+        {
+          "german": "Sanktion, -en (f.)",
+          "explanation": "eine Strafe gegen ein Land: ein Staat kauft keine Produkte mehr aus dem Land oder verkauft nichts mehr dorthin",
+          "english": "sanction, -en (f.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "USA: Absturz eines Militärflugzeugs",
+      "text": "In den USA ist ein B-52-Bomber abgestürzt. Alle acht Menschen an Bord sind gestorben. Das Flugzeug ist kurz nach dem Start von einem Stützpunkt der US-Luftwaffe in Kalifornien abgestürzt. Die Ursache ist noch nicht bekannt. Die Untersuchung des Absturzes kann mehrere Monate dauern.\n\n",
+      "vocab": [
+        {
+          "german": "Bomber, - (m.)",
+          "explanation": "ein Militärflugzeug: es kann im Krieg Bomben abwerfen",
+          "english": "bomber, - (m.)",
+          "id": "8"
+        },
+        {
+          "german": "ab|stürzen",
+          "explanation": "vom Himmel auf den Boden fallen (Nomen: der Absturz)",
+          "english": "crash|crash",
+          "id": "9"
+        },
+        {
+          "german": "an Bord",
+          "explanation": "in einem Flugzeug oder in einem Schiff",
+          "english": "on board",
+          "id": "10"
+        },
+        {
+          "german": "Stützpunkt, -e (m.)",
+          "explanation": "ein Ort des Militärs: dort arbeiten Soldaten und es gibt Waffen",
+          "english": "base, -e (m.)",
+          "id": "11"
+        },
+        {
+          "german": "Luftwaffe, -n (f., Plural selten)",
+          "explanation": "ein Teil des Militärs: Soldatinnen und Soldaten kämpfen im Krieg mit Flugzeugen",
+          "english": "Luftwaffe, -n (f., plural rarely)",
+          "id": "12"
+        },
+        {
+          "german": "Ursache, -n (f.)",
+          "explanation": "der Grund, warum etwas passiert ist",
+          "english": "cause, -n (f.)",
+          "id": "13"
+        },
+        {
+          "german": "Untersuchung, -en (f.)",
+          "explanation": "die Prüfung: man sieht sich etwas sehr genau an, weil man es verstehen möchte",
+          "english": "investigation, -en (f.)",
+          "id": "14"
+        }
+      ]
+    }
+  ]
+}
