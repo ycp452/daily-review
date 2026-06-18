@@ -1,0 +1,114 @@
+{
+  "articleDate": "2026-04-23",
+  "articleLink": "https://learngerman.dw.com/de/23042026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-76908008",
+  "articles": [
+    {
+      "title": "EU-Kredit für die Ukraine",
+      "text": "Die EU will der Ukraine einen Hilfskredit von 90 Milliarden Euro geben. Ungarn war lange dagegen gewesen. Doch die Ukraine hat eine Pipeline repariert, die russisches Öl nach Ungarn bringt. Nun ist Ungarn mit der Kreditvergabe einverstanden.\n\n",
+      "vocab": [
+        {
+          "german": "Hilfskredit, -e (m.)",
+          "explanation": "das Geld: man leiht es einem Land, weil man ihm helfen will",
+          "english": "Relief loan, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "Milliarde, -n (f.)",
+          "explanation": "1.000.000.000",
+          "english": "billion, -n (f.)",
+          "id": "2"
+        },
+        {
+          "german": "gegen etwas sein",
+          "explanation": "mit etwas nicht einverstanden sein",
+          "english": "be against something",
+          "id": "3"
+        },
+        {
+          "german": "Pipeline, -s (f., aus dem Englischen)",
+          "explanation": "ein Rohr, durch das man eine Flüssigkeit von einem Ort zu einem anderen bringen kann, zum Beispiel Öl oder flüssiges Gas",
+          "english": "pipeline, -s (f., from English)",
+          "id": "4"
+        },
+        {
+          "german": "Vergabe, -n (f.)",
+          "explanation": "das Geben",
+          "english": "award, -n (f.)",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Waffenruhe im Iran",
+      "text": "Die Waffenruhe im Iran-Krieg ist zunächst für einige Tage verlängert. Der Iran soll jetzt neue Vorschläge für ein Ende des Konflikts machen, sagt US-Präsident Donald Trump. Der iranische Präsident schreibt aber, dass die US-Blockade der iranischen Häfen die Gespräche mit den USA stört.\n\n",
+      "vocab": [
+        {
+          "german": "Waffenruhe, -n (f.)",
+          "explanation": "eine Pause in einem Krieg",
+          "english": "ceasefire, -n (f.)",
+          "id": "6"
+        },
+        {
+          "german": "zunächst",
+          "explanation": "für einige Zeit; erst mal",
+          "english": "initially",
+          "id": "7"
+        },
+        {
+          "german": "etwas verlängern",
+          "explanation": "etwas länger machen",
+          "english": "extend a little",
+          "id": "8"
+        },
+        {
+          "german": "Blockade, -n (f.)",
+          "explanation": "eine Sperrung: andere können etwas nicht benutzen oder durch etwas hindurchfahren",
+          "english": "blockade, -n (f.)",
+          "id": "9"
+        },
+        {
+          "german": "Hafen, Häfen (m.)",
+          "explanation": "ein Ort: hier liegen Schiffe, wenn sie nicht fahren",
+          "english": "harbor, ports (m.)",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "title": "Libanesische Journalistin getötet",
+      "text": "Im Südlibanon ist eine bekannte libanesische Journalistin bei einem israelischen Luftangriff gestorben. Amal Khalil hat für die libanesische Zeitung „Al Akhbar“ über den Krieg zwischen Israel und der Hisbollah berichtet. Sie ist die vierte Medienmitarbeiterin, die seit März im Libanon getötet wurde.\n\n",
+      "vocab": [
+        {
+          "german": "Luftangriff, -e (m.)",
+          "explanation": "eine Attacke mit Flugzeugen und Bomben; die Gewalt aus der Luft",
+          "english": "air raid, -e (m.)",
+          "id": "11"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen mehreren Ländern: dabei gibt es viele Tote und Verletzte",
+          "english": "war, -e (m.)",
+          "id": "12"
+        },
+        {
+          "german": "Hisbollah (f., nur Singular)",
+          "explanation": "eine militärische Gruppe im Libanon: der Iran unterstützt die Gruppe; für viele Länder ist sie eine Terrorgruppe",
+          "english": "Hezbollah (f., only singular)",
+          "id": "13"
+        },
+        {
+          "german": "Medienmitarbeiter, -/Medienmitarbeiterin, -nen",
+          "explanation": "eine Person: sie produziert zum Beispiel Texte oder Videos für Zeitungen, Fernsehen oder Internet-Medien",
+          "english": "Media employee/media employee",
+          "id": "14"
+        },
+        {
+          "german": "getötet werden",
+          "explanation": "durch Gewalt sterben",
+          "english": "be killed",
+          "id": "15"
+        }
+      ]
+    }
+  ]
+}
