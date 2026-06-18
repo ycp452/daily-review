@@ -1,0 +1,126 @@
+{
+  "articleDate": "2026-06-15",
+  "articleLink": "https://learngerman.dw.com/de/15062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77562243",
+  "articles": [
+    {
+      "title": "Abkommen zwischen USA und Iran",
+      "text": "Der pakistanische Premierminister Shehbaz Sharif schreibt, dass sich die USA und der Iran auf ein Friedensabkommen geeinigt haben. Es soll alle militärischen Operationen – auch die im Libanon – sofort beenden. Die USA und der Iran haben das Abkommen bestätigt. US-Präsident Donald Trump sagt, dass er die Straße von Hormus wieder öffnen will.\n\n",
+      "vocab": [
+        {
+          "german": "sich auf etwas einigen",
+          "explanation": "eine gemeinsame Lösung finden",
+          "english": "agree on something",
+          "id": "1"
+        },
+        {
+          "german": "Friedensabkommen, - (n.)",
+          "explanation": "ein Vertrag: er beendet einen Krieg",
+          "english": "peace agreement, - (n.)",
+          "id": "2"
+        },
+        {
+          "german": "militärische Operation, -en (f.)",
+          "explanation": "eine Aktion in einem Krieg; Waffengewalt",
+          "english": "military operation, -en (f.)",
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "title": "Demonstration in Genf",
+      "text": "In Genf hat es am Sonntag bei einer großen Demonstration gegen das G7-Treffen auch Ausschreitungen gegeben. Einige Demonstrierende haben Steine, Flaschen und Feuerwerkskörper geworfen und die Polizei hat Tränengas eingesetzt. Das Treffen der G7 beginnt an diesem Montag im französischen Évian.\n\n",
+      "vocab": [
+        {
+          "german": "Demonstration, -en (f.)",
+          "explanation": "eine Veranstaltung: man geht zusammen auf die Straße und sagt seine Meinung (Verb: für/gegen etwas demonstrieren)",
+          "english": "demonstration, -en (f.)",
+          "id": "4"
+        },
+        {
+          "german": "G7",
+          "explanation": "die sieben reichsten Staaten der Welt",
+          "english": "G7",
+          "id": "5"
+        },
+        {
+          "german": "Ausschreitung, -en (f., meist Plural)",
+          "explanation": "hier: Gewalt bei einer Demonstration",
+          "english": "riot, -en (f., usually plural)",
+          "id": "6"
+        },
+        {
+          "german": "Stein, -e (m.)",
+          "explanation": "ein schwerer Gegenstand aus einem natürlichen, mineralischen Material",
+          "english": "stone, -e (m.)",
+          "id": "7"
+        },
+        {
+          "german": "Feuerwerkskörper, - (m.)",
+          "explanation": "ein Gegenstand für ein Feuerwerk: man bringt ihn mit Feuer zum Explodieren, zum Beispiel eine Rakete",
+          "english": "fireworks, - (m.)",
+          "id": "8"
+        },
+        {
+          "german": "etwas werfen",
+          "explanation": "etwas mit der Hand durch die Luft fliegen lassen",
+          "english": "throw something",
+          "id": "9"
+        },
+        {
+          "german": "Tränengas (n., nur Singular)",
+          "explanation": "ein aggressives chemisches Mittel: Wenn man es ins Gesicht bekommt, kann man schlecht sehen und atmen",
+          "english": "tear gas (n., only singular)",
+          "id": "10"
+        },
+        {
+          "german": "etwas ein|setzen",
+          "explanation": "hier: etwas benutzen",
+          "english": "to put something in",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Schweiz: Nein zu 10-Millionen-Grenze",
+      "text": "In der Schweiz haben die Menschen gegen den Vorschlag gestimmt, dass die Zahl der Einwohner nicht höher als 10 Millionen sein darf. Bei einer Volksabstimmung am Wochenende wählten 55 Prozent „Nein“. Die Abstimmung steht im Zusammenhang mit einer Debatte über die Einwanderung in das reiche Land.\n\n",
+      "vocab": [
+        {
+          "german": "gegen etwas stimmen",
+          "explanation": "zu etwas, z. B. einem Vorschlag, „Nein“ sagen",
+          "english": "vote against something",
+          "id": "12"
+        },
+        {
+          "german": "Einwohner, -/Einwohnerin, -nen",
+          "explanation": "alle Menschen, die offiziell in einer Stadt/einem Land wohnen",
+          "english": "residents",
+          "id": "13"
+        },
+        {
+          "german": "Volksabstimmung, -en (f.)",
+          "explanation": "eine politische Veranstaltung: die Menschen wählen, ob sie für oder gegen einen Vorschlag sind",
+          "english": "referendum, -en (f.)",
+          "id": "14"
+        },
+        {
+          "german": "im Zusammenhang mit etwas stehen",
+          "explanation": "mit etwas zu tun haben",
+          "english": "are related to something",
+          "id": "15"
+        },
+        {
+          "german": "Debatte, -n (f.)",
+          "explanation": "die Diskussion",
+          "english": "debate, -n (f.)",
+          "id": "16"
+        },
+        {
+          "german": "Einwanderung (f., nur Singular)",
+          "explanation": "die Migration in ein Land: Menschen kommen aus anderen Ländern und ziehen in das Land",
+          "english": "Immigration (f., only singular)",
+          "id": "17"
+        }
+      ]
+    }
+  ]
+}
