@@ -16,48 +16,58 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from deep_translator import GoogleTranslator
 
-# GraphQL Endpoint
-GRAPHQL_URL = "https://learngerman.dw.com/graphql"
+# Helper functions
+def parse_apollo_state(html):
+    """
+    Extract and parse the serialized Apollo client state from the HTML.
+    """
+    match = re.search(r'window\.__APOLLO_STATE__\s*=\s*(.*?);?\s*</script>', html, re.DOTALL)
+    if not match:
+        return None
+    state_str = match.group(1).strip()
+    if state_str.endswith(';'):
+        state_str = state_str[:-1].strip()
+        
+    if state_str.startswith('JSON.parse('):
+        inner_match = re.search(r'JSON\.parse\((["\'])(.*?)\1\)', state_str, re.DOTALL)
+        if inner_match:
+            encoded_str = inner_match.group(2)
+            import codecs
+            decoded_bytes = codecs.escape_decode(bytes(encoded_str, "utf-8"))[0]
+            decoded_str = decoded_bytes.decode("utf-8")
+            return json.loads(decoded_str)
+    return json.loads(state_str)
 
 def find_article_info(target_date_str):
     """
-    Query DW GraphQL API for the list of articles and find the one for the target date.
+    Fetch the main "Kurz und leicht" page and parse the HTML to find the article for the target date.
     Returns (article_id, article_url)
     """
     dt = datetime.strptime(target_date_str, "%Y-%m-%d")
     german_date = dt.strftime("%d.%m.%Y")
+    german_date_compact = dt.strftime("%d%m%Y") # DDMMYYYY
     
-    # NavigationPage query for "Kurz und leicht" (ID 69137519)
-    payload = {
-        "operationName": "NavigationPage",
-        "variables": {"id": 69137519, "lang": "GERMAN", "appName": "mdl"},
-        "extensions": {
-            "persistedQuery": {
-                "version": 1,
-                "sha256Hash": "3bccea8245c77674dae89b7effc401b1173aecc7c853e45af0398639d7f95aca"
-            }
-        }
+    url = "https://learngerman.dw.com/de/kurz-und-leicht/s-69137519"
+    print(f"Fetching article list from DW page for {german_date}...")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
-    
-    print(f"Fetching article list from DW API for {german_date}...")
-    headers = {"Content-Type": "application/json"}
-    response = requests.post(GRAPHQL_URL, json=payload, headers=headers)
-    if response.status_code != 200:
-        print(f"API Error: {response.status_code} - {response.text}")
-        return None, None
-        
-    data = response.json()
     try:
-        spaces = data["data"]["content"]["contentComposition"]["informationSpaces"]
-        for space in spaces:
-            for component in space["compositionComponents"]:
-                if component.get("type") == "LG_FORMAT" and "contents" in component:
-                    for item in component["contents"]:
-                        name = item.get("name", "")
-                        if german_date in name:
-                            return item["id"], "https://learngerman.dw.com" + item["namedUrl"]
-    except (KeyError, TypeError) as e:
-        print(f"Error parsing API response: {e}")
+        response = requests.get(url, headers=headers)
+        if response.status_code != 200:
+            print(f"Page Fetch Error: {response.status_code}")
+            return None, None
+            
+        soup = BeautifulSoup(response.text, "html.parser")
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if f"/{german_date_compact}-" in href:
+                article_id = extract_id_from_url(href)
+                if article_id:
+                    full_url = "https://learngerman.dw.com" + href
+                    return article_id, full_url
+    except Exception as e:
+        print(f"Error finding article info: {e}")
         
     return None, None
 
@@ -83,27 +93,29 @@ def extract_date_from_url(url):
 
 def extract_article_data(article_id):
     """
-    Query DW GraphQL API for article content and extract multiple sub-articles with their text and vocab.
+    Fetch the article page directly and parse its __APOLLO_STATE__ to extract multiple sub-articles with their text and vocab.
     """
-    payload = {
-        "operationName": "ContentPage",
-        "variables": {"id": int(article_id), "lang": "GERMAN", "appName": "mdl"},
-        "extensions": {
-            "persistedQuery": {
-                "version": 1,
-                "sha256Hash": "4cc3b5f1ab3c69812cb6a6bc7a16fd7f4463e8e67358f8feb4653d97052571ea"
-            }
-        }
-    }
-    
+    article_url = f"https://learngerman.dw.com/de/a-{article_id}"
     print(f"Fetching article content for ID {article_id}...")
-    headers = {"Content-Type": "application/json"}
-    response = requests.post(GRAPHQL_URL, json=payload, headers=headers)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    response = requests.get(article_url, headers=headers)
     if response.status_code != 200:
+        print(f"Error fetching article page: {response.status_code}")
         return []
 
-    data = response.json()
-    html_content = data.get("data", {}).get("content", {}).get("text", "")
+    state = parse_apollo_state(response.text)
+    if not state:
+        print("Error parsing Apollo state from article page.")
+        return []
+        
+    article_key = f"Article:{article_id}"
+    if article_key not in state:
+        print(f"Error: {article_key} not found in Apollo state.")
+        return []
+        
+    html_content = state[article_key].get("text", "")
     if not html_content:
         return []
 
