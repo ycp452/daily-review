@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-06-18",
+  "articleLink": "https://learngerman.dw.com/de/18062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77605961",
+  "articles": [
+    {
+      "title": "Vertrag zwischen USA und Iran",
+      "text": "US-Präsident Donald Trump und der iranische Präsident Massud Peseschkian haben einen vorläufigen Vertrag unterschrieben, um den Krieg zwischen beiden Ländern zu beenden. Darin steht, dass der Iran sein Uran weniger stark anreichert und die Straße von Hormus für zwei Monate öffnet. Die USA wollen die Sanktionen gegen den Iran lockern. Andere schwierige Fragen wollen die beiden Länder erst später klären.\n\n",
+      "vocab": [
+        {
+          "german": "vorläufig",
+          "explanation": "hier: nur für eine bestimmte Zeit gültig; so, dass sich etwas später wieder ändern kann",
+          "english": "provisionally",
+          "id": "1"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; Kämpfe, oft zwischen zwei Ländern",
+          "english": "war, -e (m.)",
+          "id": "2"
+        },
+        {
+          "german": "Uran an|reichern",
+          "explanation": "ein radioaktives Material noch stärker radioaktiv machen",
+          "english": "Enrich uranium",
+          "id": "3"
+        },
+        {
+          "german": "Sanktion, -en (f.)",
+          "explanation": "hier: eine Strafe für ein Land, weil es etwas Schlechtes getan hat",
+          "english": "sanction, -en (f.)",
+          "id": "4"
+        },
+        {
+          "german": "etwas lockern",
+          "explanation": "etwas weniger stark oder streng machen",
+          "english": "loosen up a bit",
+          "id": "5"
+        },
+        {
+          "german": "etwas klären",
+          "explanation": "hier: eine Lösung für ein Problem finden",
+          "english": "clarify something",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Israelische Angriffe im Libanon",
+      "text": "Der Libanon hat berichtet, dass Israel am Mittwoch mehrere Ziele im Süden des Landes aus der Luft angegriffen hat – obwohl in dem Vertrag zwischen den USA und dem Iran steht, dass der Frieden auch für den Libanon gilt. Der iranische Außenminister Abbas Araghchi hat schon am Dienstag gesagt, dass sich Israel aus dem Libanon zurückziehen muss.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden an|greifen",
+          "explanation": "jemanden attackieren; plötzlich Gewalt gegen jemanden benutzen",
+          "english": "to attack|attack someone",
+          "id": "7"
+        },
+        {
+          "german": "Frieden (m., nur Singular)",
+          "explanation": "eine Situation: es gibt keinen Krieg; es gibt keine (militärische) Gewalt in einem Land",
+          "english": "peace (m., only singular)",
+          "id": "8"
+        },
+        {
+          "german": "für jemanden/etwas gelten",
+          "explanation": "gültig sein für jemanden/etwas: eine Regel ist (auch) für jemanden/etwas gemacht",
+          "english": "apply to someone/something",
+          "id": "9"
+        },
+        {
+          "german": "Außenminister, -/Außenministerin, -nen",
+          "explanation": "eine Politikerin oder ein Politiker: die Person kümmert sich um die Beziehungen zu anderen Ländern",
+          "english": "Foreign Minister, -/Foreign Minister, -nen",
+          "id": "10"
+        },
+        {
+          "german": "sich zurück|ziehen",
+          "explanation": "hier: im Krieg einen Ort oder ein Land verlassen und nicht mehr angreifen",
+          "english": "to withdraw|withdraw",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "EU lockert Regeln für Gentechnik",
+      "text": "Das Europäische Parlament lockert die Regeln für gentechnisch veränderte Pflanzen. Firmen müssen bestimmte Lebensmittel jetzt nicht mehr kennzeichnen. Befürworter meinen, dass die neue Technik Pflanzen besser gegen Trockenheit und Krankheiten schützt. Gegner sagen, dass man nicht weiß, wie gefährlich gentechnisch veränderte Pflanzen für Gesundheit und Natur sind.\n\n",
+      "vocab": [
+        {
+          "german": "Europäisches Parlament (n., nur Singular)",
+          "explanation": "eine wichtige Gruppe von Politikerinnen und Politikern aus den Ländern der Europäischen Union: sie entscheidet zum Beispiel gemeinsam über Gesetze in der EU",
+          "english": "European Parliament (n., only singular)",
+          "id": "12"
+        },
+        {
+          "german": "etwas lockern",
+          "explanation": "etwas weniger streng machen",
+          "english": "loosen up a bit",
+          "id": "13"
+        },
+        {
+          "german": "gentechnisch verändert",
+          "explanation": "so, dass man die DNA mit technischen Mitteln anders gemacht hat; mit einer Manipulation in der DNA",
+          "english": "genetically modified",
+          "id": "14"
+        },
+        {
+          "german": "etwas kennzeichnen",
+          "explanation": "etwas (z. B. Buchstaben oder Zahlen) auf etwas schreiben, so dass man weiß, was es ist oder was der Inhalt ist",
+          "english": "mark something",
+          "id": "15"
+        },
+        {
+          "german": "Befürworter, -/Befürworterin, -nen",
+          "explanation": "eine Person: sie findet etwas gut und ist dafür",
+          "english": "advocate",
+          "id": "16"
+        },
+        {
+          "german": "etwas gegen etwas schützen",
+          "explanation": "machen, dass etwas sicher ist und dass nichts Gefährliches passiert",
+          "english": "protect something against something",
+          "id": "17"
+        },
+        {
+          "german": "Gegner, -/Gegnerin, -nen",
+          "explanation": "eine Person: sie findet etwas schlecht und ist dagegen",
+          "english": "Opponent, -/opponent, -nen",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
