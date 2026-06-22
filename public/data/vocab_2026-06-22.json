@@ -1,0 +1,144 @@
+{
+  "articleDate": "2026-06-22",
+  "articleLink": "https://learngerman.dw.com/de/22062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77657408",
+  "articles": [
+    {
+      "title": "Großbritannien: Rücktritt von Keir Starmer",
+      "text": "Der britische Premierminister Keir Starmer hat seinen Rücktritt angekündigt. Er will im Amt bleiben, bis es einen Nachfolger gibt. Starmer reagiert so auf den Druck aus seiner Labour-Partei. Andy Burnham aus der Partei möchte der Nachfolger von Starmer werden.\n\n",
+      "vocab": [
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -/Prime Minister, -nen",
+          "id": "1"
+        },
+        {
+          "german": "seinen Rücktritt an|kündigen",
+          "explanation": "hier: sagen, dass man seine Arbeit als Politiker/Politikerin nicht mehr machen will",
+          "english": "to announce his resignation",
+          "id": "2"
+        },
+        {
+          "german": "im Amt bleiben",
+          "explanation": "weiter in einer bestimmten Position (einem Amt) als Politikerin oder Politiker arbeiten",
+          "english": "remain in office",
+          "id": "3"
+        },
+        {
+          "german": "bis …",
+          "explanation": "so, dass etwas weitergeht und erst aufhört, wenn etwas Bestimmtes passiert",
+          "english": "until...",
+          "id": "4"
+        },
+        {
+          "german": "Nachfolger, -/Nachfolgerin, -nen",
+          "explanation": "eine Person: sie bekommt nach jemandem eine Position",
+          "english": "successor, -/successor, -nen",
+          "id": "5"
+        },
+        {
+          "german": "auf etwas reagieren",
+          "explanation": "etwas tun oder sagen, weil etwas passiert ist",
+          "english": "react to something",
+          "id": "6"
+        },
+        {
+          "german": "Druck (m, nur Singular)",
+          "explanation": "die Tatsache, dass viele Menschen wollen, dass jemand etwas Bestimmtes tut",
+          "english": "pressure (m, only singular)",
+          "id": "7"
+        },
+        {
+          "german": "Labour-Partei (f., nur Singular)",
+          "explanation": "die sozialdemokratische Arbeiterpartei Großbritanniens",
+          "english": "Labor Party (f., only singular)",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Schweiz: Verhandlungen zwischen den USA und dem Iran",
+      "text": "In der Schweiz ist die erste Verhandlungsrunde über ein Ende des Iran-Kriegs zwischen den USA und dem Iran abgeschlossen. Die Vermittlerländer Pakistan und Katar haben erklärt: Das Ziel ist eine endgültige Einigung innerhalb von 60 Tagen. In dieser Woche gibt es weitere Gespräche in der Schweiz.\n\n",
+      "vocab": [
+        {
+          "german": "Verhandlungsrunde, -n (f.)",
+          "explanation": "eines von mehreren Gesprächen zwischen zwei Ländern: sie wollen eine Lösung für ein Problem finden",
+          "english": "round of negotiations, -n (f.)",
+          "id": "9"
+        },
+        {
+          "german": "abgeschlossen",
+          "explanation": "beendet; zu Ende; fertig",
+          "english": "completed",
+          "id": "10"
+        },
+        {
+          "german": "Vermittlerland, -länder (n.)",
+          "explanation": "ein Land: es will in einem Streit zwischen zwei anderen Ländern helfen und organisiert die Gespräche",
+          "english": "intermediary country, countries (n.)",
+          "id": "11"
+        },
+        {
+          "german": "endgültig",
+          "explanation": "für immer; dauerhaft",
+          "english": "final",
+          "id": "12"
+        },
+        {
+          "german": "Einigung, -en (f.)",
+          "explanation": "eine Situation: mehrere Personen oder Gruppen finden eine gemeinsame Lösung in einem Konflikt",
+          "english": "agreement, -en (f.)",
+          "id": "13"
+        },
+        {
+          "german": "innerhalb von",
+          "explanation": "in einem bestimmten Zeitraum",
+          "english": "within",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "Netanjahu: Truppen bleiben im Südlibanon",
+      "text": "Israels Ministerpräsident Benjamin Netanjahu hat erklärt: Die israelischen Truppen bleiben im Südlibanon, bis Israel nicht mehr bedroht ist. Der Iran will aber nur dann weiter mit den USA verhandeln, wenn es eine Waffenruhe zwischen Israel und der Hisbollah gibt.\n\n",
+      "vocab": [
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "hier: der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -en/Prime Minister, -nen",
+          "id": "15"
+        },
+        {
+          "german": "Truppe, -n (f.)",
+          "explanation": "hier: eine Gruppe von Soldaten",
+          "english": "troop, -n (f.)",
+          "id": "16"
+        },
+        {
+          "german": "bis …",
+          "explanation": "so, dass etwas weitergeht und erst aufhört, wenn etwas Bestimmtes passiert",
+          "english": "until...",
+          "id": "17"
+        },
+        {
+          "german": "bedroht",
+          "explanation": "nicht sicher; in Gefahr",
+          "english": "threatened",
+          "id": "18"
+        },
+        {
+          "german": "(mit jemandem) verhandeln",
+          "explanation": "hier: mit jemandem sprechen: man will gemeinsam ein Problem lösen, aber es gibt verschiedene Meinungen dazu",
+          "english": "negotiate (with someone).",
+          "id": "19"
+        },
+        {
+          "german": "Waffenruhe (f., nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire (f., only singular)",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
