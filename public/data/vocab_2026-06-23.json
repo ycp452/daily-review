@@ -1,0 +1,126 @@
+{
+  "articleDate": "2026-06-23",
+  "articleLink": "https://learngerman.dw.com/de/23062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77675347",
+  "articles": [
+    {
+      "title": "Großbritannien: Rücktritt von Keir Starmer",
+      "text": "Nach weniger als zwei Jahren hat der britische Premierminister Keir Starmer am Montag seinen Rücktritt angekündigt. Andy Burnham aus Starmers Labour-Partei wird wahrscheinlich sein Nachfolger. Die rechte Partei Reform UK will Neuwahlen – laut Umfragen ist sie aktuell am stärksten.\n\n",
+      "vocab": [
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -/Prime Minister, -nen",
+          "id": "1"
+        },
+        {
+          "german": "seinen Rücktritt an|kündigen",
+          "explanation": "hier: sagen, dass man seine Arbeit als Politiker/Politikerin nicht mehr machen will",
+          "english": "to announce his resignation",
+          "id": "2"
+        },
+        {
+          "german": "Labour-Partei (f., nur Singular)",
+          "explanation": "die sozialdemokratische Arbeiterpartei Großbritanniens",
+          "english": "Labor Party (f., only singular)",
+          "id": "3"
+        },
+        {
+          "german": "Nachfolger, -/Nachfolgerin, -nen",
+          "explanation": "eine Person: sie bekommt nach jemandem eine Position",
+          "english": "successor, -/successor, -nen",
+          "id": "4"
+        },
+        {
+          "german": "rechte Partei, -en (f.)",
+          "explanation": "eine Partei: sie hat sehr konservative politische Ideen; sie ist gegen Migration und möchte keine Veränderung",
+          "english": "right-wing party, -en (f.)",
+          "id": "5"
+        },
+        {
+          "german": "Neuwahl, -en (f.)",
+          "explanation": "eine neue Abstimmung; die Menschen in einem Land wählen früher als geplant",
+          "english": "new election, -en (f.)",
+          "id": "6"
+        },
+        {
+          "german": "laut Umfragen",
+          "explanation": "nach dem Ergebnis einer Befragung von Menschen: so erkennt man ihre Meinung",
+          "english": "according to surveys",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Kriegsopfer in der Ukraine",
+      "text": "Die Vereinten Nationen sagen: In der Ukraine sind im letzten Monat fast 300 Menschen durch Russlands Angriffskrieg ums Leben gekommen. Außerdem hat es etwa 1700 Verletzte gegeben. Der Mai 2026 war der Monat mit den meisten Kriegsopfern seit vier Jahren. Insgesamt sind seit Kriegsbeginn etwa 16.000 Menschen in der Ukraine gestorben.\n\n",
+      "vocab": [
+        {
+          "german": "Vereinte Nationen (nur Plural)",
+          "explanation": "eine Gruppe von vielen Ländern auf der Welteine Gruppe von vielen Ländern auf der Welt: sie arbeiten zusammen",
+          "english": "United Nations (plural only)",
+          "id": "8"
+        },
+        {
+          "german": "Angriffskrieg, -e (m.)",
+          "explanation": "ein militärischer Konflikt: ein Land schickt Militär in ein anderes Land und kämpft mit Waffen",
+          "english": "war of aggression, -e (m.)",
+          "id": "9"
+        },
+        {
+          "german": "ums Leben kommen",
+          "explanation": "hier: durch Gewalt sterben",
+          "english": "come to life",
+          "id": "10"
+        },
+        {
+          "german": "Kriegsopfer, - (n.)",
+          "explanation": "Menschen: sie sind in einem militärischen Konflikt (Krieg) gestorben oder sie sind verletzt",
+          "english": "casualty of war, - (n.)",
+          "id": "11"
+        },
+        {
+          "german": "insgesamt",
+          "explanation": "alle zusammen; hier auch: von Anfang bis jetzt",
+          "english": "overall",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Hitzewelle in Europa",
+      "text": "In weiten Teilen Europas gibt es eine Hitzewelle. Die Temperatur beträgt in einigen Ländern fast 40 Grad Celsius. Es wird wahrscheinlich noch heißer. In Großbritannien, Frankreich, Italien, Spanien und Deutschland gibt es Hitzewarnungen: Mehrere Menschen sind bereits gestorben. Auch die Tiere sind von der Hitze bedroht.\n\n",
+      "vocab": [
+        {
+          "german": "in weiten Teilen",
+          "explanation": "nicht überall, aber in sehr vielen Ländern",
+          "english": "in large parts",
+          "id": "13"
+        },
+        {
+          "german": "Hitzewelle, -n (f.)",
+          "explanation": "hier: eine längere Zeit mit heißem Wetter",
+          "english": "heat wave, -n (f.)",
+          "id": "14"
+        },
+        {
+          "german": "betragen",
+          "explanation": "sein (bei einer Zahl)",
+          "english": "amount",
+          "id": "15"
+        },
+        {
+          "german": "Hitzewarnung, -en (f.)",
+          "explanation": "eine Information: es ist sehr heiß und das kann für Menschen gefährlich sein",
+          "english": "heat warning, -en (f.)",
+          "id": "16"
+        },
+        {
+          "german": "bedroht",
+          "explanation": "nicht sicher; in Gefahr",
+          "english": "threatened",
+          "id": "17"
+        }
+      ]
+    }
+  ]
+}
