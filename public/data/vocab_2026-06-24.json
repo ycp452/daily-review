@@ -1,0 +1,150 @@
+{
+  "articleDate": "2026-06-24",
+  "articleLink": "https://learngerman.dw.com/de/24062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77693593",
+  "articles": [
+    {
+      "title": "Totalausfall bei der Deutschen Bahn",
+      "text": "Gestern Abend ist der Zugverkehr in ganz Deutschland für mehrere Stunden ausgefallen. Tausende Reisende waren betroffen. Heute fahren die Züge wieder. Die Deutsche Bahn sagt: Der Grund dafür war eine Störung in ihrem digitalen Funksystem.\n\n",
+      "vocab": [
+        {
+          "german": "aus|fallen",
+          "explanation": "hier: plötzlich nicht mehr funktionieren; stillstehen; bei Zügen: nicht mehr fahren",
+          "english": "fall out",
+          "id": "1"
+        },
+        {
+          "german": "betroffen sein",
+          "explanation": "hier: etwas ist passiert und das ist ein Problem für eine Person oder Sache",
+          "english": "be affected",
+          "id": "2"
+        },
+        {
+          "german": "Deutsche Bahn (f., nur Singular)",
+          "explanation": "die größte Bahngesellschaft in Deutschland",
+          "english": "Deutsche Bahn (f., only singular)",
+          "id": "3"
+        },
+        {
+          "german": "Grund, Gründe (für etwas) (m.)",
+          "explanation": "die Ursache: deswegen ist etwas passiert",
+          "english": "reason, reasons (for something) (m.)",
+          "id": "4"
+        },
+        {
+          "german": "Störung, -en (f.)",
+          "explanation": "ein technisches Problem: etwas funktioniert nicht mehr (richtig)",
+          "english": "disorder, -en (f.)",
+          "id": "5"
+        },
+        {
+          "german": "digitales Funksystem, digitale Funksysteme (n.)",
+          "explanation": "ein System zur Kommunikation: es funktioniert online",
+          "english": "digital radio system, digital radio systems (n.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Israel: Kriegsverbrechen an Kindern",
+      "text": "Eine UN-Untersuchungskommission schreibt in einem Bericht: Israel hat im Gazastreifen absichtlich palästinensische Kinder angegriffen. Die Angriffe haben die Kinder körperlich und seelisch verletzt und Schulen, Kindergärten und Krankenhäuser zerstört. Die Kommission spricht von Kriegsverbrechen und Völkermord.\n\n",
+      "vocab": [
+        {
+          "german": "UN-Untersuchungskommission, -en (f.)",
+          "explanation": "eine Arbeitsgruppe der Vereinten Nationen: sie soll eine bestimmte Frage untersuchen und schreibt dazu einen Bericht",
+          "english": "UN Commission of Inquiry, -en (f.)",
+          "id": "7"
+        },
+        {
+          "german": "absichtlich",
+          "explanation": "so, dass man etwas will; mit einem Ziel, nicht durch Zufall",
+          "english": "intentionally",
+          "id": "8"
+        },
+        {
+          "german": "jemanden an|greifen",
+          "explanation": "hier: jemanden attackieren; eine militärische Aktion auf Menschen, um ihnen wehzutun oder sie zu töten (Substantiv: der Angriff)",
+          "english": "to attack|attack someone",
+          "id": "9"
+        },
+        {
+          "german": "körperlich",
+          "explanation": "so, dass die Gesundheit des Körpers gemeint ist",
+          "english": "physical",
+          "id": "10"
+        },
+        {
+          "german": "seelisch",
+          "explanation": "auf die Gesundheit der Psyche bezogen; so, dass es nicht um körperliche Verletzungen geht",
+          "english": "psychologically",
+          "id": "11"
+        },
+        {
+          "german": "etwas zerstören",
+          "explanation": "etwas (meist absichtlich) kaputt machen",
+          "english": "destroy something",
+          "id": "12"
+        },
+        {
+          "german": "Kriegsverbrechen, - (n.)",
+          "explanation": "die schlimme Gewalt oder etwas Ähnliches in einem Konflikt: sie ist auch in einem Krieg verboten",
+          "english": "war crimes, - (n.)",
+          "id": "13"
+        },
+        {
+          "german": "Völkermord, -e (m.)",
+          "explanation": "ein schlimmes Verbrechen: man nutzt Gewalt und will, dass es eine große Gruppe von Menschen bald nicht mehr gibt",
+          "english": "genocide, -e (m.)",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "USA gegen Schiffsmaut in Straße von Hormus",
+      "text": "US-Außenminister Marco Rubio hat gesagt: Die USA sind auf keinen Fall mit einer Schiffsmaut in der Straße von Hormus einverstanden. Bei den Friedensverhandlungen zwischen dem Iran und den USA gibt es aber noch mehr Probleme: Die USA wollen, dass der Iran Inspektionen seiner Atomanlagen erlaubt. Der Iran lehnt sie ab.\n\n",
+      "vocab": [
+        {
+          "german": "Außenminister, -/Außenministerin, -nen",
+          "explanation": "ein Politiker oder eine Politikerin in der Regierung: sie kümmert sich um die Beziehungen zu anderen Ländern",
+          "english": "Foreign Minister, -/Foreign Minister, -nen",
+          "id": "15"
+        },
+        {
+          "german": "Schiffsmaut (f., nur Singular)",
+          "explanation": "das Geld (die Gebühr): man muss es bezahlen, wenn man mit einem Schiff durch ein bestimmtes Gebiet fährt",
+          "english": "Ship toll (f., only singular)",
+          "id": "16"
+        },
+        {
+          "german": "Straße von Hormus (f., nur Singular)",
+          "explanation": "ein schmaler Wasserweg zwischen dem Iran und der arabischen Halbinsel",
+          "english": "Strait of Hormuz (f., only singular)",
+          "id": "17"
+        },
+        {
+          "german": "Friedensverhandlung, -en (f.)",
+          "explanation": "ein Gespräch: ein Land redet mit einem anderen Land über das Ende eines Kriegs",
+          "english": "peace negotiations, -en (f.)",
+          "id": "18"
+        },
+        {
+          "german": "Inspektion, -en (f.)",
+          "explanation": "die offizielle Untersuchung oder Kontrolle, z. B. von einem Gerät oder einem Ort",
+          "english": "inspection, -en (f.)",
+          "id": "19"
+        },
+        {
+          "german": "Atomanlage, -n (f.)",
+          "explanation": "eine Gruppe von Gebäuden / ein Ort: dort stellt man Atomenergie bzw. Atomwaffen her",
+          "english": "nuclear plant, -n (f.)",
+          "id": "20"
+        },
+        {
+          "german": "etwas ab|lehnen",
+          "explanation": "sagen, dass man etwas nicht (tun) möchte; sagen, dass man gegen etwas ist",
+          "english": "reject something",
+          "id": "21"
+        }
+      ]
+    }
+  ]
+}
