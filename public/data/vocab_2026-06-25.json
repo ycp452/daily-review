@@ -1,0 +1,126 @@
+{
+  "articleDate": "2026-06-25",
+  "articleLink": "https://learngerman.dw.com/de/25062026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77707213",
+  "articles": [
+    {
+      "title": "Erdbeben in Venezuela",
+      "text": "Im Norden Venezuelas hat es am Mittwochabend zwei heftige Erdbeben gegeben. Aktuell weiß man von über 30 Toten und Hunderten Verletzten. Man vermutet aber, dass die Zahlen noch viel höher sind. Die US-Geologiebehörde USGS sagt, dass wahrscheinlich mindestens 10.000 Menschen gestorben sind. In der Hauptstadt Caracas und an vielen anderen Orten im Land sind Gebäude eingestürzt. Die Erdbeben hatten eine Stärke von 7,1 und 7,5: Es waren die schlimmsten seit über 100 Jahren in Venezuela.\n\n",
+      "vocab": [
+        {
+          "german": "heftig",
+          "explanation": "sehr stark; sehr schlimm",
+          "english": "violent",
+          "id": "1"
+        },
+        {
+          "german": "Erdbeben, - (n.)",
+          "explanation": "ein Naturereignis oder eine Naturkatastrophe: die Erde bewegt sich",
+          "english": "earthquake, - (n.)",
+          "id": "2"
+        },
+        {
+          "german": "etwas vermuten",
+          "explanation": "etwas nicht genau wissen, aber glauben, dass es so ist",
+          "english": "suspect something",
+          "id": "3"
+        },
+        {
+          "german": "US-Geologiebehörde USGS (f., nur Singular)",
+          "explanation": "eine wissenschaftliche staatliche Institution in den USA: sie untersucht unter anderem Erdbeben",
+          "english": "US Geological Survey USGS (f., only singular)",
+          "id": "4"
+        },
+        {
+          "german": "ein|stürzen",
+          "explanation": "zusammenbrechen; kaputtgehen",
+          "english": "collapse",
+          "id": "5"
+        },
+        {
+          "german": "eine Stärke von 7,1 und 7,5",
+          "explanation": "ein Wert auf der sogenannten Richterskala, mit der man die Stärke von Erdbeben misst: eine Stärke über 7 gilt als sehr groß",
+          "english": "a magnitude of 7.1 and 7.5",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Temperaturrekorde in Europa",
+      "text": "Die Hitzewelle in Westeuropa geht weiter: In mehreren Ländern hat es neue Temperaturrekorde gegeben. In Frankreich waren der Dienstag und Mittwoch die heißesten Tage seit Beginn der Wetteraufzeichnungen. In Paris hat man am Mittwoch fast 41 Grad Celsius gemessen. Auch in Großbritannien war es mit über 36 Grad so heiß wie noch nie im Monat Juni. In Spanien war der Dienstag der durchschnittlich wärmste Tag seit Beginn der Messungen im Jahr 1950.\n\n",
+      "vocab": [
+        {
+          "german": "Hitzewelle, -n (f.)",
+          "explanation": "eine längere Zeit mit heißem Wetter",
+          "english": "heat wave, -n (f.)",
+          "id": "7"
+        },
+        {
+          "german": "Temperaturrekord, -e (m.)",
+          "explanation": "ein ungewöhnliches Wetterereignis: die heißeste oder kälteste Temperatur in der Geschichte eines Ortes",
+          "english": "temperature record, -e (m.)",
+          "id": "8"
+        },
+        {
+          "german": "seit Beginn der Wetteraufzeichnungen",
+          "explanation": "seitdem man das Wetter wissenschaftlich untersucht und Temperaturen misst",
+          "english": "since weather records began",
+          "id": "9"
+        },
+        {
+          "german": "etwas messen",
+          "explanation": "einen Wert ermitteln; hier: die Temperatur bestimmen (Substantiv: die Messung)",
+          "english": "measure something",
+          "id": "10"
+        },
+        {
+          "german": "der durchschnittlich wärmste Tag",
+          "explanation": "der Tag mit den höchsten Durchschnittstemperaturen: über den ganzen Tag (verteilt) war es so warm wie noch nie",
+          "english": "the average warmest day",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Straße von Hormus: UN starten Evakuierung von Schiffen",
+      "text": "Die UN haben am Mittwoch mit der Evakuierung von Schiffen aus dem Persischen Golf begonnen: Sie wollen Hunderte Schiffe durch die Straße von Hormus bringen. Auf den Schiffen sitzen seit Ende Februar über 10.000 Menschen fest. Irans Revolutionsgarde hat jetzt gewarnt: Die Schiffe dürfen nur mit ihrer Erlaubnis und nur auf bestimmten Wegen durch die Straße von Hormus fahren.\n\n",
+      "vocab": [
+        {
+          "german": "UN (nur Plural)",
+          "explanation": "die Vereinten Nationen; eine Gruppe von vielen Ländern auf der Welt: sie arbeiten zusammen",
+          "english": "UN (plural only)",
+          "id": "12"
+        },
+        {
+          "german": "Evakuierung, -en (f.)",
+          "explanation": "eine Situation: Menschen sind in Gefahr und jemand kommt und bringt sie in Sicherheit",
+          "english": "evacuation, -en (f.)",
+          "id": "13"
+        },
+        {
+          "german": "Straße von Hormus (f., nur Singular)",
+          "explanation": "ein schmaler Wasserweg zwischen dem Iran und der arabischen Halbinsel",
+          "english": "Strait of Hormuz (f., only singular)",
+          "id": "14"
+        },
+        {
+          "german": "fest|sitzen",
+          "explanation": "hier: an einem Ort sein und ihn nicht mehr verlassen können",
+          "english": "sit tight",
+          "id": "15"
+        },
+        {
+          "german": "Revolutionsgarde (f., nur Singular)",
+          "explanation": "eine Art Militärpolizei im Iran: sie ist sehr mächtig",
+          "english": "Revolutionary Guard (f., only singular)",
+          "id": "16"
+        },
+        {
+          "german": "(jemanden) warnen",
+          "explanation": "sagen, dass jemand etwas nicht tun soll, denn sonst könnte etwas Schlimmes passieren",
+          "english": "to warn (someone).",
+          "id": "17"
+        }
+      ]
+    }
+  ]
+}
