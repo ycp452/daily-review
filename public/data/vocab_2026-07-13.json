@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-07-13",
+  "articleLink": "https://learngerman.dw.com/de/13072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77936591",
+  "articles": [
+    {
+      "title": "Neue US-Angriffe auf den Iran",
+      "text": "Die USA haben ihre Luftangriffe auf den Iran verstärkt. Sie wollen, dass der Iran keine Schiffe in der Straße von Hormus mehr angreifen kann. Am Wochenende hat der Iran Ziele in mehreren Nachbarländern angegriffen – als Vergeltung für US-amerikanische Luftangriffe. Kuwait, Jordanien und der Oman haben Angriffe bestätigt.\n\n",
+      "vocab": [
+        {
+          "german": "Luftangriff, -e (m.)",
+          "explanation": "eine Attacke aus der Luft, mit einem Flugzeug oder einer Drohne",
+          "english": "air raid, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "etwas verstärken",
+          "explanation": "etwas stärker machen als vorher",
+          "english": "strengthen something",
+          "id": "2"
+        },
+        {
+          "german": "jemanden/etwas an|greifen",
+          "explanation": "jemanden/etwas attackieren; plötzlich Gewalt gegen jemanden benutzen",
+          "english": "to attack someone/something",
+          "id": "3"
+        },
+        {
+          "german": "mehrere",
+          "explanation": "einige",
+          "english": "several",
+          "id": "4"
+        },
+        {
+          "german": "Vergeltung (f., nur Singular)",
+          "explanation": "die Rache; eine negative Aktion, weil jemand anderes vorher etwas Negatives gemacht hat",
+          "english": "retaliation (f., only singular)",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Tote bei Feuer in Bangkok",
+      "text": "Bei einem Feuer in einer Bar in Bangkok sind mindestens 27 Menschen gestorben. Viele weitere sind verletzt. Der thailändische Premierminister Anutin Charnvirakul hat den Ort besucht. Die thailändischen Behörden untersuchen jetzt die Ursache des Feuers.\n\n",
+      "vocab": [
+        {
+          "german": "Bar, -s (f.)",
+          "explanation": "ein Lokal: man kann dort sitzen und etwas trinken oder auch essen",
+          "english": "Bar, -s (f.)",
+          "id": "6"
+        },
+        {
+          "german": "weitere",
+          "explanation": "andere; noch mehr",
+          "english": "more",
+          "id": "7"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Regierungschef oder die Regierungschefin; der höchste Politiker/die höchste Politikerin eines Landes",
+          "english": "Prime Minister, -/Prime Minister, -nen",
+          "id": "8"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "eine staatliche Institution (z. B. die Polizei)",
+          "english": "authority, -n (f.)",
+          "id": "9"
+        },
+        {
+          "german": "Ursache, -n (f.)",
+          "explanation": "der Grund, warum etwas passiert ist",
+          "english": "cause, -n (f.)",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "title": "US-Senator Lindsey Graham ist tot",
+      "text": "Der republikanische US-Senator Lindsey Graham ist im Alter von 71 Jahren plötzlich gestorben. Die Todesursache war möglicherweise eine Herz-Kreislauf-Erkrankung. Graham war ein enger Verbündeter von US-Präsident Donald Trump. Erst am Freitag ist er von einem Treffen mit dem ukrainischen Präsidenten Wolodymyr Selenskyj in Kyjiw zurückgekehrt.\n\n",
+      "vocab": [
+        {
+          "german": "republikanisch",
+          "explanation": "hier: so, dass jemand zu der Partei der Republikaner in den USA gehört",
+          "english": "republican",
+          "id": "11"
+        },
+        {
+          "german": "Senator, -en/Senatorin, -nen",
+          "explanation": "hier: ein Politiker/eine Politikerin in den USA: er/sie arbeitet im Senat, einem Teil des US-Parlaments",
+          "english": "Senator, -en/Senatorin, -nen",
+          "id": "12"
+        },
+        {
+          "german": "Todesursache, -n (f.)",
+          "explanation": "der Grund, warum jemand gestorben ist",
+          "english": "cause of death, -n (f.)",
+          "id": "13"
+        },
+        {
+          "german": "möglicherweise",
+          "explanation": "vielleicht",
+          "english": "possibly",
+          "id": "14"
+        },
+        {
+          "german": "Herz-Kreislauf-Erkrankung, -en (f.)",
+          "explanation": "eine Krankheit: sie hat mit dem Herzen und der Verteilung von Blut im Körper zu tun",
+          "english": "cardiovascular disease (f.)",
+          "id": "15"
+        },
+        {
+          "german": "eng",
+          "explanation": "hier: nah; gut",
+          "english": "tight",
+          "id": "16"
+        },
+        {
+          "german": "Verbündete, -n (m./f.)",
+          "explanation": "hier: eine Person, die auf der Seite einer anderen Person ist und sie unterstützt",
+          "english": "Allies, -n (m./f.)",
+          "id": "17"
+        },
+        {
+          "german": "zurück|kehren",
+          "explanation": "zurückkommen",
+          "english": "return|return",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
