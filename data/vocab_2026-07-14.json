@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-07-14",
+  "articleLink": "https://learngerman.dw.com/de/14072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77951708",
+  "articles": [
+    {
+      "title": "Waldbrände in Frankreich",
+      "text": "Schon seit Sonntag gibt es große Brände im Wald von Fontainebleau südöstlich von Paris. Rettungskräfte versuchen, das Feuer zu kontrollieren. Laut Behörden hat es zwei Festnahmen wegen des Verdachts auf Brandstiftung gegeben. Südeuropa erlebt gerade die dritte Hitzewelle in diesem Sommer.\n\n",
+      "vocab": [
+        {
+          "german": "Brand, Brände (m.)",
+          "explanation": "das Feuer",
+          "english": "fire, fires (m.)",
+          "id": "1"
+        },
+        {
+          "german": "Rettungskraft, Rettungskräfte (f.)",
+          "explanation": "eine Person: sie hilft Menschen in oder nach gefährlichen Situationen",
+          "english": "rescue worker, rescue workers (f.)",
+          "id": "2"
+        },
+        {
+          "german": "laut Behörden",
+          "explanation": "so, wie eine staatliche Institution sagt (zum Beispiel die Polizei oder die Feuerwehr)",
+          "english": "according to authorities",
+          "id": "3"
+        },
+        {
+          "german": "Festnahme, -n (f.)",
+          "explanation": "eine Aktion der Polizei: sie nimmt eine Person mit",
+          "english": "arrest, -n (f.)",
+          "id": "4"
+        },
+        {
+          "german": "Verdacht auf Brandstiftung (m., nur Singular)",
+          "explanation": "der Glaube, dass jemand ein Feuer gemacht hat",
+          "english": "Suspicion of arson (m., only singular)",
+          "id": "5"
+        },
+        {
+          "german": "etwas erleben",
+          "explanation": "hier: etwas geben; es gibt etwas",
+          "english": "experience something",
+          "id": "6"
+        },
+        {
+          "german": "Hitzewelle, -n (f.)",
+          "explanation": "eine Zeit mit besonders hohen Temperaturen",
+          "english": "heat wave, -n (f.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Wieder US-Angriffe auf den Iran",
+      "text": "",
+      "vocab": [
+        {
+          "german": "Schon die dritte Nacht in Folge haben die USA den Iran aus der Luft angegriffen",
+          "explanation": "nach iranischen Angriffen auf Schiffe in der Straße von Hormus. US-Präsident Donald Trump sagt, dass die USA wieder iranische Häfen blockieren wollen. Wenn Schiffe durch die Straße von Hormus fahren, sollen sie eine Gebühr von 20 Prozent ihres Frachtwerts bezahlen, sagt Trump.",
+          "english": "The United States attacked Iran from the air for the third night in a row",
+          "id": "8"
+        },
+        {
+          "german": "in Folge",
+          "explanation": "hier: eine nach der anderen, ohne Pause",
+          "english": "in a row",
+          "id": "9"
+        },
+        {
+          "german": "jemanden/etwas aus der Luft an|greifen",
+          "explanation": "jemanden oder etwas von oben attackieren, mit Flugzeugen oder Drohnen (Substantiv: der Luftangriff)",
+          "english": "to attack someone/something from the air",
+          "id": "10"
+        },
+        {
+          "german": "Hafen, Häfen (m.)",
+          "explanation": "ein Ort: dort liegen Schiffe, wenn sie nicht fahren",
+          "english": "harbor, ports (m.)",
+          "id": "11"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "hier: dafür sorgen, dass man einen Ort nicht mehr erreichen kann, weil man Militär dorthin geschickt hat",
+          "english": "block something",
+          "id": "12"
+        },
+        {
+          "german": "Gebühr, -en (f.)",
+          "explanation": "Geld, das man für eine Dienstleistung oder die Nutzung von etwas bezahlen muss",
+          "english": "fee, -en (f.)",
+          "id": "13"
+        },
+        {
+          "german": "Prozent, -e (n.)",
+          "explanation": "ein Teil von 100 Teilen",
+          "english": "percent, -e (n.)",
+          "id": "14"
+        },
+        {
+          "german": "Frachtwert, -e (m., meist Singular)",
+          "explanation": "der Preis, den man beim Verkauf für Produkte bekommen kann: ein Schiff, Zug, Flugzeug oder Lkw transportiert sie",
+          "english": "Freight value, -e (m., usually singular)",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Schauspieler Sam Neill ist tot",
+      "text": "Der neuseeländische Schauspieler Sam Neill ist im Alter von 78 Jahren gestorben. Er war bekannt durch Filme wie „Jurassic Park“, „Das Piano“ oder „Jagd auf Roter Oktober“. Neill hat mehr als 50 Jahre vor der Kamera gestanden. 2023 ist Neill an Krebs erkrankt, doch Anfang dieses Jahres hat er gesagt, dass er wieder gesund ist. Seine Familie sagt, dass sein Tod plötzlich und unerwartet gekommen ist.\n\n",
+      "vocab": [
+        {
+          "german": "Piano, -s (n.)",
+          "explanation": "das Klavier",
+          "english": "Piano, -s (n.)",
+          "id": "16"
+        },
+        {
+          "german": "Jagd, -en (f.)",
+          "explanation": "der Versuch, jemanden oder etwas zu fangen, zu töten oder zu zerstören",
+          "english": "hunting, -en (f.)",
+          "id": "17"
+        },
+        {
+          "german": "an Krebs erkranken",
+          "explanation": "eine gefährliche Krankheit bekommen: Zellen im Körper werden immer mehr und machen andere Zellen kaputt",
+          "english": "get cancer",
+          "id": "18"
+        },
+        {
+          "german": "unerwartet",
+          "explanation": "so, dass niemand gedacht hat, dass etwas passiert",
+          "english": "unexpected",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
