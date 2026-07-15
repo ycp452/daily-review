@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-07-15",
+  "articleLink": "https://learngerman.dw.com/de/15072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77967903",
+  "articles": [
+    {
+      "title": "USA blockieren iranische Häfen",
+      "text": "",
+      "vocab": [
+        {
+          "german": "Die USA blockieren wieder iranische Häfen",
+          "explanation": "als Antwort auf iranische Angriffe auf Schiffe in der Straße von Hormus. Außerdem haben die USA vier Nächte lang Ziele im Iran angegriffen. Beide Länder sagen, dass die jeweils andere Seite gegen das Abkommen von Juni verstößt. Es sollte den Konflikt eigentlich beenden.",
+          "english": "The USA is blocking Iranian ports again",
+          "id": "1"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "etwas sperren: andere können es dann nicht mehr benutzen",
+          "english": "block something",
+          "id": "2"
+        },
+        {
+          "german": "Hafen, Häfen (m.)",
+          "explanation": "ein Ort: dort liegen Schiffe, wenn sie nicht fahren",
+          "english": "harbor, ports (m.)",
+          "id": "3"
+        },
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; plötzliche Gewalt (Verb: etwas/jemanden an|greifen)",
+          "english": "attack, -e (m.)",
+          "id": "4"
+        },
+        {
+          "german": "die jeweils andere Seite",
+          "explanation": "hier: die USA sagen, dass es der Iran war, der Iran sagt, dass es die USA waren",
+          "english": "the other side",
+          "id": "5"
+        },
+        {
+          "german": "gegen etwas verstoßen",
+          "explanation": "die Regeln von etwas nicht respektieren",
+          "english": "violate something",
+          "id": "6"
+        },
+        {
+          "german": "Abkommen, - (n.)",
+          "explanation": "ein Vertrag: mehrere Staaten vereinbaren, dass sie jetzt etwas tun wollen (z. B. damit ein Konflikt endet)",
+          "english": "agreement, - (n.)",
+          "id": "7"
+        },
+        {
+          "german": "Konflikt, -e (m.)",
+          "explanation": "ein Streit oder Krieg",
+          "english": "conflict, -e (m.)",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Bangkok: Zahl der Toten nach Feuer steigt",
+      "text": "Die Zahl der Toten nach einem Feuer in einer Bar in Bangkok ist laut Behördenangaben auf 30 gestiegen. Das Feuer war eines der tödlichsten der letzten Jahre in Thailand. Die Polizei untersucht jetzt mögliche Sicherheitsverstöße. Der Besitzer der Bar ist weiter im Krankenhaus auf der Intensivstation.\n\n",
+      "vocab": [
+        {
+          "german": "Bar, -s (f.)",
+          "explanation": "die Kneipe; das Trinklokal; dort trifft man sich und bestellt Getränke",
+          "english": "Bar, -s (f.)",
+          "id": "9"
+        },
+        {
+          "german": "laut Behördenangaben",
+          "explanation": "so, wie staatliche Institutionen sagen, zum Beispiel die Polizei",
+          "english": "according to authorities",
+          "id": "10"
+        },
+        {
+          "german": "steigen",
+          "explanation": "höher werden; mehr werden",
+          "english": "rise",
+          "id": "11"
+        },
+        {
+          "german": "tödlich",
+          "explanation": "so, dass Menschen sterben",
+          "english": "fatal",
+          "id": "12"
+        },
+        {
+          "german": "Sicherheitsverstoß, Sicherheitsverstöße (m.)",
+          "explanation": "ein Problem: jemand hat nicht aufgepasst, dass etwas sicher ist",
+          "english": "security breach, security breaches (m.)",
+          "id": "13"
+        },
+        {
+          "german": "Besitzer, -/Besitzerin, -nen",
+          "explanation": "eine Person: ihr gehört etwas",
+          "english": "Owner, -/Owner, -nen",
+          "id": "14"
+        },
+        {
+          "german": "Intensivstation, -en (f.)",
+          "explanation": "eine Abteilung im Krankenhaus: dort sind Patientinnen und Patienten mit sehr schweren Krankheiten oder Verletzungen",
+          "english": "intensive care unit, -en (f.)",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Iranische Angriffe auf US-Ziele in Nachbarländern",
+      "text": "Nach den neuesten US-Angriffen hat der Iran US-Militäreinrichtungen in mehreren Ländern angegriffen – laut Iran in Kuwait, in Bahrain und im Oman. Die Vereinigten Arabischen Emirate sagen außerdem, dass der Iran zwei ihrer Tanker in der Straße von Hormus angegriffen hat.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine Attacke; die plötzliche Gewalt (Verb: etwas/jemanden an|greifen)",
+          "english": "attack, -e (m.)",
+          "id": "16"
+        },
+        {
+          "german": "Militäreinrichtung, -en (f.)",
+          "explanation": "eine Station: dort leben oder arbeiten Soldatinnen und Soldaten",
+          "english": "military facility, -en (f.)",
+          "id": "17"
+        },
+        {
+          "german": "laut",
+          "explanation": "so, wie jemand sagt",
+          "english": "loud",
+          "id": "18"
+        },
+        {
+          "german": "Tanker, - (m.)",
+          "explanation": "ein Schiff: es transportiert eine Flüssigkeit, zum Beispiel Öl",
+          "english": "Tanker, - (m.)",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
