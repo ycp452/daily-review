@@ -1,0 +1,144 @@
+{
+  "articleDate": "2026-07-16",
+  "articleLink": "https://learngerman.dw.com/de/16072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-77985408",
+  "articles": [
+    {
+      "title": "EU: Verteidigungspaket für die Ukraine",
+      "text": "Die EU-Kommissionspräsidentin Ursula von der Leyen hat zusammen mit dem ukrainischen Präsidenten Wolodymyr Selenskyj ein Verteidigungspaket von 10 Milliarden Euro für die Ukraine angekündigt. Außerdem wollen die EU und die Ukraine die Drohnentechnologie weiterentwickeln. Aktuell verstärkt die Ukraine ihre Drohnenangriffe auf russische Ziele.\n\nDrohne, -n (f.) –  ein kleines Flugobjekt: es kann selbstständig fliegen; man benutzt es auch im Krieg als Waffe\n\n",
+      "vocab": [
+        {
+          "german": "EU-Kommissionspräsident, -en/EU-Kommissionspräsidentin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung der Europäischen Union; der höchste Politiker/die höchste Politikerin in der Europäischen Union",
+          "english": "EU Commission President, -en/EU Commission President, -nen",
+          "id": "1"
+        },
+        {
+          "german": "Verteidigungspaket, -e (n.)",
+          "explanation": "hier: die Hilfe mit militärischem Material",
+          "english": "defense package, -e (n.)",
+          "id": "2"
+        },
+        {
+          "german": "etwas an|kündigen",
+          "explanation": "sagen, dass man etwas machen will",
+          "english": "to announce|announce something",
+          "id": "3"
+        },
+        {
+          "german": "Technologie weiterentwickeln",
+          "explanation": "Technik besser machen und produzieren",
+          "english": "Develop technology further",
+          "id": "4"
+        },
+        {
+          "german": "etwas verstärken",
+          "explanation": "etwas stärker machen",
+          "english": "strengthen something",
+          "id": "5"
+        },
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "hier: eine militärische Aktion; die kriegerische Gewalt gegen jemanden/etwas",
+          "english": "attack, -e (m.)",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "USA: neue Angriffe gegen den Iran",
+      "text": "Die USA haben wieder Ziele im Iran angegriffen und blockieren wieder iranische Häfen. Der Konflikt zwischen beiden Ländern hat sich in dieser Woche verschärft. Der Iran hat gesagt, dass er weitere Energieexporte stoppen will. US-Präsident Donald Trump hat gesagt, dass er iranische Infrastruktur angreift, wenn der Iran nicht über ein Ende des Konflikts reden will.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden/etwas an|greifen",
+          "explanation": "jemanden/etwas attackieren; plötzlich Gewalt gegen jemanden/etwas benutzen",
+          "english": "to attack someone/something",
+          "id": "7"
+        },
+        {
+          "german": "etwas blockieren",
+          "explanation": "etwas sperren, sodass es andere nicht benutzen können; machen, dass andere nicht zu einem Ort kommen können",
+          "english": "block something",
+          "id": "8"
+        },
+        {
+          "german": "Hafen, Häfen (m.)",
+          "explanation": "ein Ort: hier liegen Schiffe, wenn sie nicht fahren",
+          "english": "harbor, ports (m.)",
+          "id": "9"
+        },
+        {
+          "german": "Konflikt, -e (m.)",
+          "explanation": "ein Streit oder Krieg",
+          "english": "conflict, -e (m.)",
+          "id": "10"
+        },
+        {
+          "german": "sich verschärfen",
+          "explanation": "stärker oder schlimmer werden",
+          "english": "become more severe",
+          "id": "11"
+        },
+        {
+          "german": "Energieexport, -e (m.)",
+          "explanation": "der Verkauf von Öl, Strom oder Ähnlichem in ein anderes Land",
+          "english": "energy export, -e (m.)",
+          "id": "12"
+        },
+        {
+          "german": "Infrastruktur, -en (f., meist Singular)",
+          "explanation": "Strukturen und Anlagen: sie versorgen die Menschen (zum Beispiel Straßen, Internetverbindungen, Öl-, Gas- und Stromleitungen)",
+          "english": "Infrastructure, -en (f., mostly singular)",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Frankreich erlaubt Sterbehilfe",
+      "text": "Frankreich hat ein neues Gesetz verabschiedet: Es erlaubt, dass Erwachsene mit unheilbaren Krankheiten tödliche Medikamente bekommen. Dafür gibt es strenge Regeln. Jahrelang hat es in Frankreich Debatten über das Thema Sterbehilfe gegeben. Unklar ist noch, ob das neue Gesetz mit der französischen Verfassung vereinbar ist.\n\n",
+      "vocab": [
+        {
+          "german": "ein Gesetz verabschieden",
+          "explanation": "eine offizielle Regel machen: sie ist für alle Menschen in einem Land gültig",
+          "english": "pass a law",
+          "id": "14"
+        },
+        {
+          "german": "unheilbar",
+          "explanation": "so, dass man nicht wieder gesund werden kann",
+          "english": "incurable",
+          "id": "15"
+        },
+        {
+          "german": "tödlich",
+          "explanation": "so, dass man an etwas stirbt",
+          "english": "fatal",
+          "id": "16"
+        },
+        {
+          "german": "Debatte, -n (f.)",
+          "explanation": "eine Diskussion; ein Gespräch über etwas mit unterschiedlichen Meinungen",
+          "english": "debate, -n (f.)",
+          "id": "17"
+        },
+        {
+          "german": "Sterbehilfe (f., nur Singular)",
+          "explanation": "die Hilfe für einen Menschen, der nicht mehr leben möchte, z. B. indem man ihm ein tödliches Medikament gibt",
+          "english": "Euthanasia (f., only singular)",
+          "id": "18"
+        },
+        {
+          "german": "Verfassung, -en (f.)",
+          "explanation": "ein Dokument mit den wichtigsten Regeln und Gesetzen in einem Land: es sagt, wie ein bestimmtes Land funktionieren soll.",
+          "english": "constitution, -en (f.)",
+          "id": "19"
+        },
+        {
+          "german": "mit etwas vereinbar sein",
+          "explanation": "zu etwas (rechtlich) passen; nicht gegen etwas (z. B. ein Gesetz) sein",
+          "english": "to be compatible with something",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
