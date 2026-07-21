@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-07-21",
+  "articleLink": "https://learngerman.dw.com/de/21072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78051834",
+  "articles": [
+    {
+      "title": "Burnham neuer Premierminister",
+      "text": "Andy Burnham ist jetzt offiziell der neue britische Premierminister. In seiner ersten Rede hat er einen Zehnjahresplan für sein Land angekündigt. Er will die Lebenshaltungskosten senken, die Industrie stärken und Obdachlose von der Straße holen. Burnham war vorher der Bürgermeister von Manchester.\n\n",
+      "vocab": [
+        {
+          "german": "offiziell",
+          "explanation": "amtlich; so, dass man jetzt etwas auch formal machen darf",
+          "english": "official",
+          "id": "1"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "english": "Prime Minister, -/Prime Minister, -nen",
+          "id": "2"
+        },
+        {
+          "german": "etwas an|kündigen",
+          "explanation": "sagen, dass man bald etwas macht",
+          "english": "to announce|announce something",
+          "id": "3"
+        },
+        {
+          "german": "die Lebenshaltungskosten senken",
+          "explanation": "etwas machen, damit Strom, Lebensmittel, Benzin usw. nicht mehr so teuer sind",
+          "english": "reduce the cost of living",
+          "id": "4"
+        },
+        {
+          "german": "die Industrie stärken",
+          "explanation": "etwas für die produzierende Wirtschaft in einem Land tun, ihr helfen",
+          "english": "strengthen the industry",
+          "id": "5"
+        },
+        {
+          "german": "Obdachlose, -n (m./f.)",
+          "explanation": "eine Person: sie hat keine Wohnung oder kein Haus und muss auf der Straße schlafen",
+          "english": "Homeless, -n (m./f.)",
+          "id": "6"
+        },
+        {
+          "german": "Bürgermeister, -/Bürgermeisterin, -nen",
+          "explanation": "der höchste Politiker/die höchste Politikerin in einer Stadt oder Gemeinde",
+          "english": "Mayor/Mayoress",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Neue Angriffe im Gazastreifen",
+      "text": "Israel hat erneut Gaza-Stadt und den südlichen Gazastreifen angegriffen. Mindestens vier Menschen sind dabei gestorben und es gibt mehr als zehn Verletzte, sagen die Behörden im Gazastreifen. Israel sagt, dass es mit den Angriffen Terroristen treffen wollte. Eigentlich gibt es seit Oktober eine Waffenruhe zwischen Israel und der Hamas. Aber Israel greift fast jeden Tag den Gazastreifen an.\n\n",
+      "vocab": [
+        {
+          "german": "erneut",
+          "explanation": "wieder; noch einmal",
+          "english": "again",
+          "id": "8"
+        },
+        {
+          "german": "jemanden/etwas an|greifen",
+          "explanation": "hier: etwas mit Gewalt und Waffen kaputt machen (Substantiv: der Angriff)",
+          "english": "to attack someone/something",
+          "id": "9"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "das Amt; die staatliche Stelle",
+          "english": "authority, -n (f.)",
+          "id": "10"
+        },
+        {
+          "german": "Terrorist, -en/Terroristin, -nen",
+          "explanation": "eine Person: sie nutzt Gewalt für politische Ziele und macht vielen Menschen Angst",
+          "english": "Terrorist, -en/terrorist, -nen",
+          "id": "11"
+        },
+        {
+          "german": "jemanden treffen",
+          "explanation": "hier: Gewalt gegen jemanden benutzen; jemanden mit einer Waffe erreichen; jemanden töten",
+          "english": "meet someone",
+          "id": "12"
+        },
+        {
+          "german": "Waffenruhe (f., nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "english": "ceasefire (f., only singular)",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Empfang für die spanische Nationalmannschaft",
+      "text": "Nach ihrem Sieg bei der Fußball-WM ist die spanische Nationalmannschaft wieder zu Hause. In Madrid hat man die Fußballer wie Helden empfangen. Die Mannschaft ist in einer Parade durch die Stadt gezogen. Fast zwei Millionen Menschen haben auf den Straßen der Hauptstadt gefeiert.\n\n",
+      "vocab": [
+        {
+          "german": "Sieg, -e (m.)",
+          "explanation": "der Gewinn im Sport; jemand hat ein Spiel gewonnen",
+          "english": "victory, -e (m.)",
+          "id": "14"
+        },
+        {
+          "german": "Fußball-WM (f.)",
+          "explanation": "kurz für Fußball-Weltmeisterschaft: das größte internationale Fußballturnier; der Sieger einer WM ist der Weltmeister",
+          "english": "Football World Cup (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Nationalmannschaft, -en (f.)",
+          "explanation": "das offizielle Sportteam eines Landes (z. B. im Fußball)",
+          "english": "national team, -en (f.)",
+          "id": "16"
+        },
+        {
+          "german": "jemanden wie (einen) Helden empfangen",
+          "explanation": "jemanden (wieder)sehen und zeigen, dass man ihn (z. B. wegen einer großen Leistung) sehr bewundert (Substantiv: der Empfang)",
+          "english": "to receive someone like (a) hero",
+          "id": "17"
+        },
+        {
+          "german": "in einer Parade durch die Stadt ziehen",
+          "explanation": "durch eine Stadt gehen und sich feiern lassen",
+          "english": "parade through the city",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
