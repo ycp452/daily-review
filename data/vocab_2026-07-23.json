@@ -1,0 +1,156 @@
+{
+  "articleDate": "2026-07-23",
+  "articleLink": "https://learngerman.dw.com/de/23072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78084041",
+  "articles": [
+    {
+      "title": "Nuklearabkommen zwischen den USA und Saudi-Arabien",
+      "text": "Die USA haben mit Saudi-Arabien ein Nuklearabkommen geschlossen. Das US-Energieministerium hat gesagt, dass die USA Saudi-Arabien beim Aufbau eines zivilen Atomprogramms helfen wollen. Kritiker sagen: Das Abkommen führt vielleicht dazu, dass der Iran Atomwaffen bauen will.\n\n",
+      "vocab": [
+        {
+          "german": "ein Nuklearabkommen schließen",
+          "explanation": "einen Vertrag machen: dabei geht es um Atomkraft",
+          "english": "conclude a nuclear agreement",
+          "id": "1"
+        },
+        {
+          "german": "US-Energieministerium (n., nur Singular)",
+          "explanation": "eine Behörde in den USA: ihre Aufgabe ist die Energiepolitik",
+          "english": "US Department of Energy (n., singular only)",
+          "id": "2"
+        },
+        {
+          "german": "Aufbau (m., hier nur Singular)",
+          "explanation": "hier: die Tatsache, dass es etwas Neues gibt",
+          "english": "Structure (m., here only singular)",
+          "id": "3"
+        },
+        {
+          "german": "ziviles Atomprogramm, zivile Atomprogramme (n.)",
+          "explanation": "ein Plan zur friedlichen Nutzung von Atomenergie: man will damit z. B. Strom produzieren",
+          "english": "civil nuclear program, civil nuclear programs (n.)",
+          "id": "4"
+        },
+        {
+          "german": "Kritiker, -/Kritikerin, -nen",
+          "explanation": "eine Person: sie findet etwas nicht gut oder ist mit jemandem/etwas nicht einverstanden",
+          "english": "Critic, -/critic, -nen",
+          "id": "5"
+        },
+        {
+          "german": "zu etwas führen",
+          "explanation": "etwas verursachen; passieren, weil etwas anderes passiert ist",
+          "english": "lead to something",
+          "id": "6"
+        },
+        {
+          "german": "Atomwaffe, -n (f.)",
+          "explanation": "eine sehr gefährliche Waffe: sie kann sehr viele Menschen töten",
+          "english": "nuclear weapon, -n (f.)",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Viele Ebola-Tote in der Demokratischen Republik Kongo",
+      "text": "Die afrikanische Gesundheitsbehörde Africa CDC sagt: In der Demokratischen Republik Kongo sind seit Mai mehr als 1000 Menschen an Ebola gestorben. Die WHO geht davon aus, dass die Zahl der Toten viel höher ist. Gegen die aktuelle Virusart gibt es keinen Impfstoff. Außerdem breitet sich die Krankheit schneller aus als bei früheren Ebola-Epidemien.\n\n",
+      "vocab": [
+        {
+          "german": "Gesundheitsbehörde, -n (f.)",
+          "explanation": "eine staatliche Stelle: sie kümmert sich um die Gesundheit der Menschen",
+          "english": "health authority, -n (f.)",
+          "id": "8"
+        },
+        {
+          "german": "Ebola (n., nur Singular)",
+          "explanation": "eine gefährliche Krankheit: man kann daran sterben",
+          "english": "Ebola (n., only singular)",
+          "id": "9"
+        },
+        {
+          "german": "WHO (f., nur Singular)",
+          "explanation": "Abkürzung für: Weltgesundheitsorganisation: sie kümmert sich um die Gesundheit der Menschen in vielen Ländern",
+          "english": "WHO (f., only singular)",
+          "id": "10"
+        },
+        {
+          "german": "von etwas aus|gehen",
+          "explanation": "hier: etwas glauben; denken, dass etwas so ist",
+          "english": "to proceed from something",
+          "id": "11"
+        },
+        {
+          "german": "Virusart, -en (f.)",
+          "explanation": "ein kleiner Organismus: er kann Menschen krank machen; davon gibt es verschiedene Gruppe",
+          "english": "virus type, -en (f.)",
+          "id": "12"
+        },
+        {
+          "german": "Impfstoff, -e (m.)",
+          "explanation": "ein Medikament: man bekommt es gegen eine bestimmte Krankheit, wenn man gesund ist; dann kann man die Krankheit nicht bekommen",
+          "english": "vaccine, -e (m.)",
+          "id": "13"
+        },
+        {
+          "german": "sich aus|breiten",
+          "explanation": "hier: immer mehr werden und in mehr Orten als früher sein",
+          "english": "spread out",
+          "id": "14"
+        },
+        {
+          "german": "Epidemie, -n (f.)",
+          "explanation": "eine Krankheit: viele Menschen haben sie gleichzeitig und es werden immer mehr",
+          "english": "epidemic, -n (f.)",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Hackerangriff durch KI",
+      "text": "KI-Modelle von OpenAI haben die Firma Hugging Face gehackt. Die Modelle sind eigenständig aus ihrer Testumgebung herausgekommen und dann in die Computersysteme von Hugging Face eingedrungen. OpenAI hat den Vorfall bestätigt und nennt ihn beispiellos. Nun untersuchen beide Firmen gemeinsam die Situation.\n\n",
+      "vocab": [
+        {
+          "german": "KI-Modell, -e (n.)",
+          "explanation": "ein Programm der Künstlichen Intelligenz (KI): es kann allein Lösungen für Fragen und Probleme finden",
+          "english": "AI model, -e (n.)",
+          "id": "16"
+        },
+        {
+          "german": "etwas hacken (aus dem Englischen)",
+          "explanation": "ohne Erlaubnis in ein Computersystem kommen",
+          "english": "to hack something (from English)",
+          "id": "17"
+        },
+        {
+          "german": "eigenständig",
+          "explanation": "von allein; von selbst; ohne fremde Hilfe",
+          "english": "independently",
+          "id": "18"
+        },
+        {
+          "german": "Testumgebung, -en (f.)",
+          "explanation": "ein digitaler Ort: dort testet man eine Software oder ein Programm",
+          "english": "test environment, -en (f.)",
+          "id": "19"
+        },
+        {
+          "german": "in etwas ein|dringen",
+          "explanation": "hier: Zugang zu etwas bekommen",
+          "english": "penetrate into something",
+          "id": "20"
+        },
+        {
+          "german": "Vorfall, Vorfälle (m.)",
+          "explanation": "etwas, das passiert ist",
+          "english": "incident, incidents (m.)",
+          "id": "21"
+        },
+        {
+          "german": "beispiellos",
+          "explanation": "so, dass es etwas noch nie gegeben hat",
+          "english": "unprecedented",
+          "id": "22"
+        }
+      ]
+    }
+  ]
+}
