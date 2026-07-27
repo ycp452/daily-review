@@ -1,0 +1,138 @@
+{
+  "articleDate": "2026-07-27",
+  "articleLink": "https://learngerman.dw.com/de/27072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78130775",
+  "articles": [
+    {
+      "title": "Berlin: Verdächtiger vom Anschlag auf den Christopher Street Day erschossen",
+      "text": "Die Polizei sagt: Sie hat den Verdächtigen vom Anschlag auf den Berliner Christopher Street Day in einer Kleingartenanlage in der Stadt erschossen. Er soll am Samstag mit einem Lieferwagen in die Menschenmenge gefahren sein. Dabei ist eine Frau gestorben, mindestens 29 weitere Personen sind verletzt. Der Verdächtige war 21 Jahre alt und der Polizei als Islamist bekannt.\n\n",
+      "vocab": [
+        {
+          "german": "Verdächtige, -n (m./f.)",
+          "explanation": "eine Person: man glaubt, sie hat etwas Verbotenes gemacht",
+          "english": "Suspect, -n (m./f.)",
+          "id": "1"
+        },
+        {
+          "german": "Anschlag, Anschläge (m.)",
+          "explanation": "ein Verbrechen; eine verbotene Tat: jemand attackiert eine oder mehrere Personen plötzlich mit Waffen",
+          "english": "stop, stops (m.)",
+          "id": "2"
+        },
+        {
+          "german": "Kleingartenanlage, -n (f.)",
+          "explanation": "ein Ort: kleine private Gärten, oft am Rand einer Stadt",
+          "english": "allotment garden, -n (f.)",
+          "id": "3"
+        },
+        {
+          "german": "jemanden erschießen",
+          "explanation": "jemanden mit einer Schusswaffe, z. B. einer Pistole, töten",
+          "english": "shoot someone",
+          "id": "4"
+        },
+        {
+          "german": "Lieferwagen, - (m.)",
+          "explanation": "ein größerer Wagen: mit ihm kann man Dinge transportieren",
+          "english": "delivery van, - (m.)",
+          "id": "5"
+        },
+        {
+          "german": "Islamist, -en/ Islamistin, -nen",
+          "explanation": "hier eine Person: sie nutzt den Islam für politische Ziele und benutzt auch Gewalt",
+          "english": "Islamist, -en/ Islamist, -nen",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Waldbrände in Frankreich und Spanien",
+      "text": "Starke Waldbrände an der französischen Atlantikküste haben große Teile des Landes zerstört und bedrohen die Stadt Bordeaux. Man hat in Frankreich rund 220.000 Menschen evakuiert. In Spanien haben Waldbrände in der Nähe von Madrid und Valencia Zehntausende Menschen zur Flucht aus ihren Häusern gezwungen.\n\n",
+      "vocab": [
+        {
+          "german": "Waldbrand, -brände (m.)",
+          "explanation": "eine gefährliche Situation: es gibt Feuer in einem Wald; die Tatsache, dass ein Wald brennt",
+          "english": "Forest fire, fires (m.)",
+          "id": "7"
+        },
+        {
+          "german": "Küste, -n (f.)",
+          "explanation": "ein Stück Land: es liegt direkt am Meer",
+          "english": "coast, -n (f.)",
+          "id": "8"
+        },
+        {
+          "german": "etwas zerstören",
+          "explanation": "etwas kaputt machen",
+          "english": "destroy something",
+          "id": "9"
+        },
+        {
+          "german": "jemanden oder etwas bedrohen",
+          "explanation": "hier: jemanden oder etwas in Gefahr bringen",
+          "english": "threaten someone or something",
+          "id": "10"
+        },
+        {
+          "german": "jemanden evakuieren",
+          "explanation": "Menschen von einem gefährlichen Ort wegbringen",
+          "english": "evacuate someone",
+          "id": "11"
+        },
+        {
+          "german": "Flucht, -en (f., meist Singular)",
+          "explanation": "eine Situation: man geht oder läuft von zu Hause weg, weil es dort gefährlich ist",
+          "english": "escape, -en (f., mostly singular)",
+          "id": "12"
+        },
+        {
+          "german": "jemanden zu etwas zwingen",
+          "explanation": "jemandem keine Wahl lassen; dafür sorgen, dass jemand etwas tun muss",
+          "english": "force someone to do something",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine-Krieg: Neue Angriffe Russlands",
+      "text": "In der Nacht hat es einen weiteren großen Angriff Russlands mit Raketen und Drohnen auf die Ukraine gegeben. Mindestens vier Menschen sind gestorben. In Kyjiw sind mindestens drei Menschen bei Explosionen verletzt worden. Eine Überwachungskamera zeigt: In Charkiw hat eine Rakete eine Frau getötet und mindestens 16 weitere Menschen verletzt.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "hier: eine Attacke des Militärs",
+          "english": "attack, -e (m.)",
+          "id": "14"
+        },
+        {
+          "german": "Rakete, -n (f.)",
+          "explanation": "eine Waffe: sie fliegt durch die Luft und explodiert",
+          "english": "rocket, -n (f.)",
+          "id": "15"
+        },
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein Fluggerät ohne Piloten oder Pilotin: man kann sie als Waffen benutzen",
+          "english": "drone, -n (f.)",
+          "id": "16"
+        },
+        {
+          "german": "Explosion, en (f.)",
+          "explanation": "eine Situation: etwas geht mit einem sehr lauten Geräusch plötzlich kaputt (z.B., weil eine Waffe etwas trifft), dabei kann es Tote und/oder Verletzte geben",
+          "english": "explosion, en (f.)",
+          "id": "17"
+        },
+        {
+          "german": "Überwachungskamera, -s (f.)",
+          "explanation": "eine Kamera: sie hängt oft in Städten und soll die Menschen filmen bzw. für Sicherheit sorgen",
+          "english": "surveillance camera, -s (f.)",
+          "id": "18"
+        },
+        {
+          "german": "jemanden töten",
+          "explanation": "jemandem das Leben nehmen; machen, dass jemand stirbt",
+          "english": "kill someone",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
