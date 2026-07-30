@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-07-30",
+  "articleLink": "https://learngerman.dw.com/de/30072026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78175775",
+  "articles": [
+    {
+      "title": "Neue Luftangriffe Russlands auf die Ukraine",
+      "text": "Bei neuen russischen Luftangriffen auf die Ukraine sind mindestens 13 Menschen gestorben. Die Angriffe haben auch die westukrainische Stadt Lwiw erreicht. Das benachbarte Polen hat deshalb Kampfflugzeuge in die Luft geschickt. Der ukrainische Präsident Wolodymyr Selenskyj ist gerade von einem Treffen mit US-Präsident Donald Trump zurückgekommen. Er hat gesagt: Trump will der Ukraine erlauben, selbst Patriot‑Abfangraketen herzustellen.\n\n",
+      "vocab": [
+        {
+          "german": "Luftangriff, -e (m.)",
+          "explanation": "die (militärische) Gewalt aus der Luft (z. B. mit Flugzeugen oder Drohnen)",
+          "english": "air raid, -e (m.)",
+          "id": "1"
+        },
+        {
+          "german": "benachbart",
+          "explanation": "so, dass sich etwas (z. B. ein Land) direkt daneben befindet",
+          "english": "neighboring",
+          "id": "2"
+        },
+        {
+          "german": "Kampfflugzeug, -e (n.)",
+          "explanation": "ein Flugzeug für den Krieg; ein militärisches Flugzeug",
+          "english": "Fighter aircraft, -e (n.)",
+          "id": "3"
+        },
+        {
+          "german": "Präsident, -en/Präsidentin, -nen",
+          "explanation": "der höchste Politiker/die höchste Politikerin in einem Land; der Chef/die Chefin einer Regierung",
+          "english": "President, -en/President, -nen",
+          "id": "4"
+        },
+        {
+          "german": "Patriot-Abfangrakete, -n (f.)",
+          "explanation": "ein militärisches System gegen Luftangriffe: es sorgt dafür, dass z. B. Raketen oder Flugzeuge ein Ziel nicht treffen",
+          "english": "Patriot interceptor missile, -n (f.)",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Waldbrandgefahr in Europa immer größer",
+      "text": "Die EU-Katastrophenschutzbehörde sagt: Die Gefahr von Waldbränden wird auch in anderen Teilen Europas immer größer. Brände gibt es jetzt auch in Griechenland und Italien. Auf der griechischen Insel Kreta sind zwei Feuerwehrleute gestorben. In der nordwestspanischen Provinz Zamora ist ein neuer Waldbrand ausgebrochen. In den Teilen von Frankreich und Spanien, in denen der Wald schon brennt, ist es weiter sehr heiß.\n\n",
+      "vocab": [
+        {
+          "german": "EU-Katastrophenschutzbehörde (f., nur Singular)",
+          "explanation": "eine Institution der Europäischen Union: sie kümmert sich um sehr große Gefahren und schützt die Menschen davor",
+          "english": "EU Civil Protection Authority (f., only singular)",
+          "id": "6"
+        },
+        {
+          "german": "Gefahr, -en (f.)",
+          "explanation": "eine gefährliche Situation",
+          "english": "danger, -en (f.)",
+          "id": "7"
+        },
+        {
+          "german": "Waldbrand, -brände (m.)",
+          "explanation": "eine gefährliche Situation: es gibt Feuer in einem Wald; die Tatsache, dass ein Wald brennt",
+          "english": "Forest fire, fires (m.)",
+          "id": "8"
+        },
+        {
+          "german": "Feuerwehrleute (nur Plural)",
+          "explanation": "Menschen: sie helfen bei Bränden, Unfällen und anderen Notfällen; sie sind bei einer Organisation, der Feuerwehr",
+          "english": "Firefighters (plural only)",
+          "id": "9"
+        },
+        {
+          "german": "Provinz, -en (f.)",
+          "explanation": "hier: ein Landesteil",
+          "english": "province, -en (f.)",
+          "id": "10"
+        },
+        {
+          "german": "aus|brechen",
+          "explanation": "hier: plötzlich beginnen oder entstehen",
+          "english": "break out",
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "title": "Erdbeben in Japan",
+      "text": "In Japan haben Hilfs- und Wiederaufbaumaßnahmen begonnen. Am Dienstag hat es auf der südlichen Insel Kyushu ein Erdbeben der Stärke 7,1 gegeben. Mindestens 17 Menschen sind gestorben. Die größten Schäden hat es in einem Einkaufszentrum in der Stadt Kashima gegeben. Dort hat das Erdbeben wahrscheinlich eine Gasexplosion ausgelöst.\n\n",
+      "vocab": [
+        {
+          "german": "Wiederaufbaumaßnahme, -n (f.)",
+          "explanation": "eine Aktion: man will die kaputten Gebäude und Anlagen reparieren oder neu bauen",
+          "english": "reconstruction measure, -n (f.)",
+          "id": "12"
+        },
+        {
+          "german": "Erdbeben, - (n.)",
+          "explanation": "ein Naturereignis oder eine Naturkatastrophe: die Erde bewegt sich",
+          "english": "earthquake, - (n.)",
+          "id": "13"
+        },
+        {
+          "german": "Stärke (f., hier nur Singular)",
+          "explanation": "hier: ein Wert auf der sogenannten Richterskala: man misst so, wie stark ein Erdbeben ist: eine Stärke über 7 ist sehr groß",
+          "english": "strength (f., here only singular)",
+          "id": "14"
+        },
+        {
+          "german": "Schaden, Schäden (m.)",
+          "explanation": "die negativen Folgen einer Aktion oder eines Ereignisses: Teile von etwas sind kaputt gegangen",
+          "english": "damage, damage (m.)",
+          "id": "15"
+        },
+        {
+          "german": "Einkaufszentrum, -zentren (n.)",
+          "explanation": "ein großes Gebäude mit vielen Geschäften",
+          "english": "shopping center, centers (n.)",
+          "id": "16"
+        },
+        {
+          "german": "Gasexplosion, en (f.)",
+          "explanation": "eine Situation: etwas geht wegen Gas (einem Rohstoff für Energie) mit einem sehr lauten Geräusch plötzlich kaputt",
+          "english": "gas explosion, en (f.)",
+          "id": "17"
+        },
+        {
+          "german": "etwas aus|lösen",
+          "explanation": "hier: der Grund, die Ursache für ein Ereignis sein; etwas verursachen",
+          "english": "trigger something",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
