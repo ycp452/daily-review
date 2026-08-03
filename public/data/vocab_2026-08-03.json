@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-08-03",
+  "articleLink": "https://learngerman.dw.com/de/03082026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78218477",
+  "articles": [
+    {
+      "title": "Zwei Piloten sterben bei Waldbränden in Griechenland",
+      "text": "In Griechenland sind im Westen von Athen zwei Hubschrauber in der Luft zusammengestoßen. Einer der beiden Hubschrauber ist explodiert und abgestürzt. Pilot und Co-Pilot sind dabei gestorben. Die Hubschrauber sollten Waldbrände löschen. In Griechenland gibt es aktuell mehrere große Brände. Ein Brand bei Athen hat über 100 Häuser zerstört.\n\n",
+      "vocab": [
+        {
+          "german": "Hubschrauber, - (m.)",
+          "explanation": "ein Fluggerät; ein Helikopter",
+          "english": "helicopter, - (m.)",
+          "id": "1"
+        },
+        {
+          "german": "zusammen|stoßen",
+          "explanation": "einen Unfall mit einem anderen Fahrzeug haben; kollidieren",
+          "english": "collide",
+          "id": "2"
+        },
+        {
+          "german": "explodieren",
+          "explanation": "mit großer Kraft und einem lauten Geräusch plötzlich kaputtgehen",
+          "english": "explode",
+          "id": "3"
+        },
+        {
+          "german": "ab|stürzen",
+          "explanation": "hier: vom Himmel fallen: ein Flugzeug oder Hubschrauber kann nicht weiterfliegen und fällt auf den Boden",
+          "english": "crash|crash",
+          "id": "4"
+        },
+        {
+          "german": "Pilot, -en/Pilotin, -nen",
+          "explanation": "eine Person: sie fliegt z. B. ein Flugzeug oder einen Helikopter",
+          "english": "Pilot, -en/Pilotin, -nen",
+          "id": "5"
+        },
+        {
+          "german": "Waldbrand, -brände (m.)",
+          "explanation": "eine gefährliche Situation: es gibt Feuer in einem Wald; die Tatsache, dass ein Wald brennt",
+          "english": "Forest fire, fires (m.)",
+          "id": "6"
+        },
+        {
+          "german": "etwas löschen",
+          "explanation": "hier: ein Feuer stoppen; machen, dass es nicht mehr brennt",
+          "english": "delete something",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Tote und Verletzte nach Angriffen in der Ukraine und Russland",
+      "text": "Bei russischen Luftangriffen auf die ukrainische Stadt Saporischschja ist mindestens ein Mensch gestorben; mehr als 30 Menschen sind verletzt. Russische Behörden sagen, dass mindestens acht Menschen bei ukrainischen Drohnenangriffen in Russland gestorben sind. Die ukrainischen Drohnen haben auch ein Lager des größten russischen Online-Händlers „Wildberries“ in der Region Samara getroffen.\n\nRegion, -en (f.)  –  die Gegend; der Teil eines Landes\n\n",
+      "vocab": [
+        {
+          "german": "Luftangriff, -e (m.)",
+          "explanation": "die (militärische) Gewalt aus der Luft (z. B. mit Flugzeugen, Raketen oder Drohnen)",
+          "english": "air raid, -e (m.)",
+          "id": "8"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "eine offizielle staatliche Stelle: dort arbeiten Menschen für den Staat",
+          "english": "authority, -n (f.)",
+          "id": "9"
+        },
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein kleines Flugobjekt: es kann selbstständig fliegen; man benutzt es auch im Krieg als Waffe",
+          "english": "drone, -n (f.)",
+          "id": "10"
+        },
+        {
+          "german": "Lager, - (n.)",
+          "explanation": "ein Ort: dort hat eine Firma Waren oder andere Dinge",
+          "english": "camp, - (n.)",
+          "id": "11"
+        },
+        {
+          "german": "Online-Händler, - (m.)",
+          "explanation": "hier: eine Firma: sie verkauft Produkte über das Internet",
+          "english": "Online retailer, - (m.)",
+          "id": "12"
+        },
+        {
+          "german": "etwas treffen",
+          "explanation": "hier: etwas mit einer Waffe erreichen, beschädigen oder kaputt machen",
+          "english": "hit something",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Brand auf Fähre in Indonesien",
+      "text": "Bei einem Brand auf einer Fähre in der Nähe der indonesischen Insel Madura vor Java sind mindestens fünf Menschen gestorben. Dutzende Menschen hat man noch nicht gefunden. Auf der Fähre waren 271 Menschen. Die Marine und Handelsschiffe in der Nähe haben bei der Rettung geholfen.\n\nBrand, Brände (m.)  –  ein Feuer: es zerstört z. B. Häuser oder Fahrzeuge\n\n",
+      "vocab": [
+        {
+          "german": "Fähre, -n (f.)",
+          "explanation": "ein Schiff: es transportiert Menschen oder Fahrzeuge über Wasser",
+          "english": "ferry, -n (f.)",
+          "id": "14"
+        },
+        {
+          "german": "Dutzend, -e (n.)",
+          "explanation": "eine Menge von 12; im Plural: viele, aber meist unter 100",
+          "english": "dozen, -e (n.)",
+          "id": "15"
+        },
+        {
+          "german": "Marine (f., nur Singular)",
+          "explanation": "Soldatinnen und Soldaten: sie arbeiten normalerweise auf Schiffen und gehören zum Militär eines Landes",
+          "english": "Marine (f., only singular)",
+          "id": "16"
+        },
+        {
+          "german": "Handelsschiff, -e (n.)",
+          "explanation": "ein Schiff: es transportiert Waren und Produkte",
+          "english": "merchant ship, -e (n.)",
+          "id": "17"
+        },
+        {
+          "german": "Rettung, -en (f., meist Singular)",
+          "explanation": "eine Aktion: man hilft Menschen in gefährlichen Situationen",
+          "english": "rescue, -en (f., mostly singular)",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
