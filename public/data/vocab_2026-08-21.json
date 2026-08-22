@@ -8,39 +8,27 @@
       "vocab": [
         {
           "german": "Gericht, -e (n.)",
-          "explanation": "hier eine Institution: sie sagt, was nach den Gesetzen richtig oder falsch ist",
-          "english": "court, -e (n.)",
-          "id": "1"
+          "explanation": "hier eine Institution: sie sagt, was nach den Gesetzen richtig oder falsch ist"
         },
         {
           "german": "Aktivist,-en/Aktivistin, -nen",
-          "explanation": "eine Person: sie will bestimmte politische Ziele mit ihren Aktionen erreichen",
-          "english": "Activist,-s/activist,-nen",
-          "id": "2"
+          "explanation": "eine Person: sie will bestimmte politische Ziele mit ihren Aktionen erreichen"
         },
         {
           "german": "jemanden schuldig sprechen",
-          "explanation": "offiziell (als Gericht) sagen, dass jemand etwas Verbotenes gemacht hat",
-          "english": "to find someone guilty",
-          "id": "3"
+          "explanation": "offiziell (als Gericht) sagen, dass jemand etwas Verbotenes gemacht hat"
         },
         {
           "german": "Protest, -e (m.)",
-          "explanation": "eine Aktion: Menschen gehen auf die Straße, weil sie gegen jemanden oder etwas sind",
-          "english": "protest, -e (m.)",
-          "id": "4"
+          "explanation": "eine Aktion: Menschen gehen auf die Straße, weil sie gegen jemanden oder etwas sind"
         },
         {
           "german": "jemanden zur Subversion an|stiften",
-          "explanation": "andere Menschen dazu bringen, dass sie etwas gegen die Regierung machen",
-          "english": "to incite someone to subvert",
-          "id": "5"
+          "explanation": "andere Menschen dazu bringen, dass sie etwas gegen die Regierung machen"
         },
         {
           "german": "Gefängnis, -e (n.)",
-          "explanation": "ein Ort: hier muss man bleiben, weil ein Gericht das entschieden hat; man lebt dort nicht mehr frei",
-          "english": "prison, -e (n.)",
-          "id": "6"
+          "explanation": "ein Ort: hier muss man bleiben, weil ein Gericht das entschieden hat; man lebt dort nicht mehr frei"
         }
       ]
     },
@@ -50,33 +38,23 @@
       "vocab": [
         {
           "german": "ehemalig",
-          "explanation": "früher",
-          "english": "former",
-          "id": "7"
+          "explanation": "früher"
         },
         {
           "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
-          "explanation": "der Chef/die Chefin der Regierung in einem Land",
-          "english": "Prime Minister, -en/Prime Minister, -nen",
-          "id": "8"
+          "explanation": "der Chef/die Chefin der Regierung in einem Land"
         },
         {
           "german": "Gefängnis, -e (n.)",
-          "explanation": "ein Ort: hier muss man bleiben, weil ein Gericht das entschieden hat; man lebt dort nicht mehr frei",
-          "english": "prison, -e (n.)",
-          "id": "9"
+          "explanation": "ein Ort: hier muss man bleiben, weil ein Gericht das entschieden hat; man lebt dort nicht mehr frei"
         },
         {
           "german": "Korruptionsvorwurf, -vorwürfe (m.)",
-          "explanation": "eine Situation: jemand sagt, dass eine wichtige Person ihre Macht benutzt hat und so Vorteile bekommen hat",
-          "english": "Accusations of corruption (m.)",
-          "id": "10"
+          "explanation": "eine Situation: jemand sagt, dass eine wichtige Person ihre Macht benutzt hat und so Vorteile bekommen hat"
         },
         {
           "german": "politisch motiviert",
-          "explanation": "so, dass es politische Gründe für etwas (z. B. für ein Gerichtsurteil) gibt: diese sind wichtiger als andere Gründe",
-          "english": "politically motivated",
-          "id": "11"
+          "explanation": "so, dass es politische Gründe für etwas (z. B. für ein Gerichtsurteil) gibt: diese sind wichtiger als andere Gründe"
         }
       ]
     },
@@ -86,45 +64,31 @@
       "vocab": [
         {
           "german": "Boot, -e (n.)",
-          "explanation": "ein kleines Schiff",
-          "english": "boat, -e (n.)",
-          "id": "12"
+          "explanation": "ein kleines Schiff"
         },
         {
           "german": "Passagier, -e/Passagierin, -nen",
-          "explanation": "eine Person: sie fährt auf einem Schiff mit oder fliegt mit einem Flugzeug",
-          "english": "Passenger, -e/passenger, -nen",
-          "id": "13"
+          "explanation": "eine Person: sie fährt auf einem Schiff mit oder fliegt mit einem Flugzeug"
         },
         {
           "german": "kentern",
-          "explanation": "passieren, dass ein Boot oder ein Schiff zur Seite fällt",
-          "english": "capsize",
-          "id": "14"
+          "explanation": "passieren, dass ein Boot oder ein Schiff zur Seite fällt"
         },
         {
           "german": "Behörde, -n (f.)",
-          "explanation": "die offizielle staatliche Institution; die staatliche Organisation",
-          "english": "authority, -n (f.)",
-          "id": "15"
+          "explanation": "die offizielle staatliche Institution; die staatliche Organisation"
         },
         {
           "german": "häufig",
-          "explanation": "oft; immer wieder",
-          "english": "often",
-          "id": "16"
+          "explanation": "oft; immer wieder"
         },
         {
           "german": "sich an etwas halten",
-          "explanation": "hier: etwas so machen, wie es die Regeln sagen",
-          "english": "stick to something",
-          "id": "17"
+          "explanation": "hier: etwas so machen, wie es die Regeln sagen"
         },
         {
           "german": "Sicherheitsvorschrift, -en (f.)",
-          "explanation": "eine Regel: sie macht etwas sicherer für die Menschen",
-          "english": "safety regulations, -en (f.)",
-          "id": "18"
+          "explanation": "eine Regel: sie macht etwas sicherer für die Menschen"
         }
       ]
     }
