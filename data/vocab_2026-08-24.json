@@ -8,35 +8,43 @@
       "vocab": [
         {
           "german": "Außenminister, -/Außenministerin, -nen",
-          "explanation": "eine hohe Politikerin/ein hoher Politiker: die Person kümmert sich um die Kontakte eines Landes zu anderen Ländern"
+          "explanation": "eine hohe Politikerin/ein hoher Politiker: die Person kümmert sich um die Kontakte eines Landes zu anderen Ländern",
+          "id": "1"
         },
         {
           "german": "Drohung, -en (f.)",
-          "explanation": "eine Aussage: man sagt, dass man etwas Schlechtes oder Gefährliches machen will (Verb: jemandem drohen)"
+          "explanation": "eine Aussage: man sagt, dass man etwas Schlechtes oder Gefährliches machen will (Verb: jemandem drohen)",
+          "id": "2"
         },
         {
           "german": "Sanktion, -en (f.)",
-          "explanation": "eine Strafe gegen ein Land: andere Länder kaufen zum Beispiel bestimmte Produkte von dort nicht"
+          "explanation": "eine Strafe gegen ein Land: andere Länder kaufen zum Beispiel bestimmte Produkte von dort nicht",
+          "id": "3"
         },
         {
           "german": "Zeichen, - (n.)",
-          "explanation": "ein Signal"
+          "explanation": "ein Signal",
+          "id": "4"
         },
         {
           "german": "Verzweiflung (f., nur Singular)",
-          "explanation": "ein Gefühl: man weiß nicht, was man machen soll"
+          "explanation": "ein Gefühl: man weiß nicht, was man machen soll",
+          "id": "5"
         },
         {
           "german": "Finanzminister, -/Finanzministerin, -nen",
-          "explanation": "eine hohe Politikerin/ein hoher Politiker: die Person kümmert sich um das Geld eines Landes"
+          "explanation": "eine hohe Politikerin/ein hoher Politiker: die Person kümmert sich um das Geld eines Landes",
+          "id": "6"
         },
         {
           "german": "eine Pressekonferenz geben",
-          "explanation": "bei einem Termin mit Journalistinnen und Journalisten sprechen"
+          "explanation": "bei einem Termin mit Journalistinnen und Journalisten sprechen",
+          "id": "7"
         },
         {
           "german": "Wirtschaft (f., nur Singular)",
-          "explanation": "hier: die Produktion und der Verkauf von Produkten und Dienstleistungen in einem Land"
+          "explanation": "hier: die Produktion und der Verkauf von Produkten und Dienstleistungen in einem Land",
+          "id": "8"
         }
       ]
     },
@@ -46,31 +54,38 @@
       "vocab": [
         {
           "german": "Erdrutsch, -e (m.)",
-          "explanation": "ein Unfall: an einem Ort fällt Erde von oben nach unten, oft nach einem starken Regen"
+          "explanation": "ein Unfall: an einem Ort fällt Erde von oben nach unten, oft nach einem starken Regen",
+          "id": "9"
         },
         {
           "german": "Mülldeponie, -n (f.)",
-          "explanation": "ein Ort: dort liegt der Müll von vielen Menschen"
+          "explanation": "ein Ort: dort liegt der Müll von vielen Menschen",
+          "id": "10"
         },
         {
           "german": "nahegelegen",
-          "explanation": "in der Nähe"
+          "explanation": "in der Nähe",
+          "id": "11"
         },
         {
           "german": "etwas verschütten",
-          "explanation": "hier: etwas mit Erde bedecken"
+          "explanation": "hier: etwas mit Erde bedecken",
+          "id": "12"
         },
         {
           "german": "Anwohner, -/Anwohnerin, -nen",
-          "explanation": "Menschen: sie wohnen in der Nähe dieses Orts"
+          "explanation": "Menschen: sie wohnen in der Nähe dieses Orts",
+          "id": "13"
         },
         {
           "german": "etwas verlassen",
-          "explanation": "von einem Ort weggehen"
+          "explanation": "von einem Ort weggehen",
+          "id": "14"
         },
         {
           "german": "Behörde, -n (f.)",
-          "explanation": "die staatliche Institution; das Amt"
+          "explanation": "die staatliche Institution; das Amt",
+          "id": "15"
         }
       ]
     },
@@ -80,19 +95,23 @@
       "vocab": [
         {
           "german": "Roboter, - (m.)",
-          "explanation": "eine Maschine: sie kann bestimmte Arbeiten automatisch machen"
+          "explanation": "eine Maschine: sie kann bestimmte Arbeiten automatisch machen",
+          "id": "16"
         },
         {
           "german": "einen Weltrekord brechen",
-          "explanation": "eine noch bessere Leistung als die bisher beste Leistung auf der Welt schaffen (zum Beispiel der schnellste Lauf oder der weiteste Sprung)"
+          "explanation": "eine noch bessere Leistung als die bisher beste Leistung auf der Welt schaffen (zum Beispiel der schnellste Lauf oder der weiteste Sprung)",
+          "id": "17"
         },
         {
           "german": "Eröffnung, -en (f.)",
-          "explanation": "hier: der Beginn einer Veranstaltung"
+          "explanation": "hier: der Beginn einer Veranstaltung",
+          "id": "18"
         },
         {
           "german": "World Humanoid Robot Games (nur Plural)",
-          "explanation": "Englisch für: Weltmeisterschaft der humanoiden Roboter: eine Sportveranstaltung für menschenähnliche Roboter"
+          "explanation": "Englisch für: Weltmeisterschaft der humanoiden Roboter: eine Sportveranstaltung für menschenähnliche Roboter",
+          "id": "19"
         }
       ]
     }
