@@ -5,6 +5,11 @@
   margin-top: 2rem;
 }
 
+/* Fallback layout when the scraper's translation step failed and no English is available. */
+.game-board.two-columns {
+  grid-template-columns: repeat(2, 1fr);
+}
+
 .column {
   display: flex;
   flex-direction: column;

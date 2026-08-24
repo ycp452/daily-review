@@ -247,6 +247,10 @@ def main():
             print("No vocabulary found in article.")
             return
 
+        # Always assign IDs — the UI keys on them even when translation is unavailable.
+        for i, item in enumerate(all_vocab_items):
+            item["id"] = str(i + 1)
+
         print(f"Translating {len(all_vocab_items)} German words to English...")
         try:
             words_to_translate = [item["german"] for item in all_vocab_items]
@@ -254,12 +258,12 @@ def main():
             translator = GoogleTranslator(source='de', target='en')
             bulk_english = translator.translate(bulk_text)
             english_words = bulk_english.split('\n')
-            
+
             for i, item in enumerate(all_vocab_items):
                 item["english"] = english_words[i].strip() if i < len(english_words) else ""
-                item["id"] = str(i + 1)
         except Exception as e:
             print(f"Warning: Bulk translation failed: {e}")
+            print("Continuing without English — UI falls back to 2-column mode.")
             
         final_output = {
             "articleDate": date_str,

@@ -5,7 +5,7 @@ export interface VocabItem {
   id: string;
   german: string;
   explanation: string;
-  english: string;
+  english?: string; // May be absent when the scraper's translator fails.
 }
 
 export type CardType = 'german' | 'english' | 'explanation';
@@ -28,11 +28,17 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
   const [explanationCards, setExplanationCards] = useState<Card[]>([]);
   
   const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
-  const [currentStep, setCurrentStep] = useState<number>(0); // 0: German, 1: English, 2: Explanation
-  
+  const [currentStep, setCurrentStep] = useState<number>(0); // 0: German, 1: English*, 2: Explanation (*skipped when translations missing)
+
   const [selectedCards, setSelectedCards] = useState<Card[]>([]);
   const [matchedIds, setMatchedIds] = useState<Set<string>>(new Set());
   const [shakeIds, setShakeIds] = useState<string[]>([]);
+
+  // Fall back to a 2-column German↔Explanation game when any item lacks a translation
+  // (the scraper's bulk translator can fail — see scraper/dw_scraper.py).
+  const hasEnglish = vocabData.length > 0 && vocabData.every(v => !!v.english);
+  const totalSteps = hasEnglish ? 3 : 2;
+  const explanationStep = hasEnglish ? 2 : 1;
   
   useEffect(() => {
     const handleResize = () => setIsMobile(window.innerWidth < 768);
@@ -48,7 +54,9 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
     
     vocabData.forEach(item => {
       ge.push({ id: `ge-${item.id}`, text: item.german, type: 'german', vocabId: item.id });
-      en.push({ id: `en-${item.id}`, text: item.english, type: 'english', vocabId: item.id });
+      if (item.english) {
+        en.push({ id: `en-${item.id}`, text: item.english, type: 'english', vocabId: item.id });
+      }
       ex.push({ id: `ex-${item.id}`, text: item.explanation, type: 'explanation', vocabId: item.id });
     });
     
@@ -63,11 +71,11 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
   }, [vocabData]);
 
   useEffect(() => {
-    if (selectedCards.length === 3) {
-      const [first, second, third] = selectedCards;
-      
-      if (first.vocabId === second.vocabId && second.vocabId === third.vocabId) {
-        // Match!
+    if (selectedCards.length === totalSteps) {
+      const first = selectedCards[0];
+      const isMatch = selectedCards.every(c => c.vocabId === first.vocabId);
+
+      if (isMatch) {
         setTimeout(() => {
           setMatchedIds(prev => {
             const newSet = new Set(prev);
@@ -91,10 +99,10 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
         }, 800);
       }
     }
-  }, [selectedCards, vocabData, onComplete]);
+  }, [selectedCards, vocabData, onComplete, totalSteps]);
 
   const handleCardClick = (card: Card) => {
-    if (matchedIds.has(card.vocabId) || selectedCards.length === 3 || shakeIds.length > 0) {
+    if (matchedIds.has(card.vocabId) || selectedCards.length === totalSteps || shakeIds.length > 0) {
       return;
     }
     
@@ -123,11 +131,11 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
     if (isShaking) className += ' shake';
 
     return (
-      <button 
-        key={card.id} 
+      <button
+        key={card.id}
         className={className}
         onClick={() => handleCardClick(card)}
-        disabled={isMatched || (selectedCards.length === 3 && !isShaking)}
+        disabled={isMatched || (selectedCards.length === totalSteps && !isShaking)}
       >
         {card.text}
       </button>
@@ -135,11 +143,11 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
   };
 
   return (
-    <div className={`game-board ${isMobile ? 'mobile-sequential' : ''}`}>
+    <div className={`game-board ${isMobile ? 'mobile-sequential' : ''} ${!hasEnglish ? 'two-columns' : ''}`}>
       {isMobile ? (
         <div className="sequential-view">
           <div className="game-status">
-            <div className="step-indicator">Step {currentStep + 1} of 3</div>
+            <div className="step-indicator">Step {currentStep + 1} of {totalSteps}</div>
             {selectedCards.length > 0 && (
                 <div className="selected-path">
                     {selectedCards.map((c, i) => (
@@ -155,12 +163,12 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
           <div className="column active-column">
             <h2 className="column-title">
               {currentStep === 0 && 'Pick German Word'}
-              {currentStep === 1 && 'Find English Match'}
-              {currentStep === 2 && 'Select Explanation'}
+              {hasEnglish && currentStep === 1 && 'Find English Match'}
+              {currentStep === explanationStep && 'Select Explanation'}
             </h2>
             {currentStep === 0 && germanCards.map(renderCard)}
-            {currentStep === 1 && englishCards.map(renderCard)}
-            {currentStep === 2 && explanationCards.map(renderCard)}
+            {hasEnglish && currentStep === 1 && englishCards.map(renderCard)}
+            {currentStep === explanationStep && explanationCards.map(renderCard)}
           </div>
         </div>
       ) : (
@@ -169,11 +177,13 @@ export const PairingGame: React.FC<PairingGameProps> = ({ vocabData, onComplete 
             <h2 className="column-title">German</h2>
             {germanCards.map(renderCard)}
           </div>
-          
-          <div className="column">
-            <h2 className="column-title">English</h2>
-            {englishCards.map(renderCard)}
-          </div>
+
+          {hasEnglish && (
+            <div className="column">
+              <h2 className="column-title">English</h2>
+              {englishCards.map(renderCard)}
+            </div>
+          )}
 
           <div className="column">
             <h2 className="column-title">Explanation</h2>
