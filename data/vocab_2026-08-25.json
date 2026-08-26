@@ -9,44 +9,37 @@
         {
           "german": "Unabhängigkeitstag, -e (m.)",
           "explanation": "ein bestimmter Tag im Jahr: an diesem Datum ist ein Land frei geworden und kann seitdem allein seine Politik bestimmen",
-          "id": "1",
-          "english": "Independence Day, -e (m.)"
+          "id": "1"
         },
         {
           "german": "Staats- und Regierungschef, -s/Staats- und Regierungschefin, -nen",
           "explanation": "der höchste Politiker/die höchste Politikerin eines Landes",
-          "id": "2",
-          "english": "Head of state and government, -s/head of state and government, -nen"
+          "id": "2"
         },
         {
           "german": "gerecht",
           "explanation": "fair; für alle Seiten gleich gut",
-          "id": "3",
-          "english": "fair"
+          "id": "3"
         },
         {
           "german": "Frieden (m., nur Singular)",
           "explanation": "hier: das Ende eines Krieges",
-          "id": "4",
-          "english": "peace (m., only singular)"
+          "id": "4"
         },
         {
           "german": "Premierminister, -/Premierministerin, -nen",
           "explanation": "der Regierungschef/die Regierungschefin",
-          "id": "5",
-          "english": "Prime Minister, -/Prime Minister, -nen"
+          "id": "5"
         },
         {
           "german": "jemanden bei etwas unterstützen",
           "explanation": "jemandem bei etwas helfen",
-          "id": "6",
-          "english": "support someone with something"
+          "id": "6"
         },
         {
           "german": "Langstreckenwaffe, -n (f.)",
           "explanation": "eine Waffe, die man über eine lange Distanz benutzen kann, zum Beispiel eine Rakete",
-          "id": "7",
-          "english": "long-range weapon, -n (f.)"
+          "id": "7"
         }
       ]
     },
@@ -57,50 +50,42 @@
         {
           "german": "Finanzminister, -/Finanzministerin, -nen",
           "explanation": "ein hoher Politiker/eine hohe Politikerin: er/sie kümmert sich um das Geld eines Landes",
-          "id": "8",
-          "english": "Minister of Finance"
+          "id": "8"
         },
         {
           "german": "umfassend",
           "explanation": "hier: umfangreich; stark; so, dass etwas viele Bereiche betrifft",
-          "id": "9",
-          "english": "comprehensive"
+          "id": "9"
         },
         {
           "german": "Sanktion, -en (f.)",
           "explanation": "hier: eine wirtschaftliche Strafe gegen ein Land",
-          "id": "10",
-          "english": "sanction, -en (f.)"
+          "id": "10"
         },
         {
           "german": "wirtschaftlich",
           "explanation": "ökonomisch; so, dass es um die Produktion und den Verkauf von Produkten und Dienstleistungen geht",
-          "id": "11",
-          "english": "economical"
+          "id": "11"
         },
         {
           "german": "Lebensader, -n (f.)",
           "explanation": "hier: die wichtigen Verbindungen: sie halten ein Land am Leben",
-          "id": "12",
-          "english": "lifeline, -n (f.)"
+          "id": "12"
         },
         {
           "german": "jemanden/etwas treffen",
           "explanation": "hier: jemanden oder etwas verletzen; jemandem oder etwas schaden",
-          "id": "13",
-          "english": "meet someone/something"
+          "id": "13"
         },
         {
           "german": "jemanden zu etwas zwingen",
           "explanation": "jemandem/etwas keine Wahl lassen: jemand/etwas muss etwas machen",
-          "id": "14",
-          "english": "force someone to do something"
+          "id": "14"
         },
         {
           "german": "Zugeständnis, -se (n.)",
           "explanation": "ein Kompromiss: man sagt, dass man mit etwas einverstanden ist, obwohl man es nicht gut findet",
-          "id": "15",
-          "english": "concession, -se (n.)"
+          "id": "15"
         }
       ]
     },
@@ -111,56 +96,47 @@
         {
           "german": "Migrant, -en/Migrantin, -nen",
           "explanation": "eine Person: sie geht in ein anderes Land und möchte dort leben",
-          "id": "16",
-          "english": "Migrant, -en/Migrantin, -nen"
+          "id": "16"
         },
         {
           "german": "sinken",
           "explanation": "hier: im Wasser untergehen",
-          "id": "17",
-          "english": "sink"
+          "id": "17"
         },
         {
           "german": "Leiche, -n (f.)",
           "explanation": "der Körper eines toten Menschen",
-          "id": "18",
-          "english": "corpse, -n (f.)"
+          "id": "18"
         },
         {
           "german": "etwas übergeben",
           "explanation": "jemandem etwas geben",
-          "id": "19",
-          "english": "hand over something"
+          "id": "19"
         },
         {
           "german": "Menschenrechtsorganisation, -en (f.)",
           "explanation": "eine Gruppe: sie arbeitet dafür, dass der Staat alle Menschen gut behandelt und sie wichtige Rechte bekommen",
-          "id": "20",
-          "english": "human rights organization, -en (f.)"
+          "id": "20"
         },
         {
           "german": "Unglück, -e (n.)",
           "explanation": "der Unfall",
-          "id": "21",
-          "english": "misfortune, -e (n.)"
+          "id": "21"
         },
         {
           "german": "Straßenblockade, -n (f.)",
           "explanation": "eine Aktion: Menschen, Fahrzeuge oder Gegenstände versperren absichtlich eine Straße, sodass Autos und andere Fahrzeuge nicht weiterfahren können",
-          "id": "22",
-          "english": "road blockade, -n (f.)"
+          "id": "22"
         },
         {
           "german": "Protest, -e (m.)",
           "explanation": "eine Aktion: viele Menschen gehen auf die Straße, weil sie gegen jemanden/etwas sind",
-          "id": "23",
-          "english": "protest, -e (m.)"
+          "id": "23"
         },
         {
           "german": "Lebensbedingung, -en (f.)",
           "explanation": "etwas, das bestimmt, wie gut oder schlecht Menschen leben können; die allgemeine Situation, in der jemand lebt",
-          "id": "24",
-          "english": "living conditions, -en (f.)"
+          "id": "24"
         }
       ]
     }
