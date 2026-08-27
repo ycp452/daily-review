@@ -9,37 +9,44 @@
         {
           "german": "auf etwas reagieren",
           "explanation": "etwas tun, weil vorher jemand etwas anderes getan hat",
-          "id": "1"
+          "id": "1",
+          "english": "react to something"
         },
         {
           "german": "Vergeltungszölle erheben",
           "explanation": "Geld dafür nehmen, dass ein anderes Land Produkte im eigenen Land verkauft, weil dieses Land zuerst Geld für den Import von Produkten aus dem eigenen Land genommen hat",
-          "id": "2"
+          "id": "2",
+          "english": "impose retaliatory tariffs"
         },
         {
           "german": "Milliarde, -n (f.)",
           "explanation": "1000 Millionen; 1.000.000.000",
-          "id": "3"
+          "id": "3",
+          "english": "billion, -n (f.)"
         },
         {
           "german": "Finanzminister, -/Finanzministerin, -nen",
           "explanation": "ein hoher Politiker oder eine hohe Politikerin: die Person kümmert sich um das Geld eines Landes",
-          "id": "4"
+          "id": "4",
+          "english": "Minister of Finance"
         },
         {
           "german": "gelten",
           "explanation": "gültig sein",
-          "id": "5"
+          "id": "5",
+          "english": "apply"
         },
         {
           "german": "Arbeitnehmer, -/Arbeitnehmerin, -nen",
           "explanation": "eine Person: sie arbeitet für eine Firma (den Arbeitgeber oder die Arbeitgeberin)",
-          "id": "6"
+          "id": "6",
+          "english": "employee"
         },
         {
           "german": "von etwas betroffen sein",
           "explanation": "hier: etwas ist passiert und das ist ein Problem für eine Person oder Sache",
-          "id": "7"
+          "id": "7",
+          "english": "to be affected by something"
         }
       ]
     },
@@ -50,22 +57,26 @@
         {
           "german": "offenbar",
           "explanation": "so, wie es aussieht; scheinbar",
-          "id": "8"
+          "id": "8",
+          "english": "apparently"
         },
         {
           "german": "Medien (nur Plural)",
           "explanation": "Zeitungen, Fernsehen, Radio, Internet und andere Möglichkeiten der Veröffentlichung",
-          "id": "9"
+          "id": "9",
+          "english": "Media (plural only)"
         },
         {
           "german": "Direktor, -en/Direktorin, -nen",
           "explanation": "der Chef/die Chefin",
-          "id": "10"
+          "id": "10",
+          "english": "Director, -en/Director, -nen"
         },
         {
           "german": "in etwas ein|marschieren",
           "explanation": "mit dem Militär in ein anderes Land gehen",
-          "id": "11"
+          "id": "11",
+          "english": "to march into something"
         }
       ]
     },
@@ -76,37 +87,44 @@
         {
           "german": "gefühlvoll",
           "explanation": "mit viel Gefühl; so, dass man merkt, dass eine Person viel fühlt bei dem, was sie tut",
-          "id": "12"
+          "id": "12",
+          "english": "emotional"
         },
         {
           "german": "schillernd",
           "explanation": "besonders, bunt und extravagant",
-          "id": "13"
+          "id": "13",
+          "english": "iridescent"
         },
         {
           "german": "auf|wachsen",
           "explanation": "als Kind: groß werden; die Kindheit an einem Ort verbringen",
-          "id": "14"
+          "id": "14",
+          "english": "to grow up"
         },
         {
           "german": "Ikone, -n (f.)",
           "explanation": "hier: eine sehr wichtige und berühmte Person: sie steht für eine bestimmte Sache, zum Beispiel eine Kunstrichtung oder bestimmte Werte",
-          "id": "15"
+          "id": "15",
+          "english": "icon, -n (f.)"
         },
         {
           "german": "sich entwickeln",
           "explanation": "hier: einen Prozess mitmachen; zu etwas werden",
-          "id": "16"
+          "id": "16",
+          "english": "develop"
         },
         {
           "german": "Philanthrop, -en/Philanthropin, -nen",
           "explanation": "eine Person: sie liebt Menschen und hilft anderen, oft mit großen Projekten oder Kampagnen",
-          "id": "17"
+          "id": "17",
+          "english": "Philanthropist, -en/philanthropist, -nen"
         },
         {
           "german": "Song, -s (m.)",
           "explanation": "aus dem Englischen: das Lied",
-          "id": "18"
+          "id": "18",
+          "english": "Song, -s (m.)"
         }
       ]
     }
