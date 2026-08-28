@@ -9,50 +9,42 @@
         {
           "german": "vermisst werden",
           "explanation": "nicht da sein: niemand weiß, wo die Person ist",
-          "id": "1",
-          "english": "be missed"
+          "id": "1"
         },
         {
           "german": "Sturzflut, -en (f.)",
           "explanation": "sehr viel Wasser: es kommt plötzlich und mit großer Kraft; oft fließt es einen Berg hinunter",
-          "id": "2",
-          "english": "flash flood, -en (f.)"
+          "id": "2"
         },
         {
           "german": "darunter",
           "explanation": "hier: von ihnen: Menschen sind Teil von einer Gruppe",
-          "id": "3",
-          "english": "underneath"
+          "id": "3"
         },
         {
           "german": "steigen",
           "explanation": "hier: in Zukunft noch höher/mehr sein",
-          "id": "4",
-          "english": "rise"
+          "id": "4"
         },
         {
           "german": "betroffene Region, -en (f.)",
           "explanation": "hier: ein Gebiet: dort ist etwas Schlimmes passiert",
-          "id": "5",
-          "english": "affected region, -en (f.)"
+          "id": "5"
         },
         {
           "german": "Grenze, -n (f.)",
           "explanation": "die Linie zwischen zwei Ländern: das eine Land beginnt dort, das andere endet dort",
-          "id": "6",
-          "english": "border, -n (f.)"
+          "id": "6"
         },
         {
           "german": "Bergsteiger, -/Bergsteigerin, -nen",
           "explanation": "eine Person: sie geht in den Bergen wandern und klettern",
-          "id": "7",
-          "english": "Mountaineer, mountaineer"
+          "id": "7"
         },
         {
           "german": "Pilger, -/Pilgerin, -nen",
           "explanation": "eine Person: sie besucht einen Ort, der eine wichtige religiöse Bedeutung hat",
-          "id": "8",
-          "english": "Pilgrim, -/pilgrim, -nen"
+          "id": "8"
         }
       ]
     },
@@ -63,50 +55,42 @@
         {
           "german": "Direktor, -en/Direktorin, -nen",
           "explanation": "die Chefin oder der Chef",
-          "id": "9",
-          "english": "Director, -en/Director, -nen"
+          "id": "9"
         },
         {
           "german": "Mitglied, -er (n.)",
           "explanation": "eine Person: sie gehört zu einer bestimmten Gruppe",
-          "id": "10",
-          "english": "member, -he (n.)"
+          "id": "10"
         },
         {
           "german": "Geheimdienst, -e (m.)",
           "explanation": "eine Organisation in einem Land: sie sammelt Informationen und schützt den Staat",
-          "id": "11",
-          "english": "secret service, -e (m.)"
+          "id": "11"
         },
         {
           "german": "etwas verändern",
           "explanation": "hier: etwas (z. B. eine Situation) besser machen",
-          "id": "12",
-          "english": "change something"
+          "id": "12"
         },
         {
           "german": "jedoch",
           "explanation": "aber",
-          "id": "13",
-          "english": "however"
+          "id": "13"
         },
         {
           "german": "jemanden informieren",
           "explanation": "jemandem Informationen geben",
-          "id": "14",
-          "english": "inform someone"
+          "id": "14"
         },
         {
           "german": "Grund, Gründe (m.)",
           "explanation": "die Ursache, warum etwas passiert",
-          "id": "15",
-          "english": "reason, reasons (m.)"
+          "id": "15"
         },
         {
           "german": "ungewöhnlich",
           "explanation": "nicht normal",
-          "id": "16",
-          "english": "unusual"
+          "id": "16"
         }
       ]
     },
@@ -117,44 +101,37 @@
         {
           "german": "Unternehmen, - (n.)",
           "explanation": "die Firma",
-          "id": "17",
-          "english": "company, - (n.)"
+          "id": "17"
         },
         {
           "german": "Vorwurf, Vorwürfe (m.)",
           "explanation": "eine Aussage: man sagt, dass jemand etwas Falsches oder Schlechtes gemacht hat",
-          "id": "18",
-          "english": "accusation, accusations (m.)"
+          "id": "18"
         },
         {
           "german": "Bundesstaat, -en (m.)",
           "explanation": "hier: ein Teilstaat der USA, zum Beispiel Kalifornien oder Minnesota",
-          "id": "19",
-          "english": "federal state, -en (m.)"
+          "id": "19"
         },
         {
           "german": "US-Territorium, Territorien (n.)",
           "explanation": "ein Gebiet: es gehört zu den USA, aber es ist kein eigener Bundesstaat",
-          "id": "20",
-          "english": "US territory, territories (n.)"
+          "id": "20"
         },
         {
           "german": "Klage ein|reichen",
           "explanation": "vor einem Gericht sagen, dass man einen Prozess gegen jemanden führen möchte",
-          "id": "21",
-          "english": "file a lawsuit"
+          "id": "21"
         },
         {
           "german": "Beschränkung, -en (f.)",
           "explanation": "ein Limit; eine Grenze",
-          "id": "22",
-          "english": "restriction, -en (f.)"
+          "id": "22"
         },
         {
           "german": "Sperrung, -en (f.)",
           "explanation": "die Blockierung; eine Aktion: dadurch kann jemand etwas nicht mehr benutzen",
-          "id": "23",
-          "english": "blocking, -en (f.)"
+          "id": "23"
         }
       ]
     }
