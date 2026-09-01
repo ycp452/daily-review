@@ -1,0 +1,84 @@
+{
+  "articleDate": "2026-09-01",
+  "articleLink": "https://learngerman.dw.com/de/01092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78619181",
+  "articles": [
+    {
+      "title": "Nepal: Suche nach Vermissten geht weiter",
+      "text": "Nach der schweren Sturzflut am 26. August ist in Nepal die Zahl der Toten auf mehr als 1000 gestiegen. Es gibt über 4000 Vermisste. Rettungskräfte suchen auch nach mehr als 100 Mitarbeitern von Wasserkraftwerken. Sie sind wahrscheinlich in Tunneln eingeschlossen.\n\nsteigen – mehr werden\n\n",
+      "vocab": [
+        {
+          "german": "Sturzflut, -en (f.)",
+          "explanation": "sehr viel Wasser: es kommt plötzlich und mit großer Kraft; oft fließt es einen Berg hinunter",
+          "id": "1"
+        },
+        {
+          "german": "Vermisster, Vermisste / Vermisste, -",
+          "explanation": "eine Person: man weiß nicht, wo sie ist",
+          "id": "2"
+        },
+        {
+          "german": "Rettungskraft, -kräfte (f., meist Plural)",
+          "explanation": "eine Person: sie hilft Menschen in Not oder will sie aus einer Notsituation befreien, z. B. nach einem Brand oder einer anderen Katastrophe",
+          "id": "3"
+        },
+        {
+          "german": "Wasserkraftwerk, -e (n.)",
+          "explanation": "hier: ein oder mehrere Gebäude: dort stellt man Energie mit Wasser her",
+          "id": "4"
+        },
+        {
+          "german": "Tunnel, - (m.)",
+          "explanation": "hier: ein Weg unter der Erde",
+          "id": "5"
+        },
+        {
+          "german": "eingeschlossen sein",
+          "explanation": "hier: nicht aus etwas hinausgehen können; etwas nicht verlassen können",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Modi will Ende des Kriegs in der Ukraine",
+      "text": "Der indische Ministerpräsident Narendra Modi hat mit dem russischen Präsidenten Wladimir Putin in Kirgistan gesprochen. Putin soll den Krieg in der Ukraine beenden, so Modi. In Kirgistan sind die zehn Mitgliedsstaaten der Shanghaier Organisation für Zusammenarbeit zusammengekommen.\n\nKrieg, -e (m.)  –  ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen\n\nMitgliedsstaat, -en (m.) – ein Land: es ist mit anderen Ländern in einer Organisation und arbeitet mit ihnen zusammen\n\n",
+      "vocab": [
+        {
+          "german": "so",
+          "explanation": "bedeutet hier: das hat die Person gesagt",
+          "id": "7"
+        },
+        {
+          "german": "Shanghaier Organisation für Zusammenarbeit (f., nur Singular)",
+          "explanation": "eine internationale Organisation von Ländern in Asien",
+          "id": "8"
+        },
+        {
+          "german": "zusammen|kommen",
+          "explanation": "hier: sich treffen",
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "title": "Lionel Messi spielt nicht mehr für Nationalmannschaft",
+      "text": "Lionel Messi will nicht mehr für die argentinische Fußball-Nationalmannschaft spielen. 2022 hat Argentinien die Weltmeisterschaft gewonnen. 2026 wurde Argentinien Vizeweltmeister. Bis zum Ende der Saison 2028 spielt Messi für Inter Miami.\n\nSaison, -s (f., aus dem Französischen) – hier: ein Zeitraum: in dieser Zeit spielen Fußballvereine ihre Spiele gegen andere Mannschaften\n\n",
+      "vocab": [
+        {
+          "german": "Nationalmannschaft, -en (f.)",
+          "explanation": "das offizielle Sportteam eines Landes (z. B. im Fußball)",
+          "id": "10"
+        },
+        {
+          "german": "Weltmeisterschaft, -en (f.)",
+          "explanation": "hier: das größte internationale Fußballturnier: Teams aus vielen Ländern der Welt spielen gegeneinander",
+          "id": "11"
+        },
+        {
+          "german": "Vizeweltmeister, - (m.)",
+          "explanation": "eine Mannschaft oder eine Person: sie ist Zweiter bei einem wichtigen internationalen Sportwettbewerb (einer Weltmeisterschaft)",
+          "id": "12"
+        }
+      ]
+    }
+  ]
+}
