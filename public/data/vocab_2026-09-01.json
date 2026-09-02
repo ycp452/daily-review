@@ -9,32 +9,38 @@
         {
           "german": "Sturzflut, -en (f.)",
           "explanation": "sehr viel Wasser: es kommt plötzlich und mit großer Kraft; oft fließt es einen Berg hinunter",
-          "id": "1"
+          "id": "1",
+          "english": "flash flood, -en (f.)"
         },
         {
           "german": "Vermisster, Vermisste / Vermisste, -",
           "explanation": "eine Person: man weiß nicht, wo sie ist",
-          "id": "2"
+          "id": "2",
+          "english": "Missing, missing / missing, -"
         },
         {
           "german": "Rettungskraft, -kräfte (f., meist Plural)",
           "explanation": "eine Person: sie hilft Menschen in Not oder will sie aus einer Notsituation befreien, z. B. nach einem Brand oder einer anderen Katastrophe",
-          "id": "3"
+          "id": "3",
+          "english": "Rescue workers, rescue workers (f., usually plural)"
         },
         {
           "german": "Wasserkraftwerk, -e (n.)",
           "explanation": "hier: ein oder mehrere Gebäude: dort stellt man Energie mit Wasser her",
-          "id": "4"
+          "id": "4",
+          "english": "hydroelectric power station, -e (n.)"
         },
         {
           "german": "Tunnel, - (m.)",
           "explanation": "hier: ein Weg unter der Erde",
-          "id": "5"
+          "id": "5",
+          "english": "tunnel, - (m.)"
         },
         {
           "german": "eingeschlossen sein",
           "explanation": "hier: nicht aus etwas hinausgehen können; etwas nicht verlassen können",
-          "id": "6"
+          "id": "6",
+          "english": "be included"
         }
       ]
     },
@@ -45,17 +51,20 @@
         {
           "german": "so",
           "explanation": "bedeutet hier: das hat die Person gesagt",
-          "id": "7"
+          "id": "7",
+          "english": "like that"
         },
         {
           "german": "Shanghaier Organisation für Zusammenarbeit (f., nur Singular)",
           "explanation": "eine internationale Organisation von Ländern in Asien",
-          "id": "8"
+          "id": "8",
+          "english": "Shanghai Cooperation Organization (f., only singular)"
         },
         {
           "german": "zusammen|kommen",
           "explanation": "hier: sich treffen",
-          "id": "9"
+          "id": "9",
+          "english": "come together"
         }
       ]
     },
@@ -66,17 +75,20 @@
         {
           "german": "Nationalmannschaft, -en (f.)",
           "explanation": "das offizielle Sportteam eines Landes (z. B. im Fußball)",
-          "id": "10"
+          "id": "10",
+          "english": "national team, -en (f.)"
         },
         {
           "german": "Weltmeisterschaft, -en (f.)",
           "explanation": "hier: das größte internationale Fußballturnier: Teams aus vielen Ländern der Welt spielen gegeneinander",
-          "id": "11"
+          "id": "11",
+          "english": "World Cup, -en (f.)"
         },
         {
           "german": "Vizeweltmeister, - (m.)",
           "explanation": "eine Mannschaft oder eine Person: sie ist Zweiter bei einem wichtigen internationalen Sportwettbewerb (einer Weltmeisterschaft)",
-          "id": "12"
+          "id": "12",
+          "english": "Vice World Champion, - (m.)"
         }
       ]
     }

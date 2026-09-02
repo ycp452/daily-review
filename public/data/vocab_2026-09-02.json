@@ -1,0 +1,120 @@
+{
+  "articleDate": "2026-09-02",
+  "articleLink": "https://learngerman.dw.com/de/02092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78762256",
+  "articles": [
+    {
+      "title": "Selenskyj warnt vor Flügen über Russland",
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj hat vor Flügen über Russland gewarnt, weil die Ukraine Russland stärker mit Langstreckendrohnen angreifen will. Der russische Präsident Wladimir Putin sagt, dass das „Staatsterrorismus“ ist. Er erklärt, dass die Ukraine weiter mit Russland sprechen kann. Mit „Terroristen“ will er aber nicht verhandeln, so Putin.\n\n",
+      "vocab": [
+        {
+          "german": "vor etwas warnen",
+          "explanation": "sagen, dass jemand vorsichtig sein soll, weil etwas Schlimmes passieren kann",
+          "id": "1",
+          "english": "warn about something"
+        },
+        {
+          "german": "Langstreckendrohne, -n (f.)",
+          "explanation": "ein kleines Flugobjekt: es kann weit fliegen, oft über Hunderte Kilometer; man benutzt es auch im Krieg als Waffe",
+          "id": "2",
+          "english": "long-range drone, -n (f.)"
+        },
+        {
+          "german": "Staatsterrorismus (m., nur Singular)",
+          "explanation": "ein Verbrechen durch einen Staat: eine Regierung macht Menschen mit Gewalt Angst; so will sie ihre politischen Ziele erreichen",
+          "id": "3",
+          "english": "State terrorism (m., only singular)"
+        },
+        {
+          "german": "Terrorist, -en/Terroristin, -nen",
+          "explanation": "eine Person: sie nutzt Gewalt für politische Ziele und macht vielen Menschen Angst",
+          "id": "4",
+          "english": "Terrorist, -en/terrorist, -nen"
+        },
+        {
+          "german": "verhandeln",
+          "explanation": "hier: miteinander sprechen und eine Lösung für etwas finden",
+          "id": "5",
+          "english": "negotiate"
+        }
+      ]
+    },
+    {
+      "title": "Angriffe zwischen den USA und Iran",
+      "text": "Die USA berichten, dass sie die aktuellen Angriffe auf militärische Ziele im Iran beendet haben. Iranische Medien sagen: Bei einem Angriff auf eine Hochzeitsfeier sind mindestens fünf Menschen gestorben. Nach den US-Angriffen hat Teheran Raketen auf US-Stützpunkte in Jordanien und Bahrain abgefeuert.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "eine militärische Aktion gegen Personen oder Orte",
+          "id": "6",
+          "english": "attack, -e (m.)"
+        },
+        {
+          "german": "militärische Ziel, -e (n.)",
+          "explanation": "ein Ort des Militärs: dort arbeiten Soldaten und es gibt dort Fahrzeuge oder Waffen",
+          "id": "7",
+          "english": "military objective, -e (n.)"
+        },
+        {
+          "german": "Medien (hier nur Plural)",
+          "explanation": "hier: Zeitungen, Fernsehen, Radio und Internet",
+          "id": "8",
+          "english": "Media (here only plural)"
+        },
+        {
+          "german": "eine Rakete ab|feuern",
+          "explanation": "eine große Waffe benutzen: sie kann weite Strecken durch die Luft fliegen und viele Menschen töten oder verletzen",
+          "id": "9",
+          "english": "to fire a rocket"
+        },
+        {
+          "german": "Stützpunkt, -e (m.)",
+          "explanation": "hier: ein Ort: hier arbeitet das Militär; oft starten und landen hier auch Flugzeuge des Militärs",
+          "id": "10",
+          "english": "base, -e (m.)"
+        }
+      ]
+    },
+    {
+      "title": "Dobrindt: Russland soll für Drohnenangriff verantwortlich sein",
+      "text": "Der deutsche Innenminister Alexander Dobrindt sagt: Russland ist für die Drohne verantwortlich, die man Anfang August am Flughafen Leipzig/Halle gefunden hat. Die Drohne ist ein Teil von russischen Hybridangriffen in Europa, so Dobrindt. Russland sagt, dass es nicht für die Drohne verantwortlich ist, und nennt die Vorwürfe eine Provokation\n\n",
+      "vocab": [
+        {
+          "german": "Innenminister, -/Innenministerin, -nen",
+          "explanation": "eine Politikerin oder ein Politiker: sie/er kümmert sich um das, was im Land passiert, zum Beispiel um die Sicherheit",
+          "id": "11",
+          "english": "Minister of the Interior"
+        },
+        {
+          "german": "verantwortlich sein",
+          "explanation": "hier: etwas gemacht haben oder der Grund dafür sein, dass etwas passiert ist",
+          "id": "12",
+          "english": "be responsible"
+        },
+        {
+          "german": "Teil von etwas sein",
+          "explanation": "zu etwas gehören",
+          "id": "13",
+          "english": "to be part of something"
+        },
+        {
+          "german": "Hybridangriff, -e (m.)",
+          "explanation": "eine bestimmte militärische Aktion: Dabei benutzt man mehrere Methoden gleichzeitig, zum Beispiel Technik und falsche Informationen oder Gewalt",
+          "id": "14",
+          "english": "hybrid attack, -e (m.)"
+        },
+        {
+          "german": "Vorwurf, Vorwürfe (m.)",
+          "explanation": "eine Aussage: man sagt, dass jemand etwas Falsches oder Schlechtes gemacht hat",
+          "id": "15",
+          "english": "accusation, accusations (m.)"
+        },
+        {
+          "german": "Provokation, -en (f.)",
+          "explanation": "eine Handlung oder Aussage: man möchte damit von jemand anderem eine Reaktion bekommen",
+          "id": "16",
+          "english": "provocation, -en (f.)"
+        }
+      ]
+    }
+  ]
+}
