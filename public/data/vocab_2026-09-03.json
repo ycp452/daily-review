@@ -1,0 +1,132 @@
+{
+  "articleDate": "2026-09-03",
+  "articleLink": "https://learngerman.dw.com/de/03092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-78864988",
+  "articles": [
+    {
+      "title": "Proteste in Ceuta",
+      "text": "",
+      "vocab": [
+        {
+          "german": "In der spanischen Exklave Ceuta",
+          "explanation": "und auch in anderen spanischen Städten – hat es große Proteste gegeben. In Ceuta haben Tausende Menschen protestiert, weil sie gegen die Migrationspolitik der spanischen Regierung sind. Ende Juli sind mindestens 72.000 Menschen aus Marokko nach Ceuta gekommen; mindestens 90 sind dabei gestorben.",
+          "id": "1",
+          "english": "In the Spanish exclave of Ceuta"
+        },
+        {
+          "german": "Exklave, -n (f.)",
+          "explanation": "ein Teil eines Staates: er liegt aber bei einem fremden Staat und nicht im eigenen Land",
+          "id": "2",
+          "english": "exclave, -n (f.)"
+        },
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "eine Situation: Menschen gehen gemeinsam auf die Straße, weil sie unzufrieden mit etwas sind (Verb: gegen etwas protestieren)",
+          "id": "3",
+          "english": "protest, -e (m.)"
+        },
+        {
+          "german": "Tausende",
+          "explanation": "mehrere 1000 Menschen",
+          "id": "4",
+          "english": "Thousands"
+        },
+        {
+          "german": "Migrationspolitik (f., nur Singular)",
+          "explanation": "eine bestimmte Art von Politik: so behandelt der Staat Menschen, die aus anderen Ländern kommen",
+          "id": "5",
+          "english": "Migration policy (f., only singular)"
+        },
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "eine Gruppe von Politikerinnen und Politikern: sie leitet ein Land",
+          "id": "6",
+          "english": "government, -en (f.)"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "die offizielle staatliche Stelle: dort arbeiten Menschen für den Staat und kontrollieren Dinge",
+          "id": "7",
+          "english": "authority, -n (f.)"
+        },
+        {
+          "german": "Migrant, -en/Migrantin, -nen",
+          "explanation": "eine Person: sie kommt aus einem anderen Land und möchte in einem neuen Land leben",
+          "id": "8",
+          "english": "Migrant, -en/Migrantin, -nen"
+        }
+      ]
+    },
+    {
+      "title": "Zwei Verdächtige nach Drohnenfund am Flughafen Leipzig/Halle",
+      "text": "Nach dem Drohnenfund Anfang August am Flughafen Leipzig/Halle hat die Polizei jetzt zwei Verdächtige identifiziert. Sie hat an der Drohne DNA gefunden. Deutschland sagt, dass Russland für die Drohne verantwortlich ist. Russland sagt aber, dass das nicht stimmt.\n\nVerdächtige, -n (m./f.)  –  eine Person: man glaubt, dass sie etwas Verbotenes gemacht hat\n\n",
+      "vocab": [
+        {
+          "german": "Drohnenfund, -e (m.)",
+          "explanation": "eine Situation: man findet ein Fluggerät; es kann allein über weite Strecken fliegen",
+          "id": "9",
+          "english": "drone discovery, -e (m.)"
+        },
+        {
+          "german": "jemanden identifizieren",
+          "explanation": "untersuchen und herausfinden, wer jemand ist",
+          "id": "10",
+          "english": "identify someone"
+        },
+        {
+          "german": "DNA (f., nur Singular)",
+          "explanation": "hier das Erbgut eines Menschen: damit kann man z. B. die Identität einer Person feststellen",
+          "id": "11",
+          "english": "DNA (f., only singular)"
+        },
+        {
+          "german": "verantwortlich",
+          "explanation": "hier: etwas gemacht haben oder der Grund dafür sein, dass etwas passiert ist",
+          "id": "12",
+          "english": "responsible"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland: zwei Sabotageversuche am Stromnetz",
+      "text": "In Deutschland hat es zwei Sabotageversuche am Stromnetz gegeben. Am Dienstag hat man in der Nähe eines Umspannwerks in Brandenburg mehrere Sprengkörper gefunden. Am Mittwoch hat es einen Vorfall an einem Umspannwerk in Bergheim in Nordrhein-Westfalen gegeben. Die Polizei untersucht die Sabotageversuche und sagt, dass es bei beiden Vorfällen Ähnlichkeiten gibt.\n\n",
+      "vocab": [
+        {
+          "german": "Sabotageversuch, -e (m.)",
+          "explanation": "eine Aktion: jemand will etwas kaputt machen oder etwas stören, aber ohne Erfolg",
+          "id": "13",
+          "english": "sabotage attempt, -e (m.)"
+        },
+        {
+          "german": "Stromnetz, -e (n.)",
+          "explanation": "ein System: es bringt Elektrizität (Strom) zu Firmen und Häusern",
+          "id": "14",
+          "english": "power grid, -e (n.)"
+        },
+        {
+          "german": "Umspannwerk, -e (n.)",
+          "explanation": "ein Ort: dort passt man Strom an und transportiert ihn dann weiter",
+          "id": "15",
+          "english": "substation, -e (n.)"
+        },
+        {
+          "german": "Sprengkörper, - (m.)",
+          "explanation": "ein Gegenstand: er kann explodieren und Dinge zerstören oder beschädigen",
+          "id": "16",
+          "english": "explosive device, - (m.)"
+        },
+        {
+          "german": "Vorfall, Vorfälle (m.)",
+          "explanation": "eine Situation: ein (meist schlimmes) Ereignis",
+          "id": "17",
+          "english": "incident, incidents (m.)"
+        },
+        {
+          "german": "Ähnlichkeit, -en (f.)",
+          "explanation": "die Tatsache, dass zwei oder mehr Dinge fast gleich sind; es gibt Gemeinsamkeiten",
+          "id": "18",
+          "english": "similarity, -en (f.)"
+        }
+      ]
+    }
+  ]
+}
