@@ -9,32 +9,27 @@
         {
           "german": "vor etwas warnen",
           "explanation": "sagen, dass jemand vorsichtig sein soll, weil etwas Schlimmes passieren kann",
-          "id": "1",
-          "english": "warn about something"
+          "id": "1"
         },
         {
           "german": "Langstreckendrohne, -n (f.)",
           "explanation": "ein kleines Flugobjekt: es kann weit fliegen, oft über Hunderte Kilometer; man benutzt es auch im Krieg als Waffe",
-          "id": "2",
-          "english": "long-range drone, -n (f.)"
+          "id": "2"
         },
         {
           "german": "Staatsterrorismus (m., nur Singular)",
           "explanation": "ein Verbrechen durch einen Staat: eine Regierung macht Menschen mit Gewalt Angst; so will sie ihre politischen Ziele erreichen",
-          "id": "3",
-          "english": "State terrorism (m., only singular)"
+          "id": "3"
         },
         {
           "german": "Terrorist, -en/Terroristin, -nen",
           "explanation": "eine Person: sie nutzt Gewalt für politische Ziele und macht vielen Menschen Angst",
-          "id": "4",
-          "english": "Terrorist, -en/terrorist, -nen"
+          "id": "4"
         },
         {
           "german": "verhandeln",
           "explanation": "hier: miteinander sprechen und eine Lösung für etwas finden",
-          "id": "5",
-          "english": "negotiate"
+          "id": "5"
         }
       ]
     },
@@ -45,32 +40,27 @@
         {
           "german": "Angriff, -e (m.)",
           "explanation": "eine militärische Aktion gegen Personen oder Orte",
-          "id": "6",
-          "english": "attack, -e (m.)"
+          "id": "6"
         },
         {
           "german": "militärische Ziel, -e (n.)",
           "explanation": "ein Ort des Militärs: dort arbeiten Soldaten und es gibt dort Fahrzeuge oder Waffen",
-          "id": "7",
-          "english": "military objective, -e (n.)"
+          "id": "7"
         },
         {
           "german": "Medien (hier nur Plural)",
           "explanation": "hier: Zeitungen, Fernsehen, Radio und Internet",
-          "id": "8",
-          "english": "Media (here only plural)"
+          "id": "8"
         },
         {
           "german": "eine Rakete ab|feuern",
           "explanation": "eine große Waffe benutzen: sie kann weite Strecken durch die Luft fliegen und viele Menschen töten oder verletzen",
-          "id": "9",
-          "english": "to fire a rocket"
+          "id": "9"
         },
         {
           "german": "Stützpunkt, -e (m.)",
           "explanation": "hier: ein Ort: hier arbeitet das Militär; oft starten und landen hier auch Flugzeuge des Militärs",
-          "id": "10",
-          "english": "base, -e (m.)"
+          "id": "10"
         }
       ]
     },
@@ -81,38 +71,32 @@
         {
           "german": "Innenminister, -/Innenministerin, -nen",
           "explanation": "eine Politikerin oder ein Politiker: sie/er kümmert sich um das, was im Land passiert, zum Beispiel um die Sicherheit",
-          "id": "11",
-          "english": "Minister of the Interior"
+          "id": "11"
         },
         {
           "german": "verantwortlich sein",
           "explanation": "hier: etwas gemacht haben oder der Grund dafür sein, dass etwas passiert ist",
-          "id": "12",
-          "english": "be responsible"
+          "id": "12"
         },
         {
           "german": "Teil von etwas sein",
           "explanation": "zu etwas gehören",
-          "id": "13",
-          "english": "to be part of something"
+          "id": "13"
         },
         {
           "german": "Hybridangriff, -e (m.)",
           "explanation": "eine bestimmte militärische Aktion: Dabei benutzt man mehrere Methoden gleichzeitig, zum Beispiel Technik und falsche Informationen oder Gewalt",
-          "id": "14",
-          "english": "hybrid attack, -e (m.)"
+          "id": "14"
         },
         {
           "german": "Vorwurf, Vorwürfe (m.)",
           "explanation": "eine Aussage: man sagt, dass jemand etwas Falsches oder Schlechtes gemacht hat",
-          "id": "15",
-          "english": "accusation, accusations (m.)"
+          "id": "15"
         },
         {
           "german": "Provokation, -en (f.)",
           "explanation": "eine Handlung oder Aussage: man möchte damit von jemand anderem eine Reaktion bekommen",
-          "id": "16",
-          "english": "provocation, -en (f.)"
+          "id": "16"
         }
       ]
     }
