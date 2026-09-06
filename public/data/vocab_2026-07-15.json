@@ -4,55 +4,49 @@
   "articles": [
     {
       "title": "USA blockieren iranische Häfen",
-      "text": "",
+      "text": "Die USA blockieren wieder iranische Häfen – als Antwort auf iranische Angriffe auf Schiffe in der Straße von Hormus. Außerdem haben die USA vier Nächte lang Ziele im Iran angegriffen. Beide Länder sagen, dass die jeweils andere Seite gegen das Abkommen von Juni verstößt. Es sollte den Konflikt eigentlich beenden.\n\n",
       "vocab": [
-        {
-          "german": "Die USA blockieren wieder iranische Häfen",
-          "explanation": "als Antwort auf iranische Angriffe auf Schiffe in der Straße von Hormus. Außerdem haben die USA vier Nächte lang Ziele im Iran angegriffen. Beide Länder sagen, dass die jeweils andere Seite gegen das Abkommen von Juni verstößt. Es sollte den Konflikt eigentlich beenden.",
-          "english": "The USA is blocking Iranian ports again",
-          "id": "1"
-        },
         {
           "german": "etwas blockieren",
           "explanation": "etwas sperren: andere können es dann nicht mehr benutzen",
-          "english": "block something",
-          "id": "2"
+          "id": "1",
+          "english": "block something"
         },
         {
           "german": "Hafen, Häfen (m.)",
           "explanation": "ein Ort: dort liegen Schiffe, wenn sie nicht fahren",
-          "english": "harbor, ports (m.)",
-          "id": "3"
+          "id": "2",
+          "english": "harbor, ports (m.)"
         },
         {
           "german": "Angriff, -e (m.)",
           "explanation": "eine Attacke; plötzliche Gewalt (Verb: etwas/jemanden an|greifen)",
-          "english": "attack, -e (m.)",
-          "id": "4"
+          "id": "3",
+          "english": "attack, -e (m.)"
         },
         {
           "german": "die jeweils andere Seite",
           "explanation": "hier: die USA sagen, dass es der Iran war, der Iran sagt, dass es die USA waren",
-          "english": "the other side",
-          "id": "5"
+          "id": "4",
+          "english": "the other side"
         },
         {
           "german": "gegen etwas verstoßen",
           "explanation": "die Regeln von etwas nicht respektieren",
-          "english": "violate something",
-          "id": "6"
+          "id": "5",
+          "english": "violate something"
         },
         {
           "german": "Abkommen, - (n.)",
           "explanation": "ein Vertrag: mehrere Staaten vereinbaren, dass sie jetzt etwas tun wollen (z. B. damit ein Konflikt endet)",
-          "english": "agreement, - (n.)",
-          "id": "7"
+          "id": "6",
+          "english": "agreement, - (n.)"
         },
         {
           "german": "Konflikt, -e (m.)",
           "explanation": "ein Streit oder Krieg",
-          "english": "conflict, -e (m.)",
-          "id": "8"
+          "id": "7",
+          "english": "conflict, -e (m.)"
         }
       ]
     },
@@ -63,44 +57,44 @@
         {
           "german": "Bar, -s (f.)",
           "explanation": "die Kneipe; das Trinklokal; dort trifft man sich und bestellt Getränke",
-          "english": "Bar, -s (f.)",
-          "id": "9"
+          "id": "8",
+          "english": "Bar, -s (f.)"
         },
         {
           "german": "laut Behördenangaben",
           "explanation": "so, wie staatliche Institutionen sagen, zum Beispiel die Polizei",
-          "english": "according to authorities",
-          "id": "10"
+          "id": "9",
+          "english": "according to authorities"
         },
         {
           "german": "steigen",
           "explanation": "höher werden; mehr werden",
-          "english": "rise",
-          "id": "11"
+          "id": "10",
+          "english": "rise"
         },
         {
           "german": "tödlich",
           "explanation": "so, dass Menschen sterben",
-          "english": "fatal",
-          "id": "12"
+          "id": "11",
+          "english": "fatal"
         },
         {
           "german": "Sicherheitsverstoß, Sicherheitsverstöße (m.)",
           "explanation": "ein Problem: jemand hat nicht aufgepasst, dass etwas sicher ist",
-          "english": "security breach, security breaches (m.)",
-          "id": "13"
+          "id": "12",
+          "english": "security breach, security breaches (m.)"
         },
         {
           "german": "Besitzer, -/Besitzerin, -nen",
           "explanation": "eine Person: ihr gehört etwas",
-          "english": "Owner, -/Owner, -nen",
-          "id": "14"
+          "id": "13",
+          "english": "Owner, -/Owner, -nen"
         },
         {
           "german": "Intensivstation, -en (f.)",
           "explanation": "eine Abteilung im Krankenhaus: dort sind Patientinnen und Patienten mit sehr schweren Krankheiten oder Verletzungen",
-          "english": "intensive care unit, -en (f.)",
-          "id": "15"
+          "id": "14",
+          "english": "intensive care unit, -en (f.)"
         }
       ]
     },
@@ -111,26 +105,26 @@
         {
           "german": "Angriff, -e (m.)",
           "explanation": "eine Attacke; die plötzliche Gewalt (Verb: etwas/jemanden an|greifen)",
-          "english": "attack, -e (m.)",
-          "id": "16"
+          "id": "15",
+          "english": "attack, -e (m.)"
         },
         {
           "german": "Militäreinrichtung, -en (f.)",
           "explanation": "eine Station: dort leben oder arbeiten Soldatinnen und Soldaten",
-          "english": "military facility, -en (f.)",
-          "id": "17"
+          "id": "16",
+          "english": "military facility, -en (f.)"
         },
         {
           "german": "laut",
           "explanation": "so, wie jemand sagt",
-          "english": "loud",
-          "id": "18"
+          "id": "17",
+          "english": "loud"
         },
         {
           "german": "Tanker, - (m.)",
           "explanation": "ein Schiff: es transportiert eine Flüssigkeit, zum Beispiel Öl",
-          "english": "Tanker, - (m.)",
-          "id": "19"
+          "id": "18",
+          "english": "Tanker, - (m.)"
         }
       ]
     }

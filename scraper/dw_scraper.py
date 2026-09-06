@@ -27,7 +27,7 @@ def parse_apollo_state(html):
     state_str = match.group(1).strip()
     if state_str.endswith(';'):
         state_str = state_str[:-1].strip()
-        
+
     if state_str.startswith('JSON.parse('):
         inner_match = re.search(r'JSON\.parse\((["\'])(.*?)\1\)', state_str, re.DOTALL)
         if inner_match:
@@ -46,7 +46,7 @@ def find_article_info(target_date_str):
     dt = datetime.strptime(target_date_str, "%Y-%m-%d")
     german_date = dt.strftime("%d.%m.%Y")
     german_date_compact = dt.strftime("%d%m%Y") # DDMMYYYY
-    
+
     url = "https://learngerman.dw.com/de/kurz-und-leicht/s-69137519"
     print(f"Fetching article list from DW page for {german_date}...")
     headers = {
@@ -57,7 +57,7 @@ def find_article_info(target_date_str):
         if response.status_code != 200:
             print(f"Page Fetch Error: {response.status_code}")
             return None, None
-            
+
         soup = BeautifulSoup(response.text, "html.parser")
         for a in soup.find_all("a", href=True):
             href = a["href"]
@@ -68,7 +68,7 @@ def find_article_info(target_date_str):
                     return article_id, full_url
     except Exception as e:
         print(f"Error finding article info: {e}")
-        
+
     return None, None
 
 def extract_id_from_url(url):
@@ -91,6 +91,54 @@ def extract_date_from_url(url):
         return f"{year}-{month}-{day}"
     return None
 
+# DW vocab lines look like "<strong>Word</strong> – Explanation" and always
+# begin with a <strong> headword; article text may embed <strong> mid-sentence
+# but never opens with one. So we split each <p>/<li> on <br> and, per segment,
+# use the leading-<strong> signal to decide vocab vs text. The delimiter can
+# be a regular space or NBSP ( ) around en/em dash (never a plain hyphen).
+VOCAB_DELIM = re.compile("[\\s ]+[–—][\\s ]+")
+BR_SPLIT = re.compile(r"<br\s*/?>", re.IGNORECASE)
+
+
+def _first_child_is_strong(seg_soup):
+    for child in seg_soup.children:
+        if isinstance(child, str):
+            # Skip whitespace-only text nodes (incl. NBSP)
+            if child.replace(" ", " ").strip() == "":
+                continue
+            return False
+        name = getattr(child, "name", None)
+        if name is None:
+            continue
+        return name == "strong"
+    return False
+
+
+def _process_segment(seg_html, current_article):
+    seg_soup = BeautifulSoup(seg_html, "html.parser")
+    # Normalize NBSP to regular space so downstream matching is consistent
+    line = seg_soup.get_text().replace(" ", " ").strip()
+    if not line:
+        return
+
+    starts_with_strong = _first_child_is_strong(seg_soup)
+    m = VOCAB_DELIM.search(line)
+
+    if starts_with_strong and m:
+        word_candidate = line[:m.start()].strip()
+        explanation_candidate = line[m.end():].strip()
+        if word_candidate and len(explanation_candidate) > 3:
+            current_article["vocab"].append({
+                "german": word_candidate,
+                "explanation": explanation_candidate,
+            })
+            return
+
+    # Otherwise treat as article text (skip boilerplate and short bits)
+    if len(line) > 10 and "kurz und leicht" not in line.lower() and "autor" not in line.lower():
+        current_article["text"] += line + "\n\n"
+
+
 def extract_article_data(article_id):
     """
     Fetch the article page directly and parse its __APOLLO_STATE__ to extract multiple sub-articles with their text and vocab.
@@ -109,12 +157,12 @@ def extract_article_data(article_id):
     if not state:
         print("Error parsing Apollo state from article page.")
         return []
-        
+
     article_key = f"Article:{article_id}"
     if article_key not in state:
         print(f"Error: {article_key} not found in Apollo state.")
         return []
-        
+
     html_content = state[article_key].get("text", "")
     if not html_content:
         return []
@@ -134,44 +182,16 @@ def extract_article_data(article_id):
                 "vocab": []
             }
         elif current_article:
-            # Replace <br> tags with a marker to split by
-            for br in tag.find_all('br'):
-                br.replace_with("\n")
-            
-            raw_text = tag.get_text().strip()
-            if not raw_text:
-                continue
-
-            lines = raw_text.split("\n")
-            
-            for line in lines:
-                line = line.strip()
-                if not line: continue
-                
-                # DW standard vocab format: "Word – Explanation"
-                matched_delim = None
-                for delim in [" \u2013 ", " - "]:
-                    if delim in line:
-                        matched_delim = delim
-                        break
-                
-                if matched_delim:
-                    parts = line.split(matched_delim, 1)
-                    word_candidate = parts[0].strip()
-                    explanation_candidate = parts[1].strip()
-                    # Heuristic for word part length
-                    if 0 < len(word_candidate) < 80 and len(explanation_candidate) > 3:
-                        current_article["vocab"].append({"german": word_candidate, "explanation": explanation_candidate})
-                        continue # Found vocab, move to next line
-                
-                # If not vocab, and it looks like reporting text (longer line)
-                # We filter out common metadata or recurring phrases if needed
-                if len(line) > 10 and "kurz und leicht" not in line.lower() and "autor" not in line.lower():
-                    current_article["text"] += line + "\n\n"
+            # Split each block on <br> so each vocab entry / paragraph is handled
+            # independently. decode_contents keeps the inner HTML (incl. <strong>)
+            # which we need for the leading-tag check.
+            inner_html = tag.decode_contents()
+            for seg in BR_SPLIT.split(inner_html):
+                _process_segment(seg, current_article)
 
     if current_article:
         articles.append(current_article)
-            
+
     return articles
 
 def update_manifest(data_dir):
@@ -181,16 +201,16 @@ def update_manifest(data_dir):
     days = []
     if not os.path.exists(data_dir):
         return
-        
+
     for filename in os.listdir(data_dir):
         if filename.startswith("vocab_") and filename.endswith(".json"):
             # Extract date from vocab_YYYY-MM-DD.json
             date_part = filename.replace("vocab_", "").replace(".json", "")
             days.append(date_part)
-            
+
     # Sort newest first
     days.sort(reverse=True)
-    
+
     manifest_path = os.path.join(data_dir, "manifest.json")
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump(days, f, indent=2)
@@ -202,11 +222,11 @@ def main():
                         help="Date to scrape in YYYY-MM-DD format. Defaults to today.")
     parser.add_argument("--url", type=str, help="Direct link to the DW article.")
     args = parser.parse_args()
-    
+
     date_str = args.date
     article_id = None
     article_url = None
-    
+
     output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "public", "data")
     os.makedirs(output_dir, exist_ok=True)
 
@@ -235,14 +255,14 @@ def main():
         if not articles:
             print("Successfully extracted 0 articles.")
             return
-            
+
         print(f"Grouped into {len(articles)} articles.")
-        
+
         # Collect all vocab for bulk translation
         all_vocab_items = []
         for art in articles:
             all_vocab_items.extend(art["vocab"])
-        
+
         if len(all_vocab_items) == 0:
             print("No vocabulary found in article.")
             return
@@ -264,17 +284,17 @@ def main():
         except Exception as e:
             print(f"Warning: Bulk translation failed: {e}")
             print("Continuing without English — UI falls back to 2-column mode.")
-            
+
         final_output = {
             "articleDate": date_str,
             "articleLink": article_url,
             "articles": articles
         }
-        
+
         file_path = os.path.join(output_dir, f"vocab_{date_str}.json")
         with open(file_path, "w", encoding="utf-8") as f:
              json.dump(final_output, f, indent=2, ensure_ascii=False)
-             
+
         print(f"Successfully saved {len(all_vocab_items)} items across {len(articles)} articles to {file_path}")
     finally:
         # Always update manifest before exiting

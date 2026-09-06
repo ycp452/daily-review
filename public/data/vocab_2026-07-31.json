@@ -4,61 +4,47 @@
   "articles": [
     {
       "title": "UEFA will Fußball-Weltmeisterschaften boykottieren",
-      "text": "",
+      "text": "Die FIFA will private Investoren in die Fußball-Weltmeisterschaften einbeziehen – auch eine Firma mit Verbindungen zur Familie von US-Präsident Donald Trump. Wenn das passiert, wollen die UEFA und ihre 55 Mitgliedsverbände die nächsten Weltmeisterschaften boykottieren. Auch der Fußballverband von Nord- und Mittelamerika und der Karibik ist gegen den Plan der FIFA und Gianni Infantino.\n\n",
       "vocab": [
-        {
-          "german": "Die FIFA will private Investoren in die Fußball-Weltmeisterschaften einbeziehen",
-          "explanation": "auch eine Firma mit Verbindungen zur Familie von US-Präsident Donald Trump. Wenn das passiert, wollen die UEFA und ihre 55 Mitgliedsverbände die nächsten Weltmeisterschaften boykottieren. Auch der Fußballverband von Nord- und Mittelamerika und der Karibik ist gegen den Plan der FIFA und Gianni Infantino.",
-          "english": "FIFA wants to involve private investors in the World Cup",
-          "id": "1"
-        },
         {
           "german": "FIFA (f., nur Singular)",
           "explanation": "kurz für: Fédération Internationale de Football Association; der weltweite Fußballverband",
-          "english": "FIFA (f., only singular)",
-          "id": "2"
+          "id": "1"
         },
         {
           "german": "Investor, -en/Investorin, -nen",
           "explanation": "eine Person: sie gibt (z. B. einem Land oder einem Unternehmen) Geld, damit sie später einen Gewinn oder Vorteil hat",
-          "english": "Investor",
-          "id": "3"
+          "id": "2"
         },
         {
           "german": "Weltmeisterschaft, -en (f.)",
           "explanation": "eine große internationale Veranstaltung: Teams aus vielen Ländern der Welt spielen gegeneinander",
-          "english": "World Cup, -en (f.)",
-          "id": "4"
+          "id": "3"
         },
         {
           "german": "jemanden ein|beziehen",
           "explanation": "hier: etwas mit jemandem gemeinsam entscheiden oder jemanden teilnehmen lassen",
-          "english": "to involve someone",
-          "id": "5"
+          "id": "4"
         },
         {
           "german": "mit Verbindungen zu jemandem/etwas",
           "explanation": "so, dass man jemanden/etwas kennt oder eine Beziehung zu jemandem/etwas ha",
-          "english": "with connections to someone/something",
-          "id": "6"
+          "id": "5"
         },
         {
           "german": "UEFA (f., nur Singular)",
           "explanation": "kurz für: Union Européenne de Football Association; der europäische Fußballverband",
-          "english": "UEFA (f., only singular)",
-          "id": "7"
+          "id": "6"
         },
         {
           "german": "Mitgliedsverband, -verbände (m.)",
           "explanation": "ein Verband, der auch Teil eines größeren Verbands ist",
-          "english": "Member association, associations (m.)",
-          "id": "8"
+          "id": "7"
         },
         {
           "german": "etwas boykottieren",
           "explanation": "bei etwas nicht mitmachen; gegen etwas sein oder handeln",
-          "english": "boycott something",
-          "id": "9"
+          "id": "8"
         }
       ]
     },
@@ -69,38 +55,32 @@
         {
           "german": "Migrant, -en/Migrantin, -nen",
           "explanation": "eine Person: sie möchte in einem anderen Land leben; hier auch: eine Person, die aus ihrem Land fliehen muss",
-          "english": "Migrant, -en/Migrantin, -nen",
-          "id": "10"
+          "id": "9"
         },
         {
           "german": "Exklave, -n (f.)",
           "explanation": "ein Teil von einem Land: er liegt nicht im Land selbst, sondern außerhalb des Landes",
-          "english": "exclave, -n (f.)",
-          "id": "11"
+          "id": "10"
         },
         {
           "german": "laut Behörden",
           "explanation": "wie z. B. die Regierung, die Polizei oder eine andere offizielle Institution sagt",
-          "english": "according to authorities",
-          "id": "12"
+          "id": "11"
         },
         {
           "german": "Küste, -n (f.)",
           "explanation": "ein Stück Land: es liegt direkt am Meer",
-          "english": "coast, -n (f.)",
-          "id": "13"
+          "id": "12"
         },
         {
           "german": "als etwas gelten",
           "explanation": "viele sagen, dass etwas so ist",
-          "english": "count as something",
-          "id": "14"
+          "id": "13"
         },
         {
           "german": "Zugangspunkt, -e (m.)",
           "explanation": "hier ein Ort: dadurch kommen viele Menschen zu einem anderen Ort",
-          "english": "access point, -e (m.)",
-          "id": "15"
+          "id": "14"
         }
       ]
     },
@@ -111,44 +91,37 @@
         {
           "german": "Einigung, -en (f.)",
           "explanation": "eine gemeinsame Lösung für einen Streit oder ein Problem",
-          "english": "agreement, -en (f.)",
-          "id": "16"
+          "id": "15"
         },
         {
           "german": "Entwaffnung, -en (f.)",
           "explanation": "eine Situation: man nimmt jemandem alle Waffen weg",
-          "english": "disarmament, -en (f.)",
-          "id": "17"
+          "id": "16"
         },
         {
           "german": "bewaffnet",
           "explanation": "mit Waffen",
-          "english": "armed",
-          "id": "18"
+          "id": "17"
         },
         {
           "german": "Militär (n., nur Singular)",
           "explanation": "die Armee; die Soldatinnen und Soldaten eines Landes",
-          "english": "military (n., only singular)",
-          "id": "19"
+          "id": "18"
         },
         {
           "german": "schrittweise",
           "explanation": "so, dass etwas langsam, in mehreren Schritten passiert",
-          "english": "gradually",
-          "id": "20"
+          "id": "19"
         },
         {
           "german": "etwas verlassen",
           "explanation": "von einem Ort weggehen",
-          "english": "leave something",
-          "id": "21"
+          "id": "20"
         },
         {
           "german": "Stabilisierungstruppe, -n (f.)",
           "explanation": "eine militärische Gruppe: sie soll sich darum kümmern, dass ein Land oder Landesteil sicher ist",
-          "english": "stabilization force, -n (f.)",
-          "id": "22"
+          "id": "21"
         }
       ]
     }

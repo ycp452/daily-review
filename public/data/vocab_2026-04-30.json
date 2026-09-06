@@ -9,110 +9,104 @@
         {
           "german": "Europäische Union (f, nur Singular)",
           "explanation": "eine Gruppe von Staaten in Europa: sie arbeiten eng zusammen (Abkürzung: die EU)",
-          "english": "European Union (f, only singular)",
-          "id": "1"
+          "id": "1",
+          "english": "European Union (f, only singular)"
         },
         {
           "german": "etwas (von jemandem) fordern",
           "explanation": "sagen, dass man etwas von jemandem will; sagen, dass jemand etwas tun soll",
-          "english": "to demand something (from someone).",
-          "id": "2"
+          "id": "2",
+          "english": "to demand something (from someone)."
         },
         {
           "german": "jemanden von etwas fern|halten",
           "explanation": "daran arbeiten, dass jemand etwas Bestimmtes nicht benutzen kann bzw. keinen Zugang dazu bekommt",
-          "english": "to keep someone away from something",
-          "id": "3"
+          "id": "3",
+          "english": "to keep someone away from something"
         },
         {
           "german": "jemandem droht eine Geldstrafe",
           "explanation": "jemand muss vielleicht Geld zahlen, weil er etwas Schlechtes oder Verbotenes getan hat",
-          "english": "someone is threatened with a fine",
-          "id": "4"
+          "id": "4",
+          "english": "someone is threatened with a fine"
         },
         {
           "german": "Technologiekonzern, -e (m.)",
           "explanation": "eine große Firma für Technologieprodukte (hier: für soziale Medien wie Facebook oder Instagram)",
-          "english": "technology group, -e (m.)",
-          "id": "5"
+          "id": "5",
+          "english": "technology group, -e (m.)"
         },
         {
           "german": "sich an Vorschriften zum Kinderschutz halten",
           "explanation": "Regeln beachten, die gut für Kinder sind und sie schützen",
-          "english": "adhere to child protection regulations",
-          "id": "6"
+          "id": "6",
+          "english": "adhere to child protection regulations"
         },
         {
           "german": "zu|treffen",
           "explanation": "stimmen; richtig sein",
-          "english": "to meet",
-          "id": "7"
+          "id": "7",
+          "english": "to meet"
         },
         {
           "german": "einen Account löschen",
           "explanation": "dafür sorgen, dass jemand nicht mehr auf einer Internetseite registriert ist; ein Konto z. B. bei Facebook oder Instagram auflösen",
-          "english": "delete an account",
-          "id": "8"
+          "id": "8",
+          "english": "delete an account"
         }
       ]
     },
     {
       "title": "Pete Hegseth im US-Kongress",
-      "text": "",
+      "text": "US-Verteidigungsminister Pete Hegseth hat im Kongress gesprochen – zum ersten Mal seit Beginn des Iran-Kriegs. Dabei hat er die Demokraten scharf kritisiert, weil sie gegen den Krieg sind. Bisher hat der Krieg etwa 25 Milliarden US-Dollar gekostet. Hegseth will das Geld für das US-Militär nächstes Jahr auf 1,5 Billionen Dollar erhöhen.\n\n",
       "vocab": [
-        {
-          "german": "US-Verteidigungsminister Pete Hegseth hat im Kongress gesprochen",
-          "explanation": "zum ersten Mal seit Beginn des Iran-Kriegs. Dabei hat er die Demokraten scharf kritisiert, weil sie gegen den Krieg sind. Bisher hat der Krieg etwa 25 Milliarden US-Dollar gekostet. Hegseth will das Geld für das US-Militär nächstes Jahr auf 1,5 Billionen Dollar erhöhen.",
-          "english": "US Secretary of Defense Pete Hegseth spoke in Congress",
-          "id": "9"
-        },
         {
           "german": "Verteidigungsminister, -/Verteidigungsministerin, -nen",
           "explanation": "ein Politiker/eine Politikerin: er/sie kümmert sich um den Schutz des Landes; er/sie ist für das Militär verantwortlich",
-          "english": "Defense Minister",
-          "id": "10"
+          "id": "9",
+          "english": "Defense Minister"
         },
         {
           "german": "Kongress (m., hier nur Singular)",
           "explanation": "hier: ein Teil des Parlaments in den USA",
-          "english": "Congress (m., here only singular)",
-          "id": "11"
+          "id": "10",
+          "english": "Congress (m., here only singular)"
         },
         {
           "german": "Krieg, -e (m.)",
           "explanation": "ein Konflikt mit Waffen; Kämpfe (oft zwischen zwei Ländern)",
-          "english": "war, -e (m.)",
-          "id": "12"
+          "id": "11",
+          "english": "war, -e (m.)"
         },
         {
           "german": "Demokrat, -en/Demokratin, -nen",
           "explanation": "ein Mitglied einer politischen Partei in den USA: die Partei, die momentan nicht regiert",
-          "english": "Democrat, -en/Democrat, -nen",
-          "id": "13"
+          "id": "12",
+          "english": "Democrat, -en/Democrat, -nen"
         },
         {
           "german": "jemanden/etwas scharf kritisieren",
           "explanation": "hier: sehr schlecht über jemanden/etwas reden; deutlich sagen, dass man jemanden/etwas nicht gut findet",
-          "english": "to criticize someone/something harshly",
-          "id": "14"
+          "id": "13",
+          "english": "to criticize someone/something harshly"
         },
         {
           "german": "Milliarde, -n (f.)",
           "explanation": "1000 Millionen (1000 Milliarden sind eine Billion)",
-          "english": "billion, -n (f.)",
-          "id": "15"
+          "id": "14",
+          "english": "billion, -n (f.)"
         },
         {
           "german": "Militär (n., nur Singular)",
           "explanation": "die Armee; die Soldatinnen und Soldaten in einem Land",
-          "english": "military (n., only singular)",
-          "id": "16"
+          "id": "15",
+          "english": "military (n., only singular)"
         },
         {
           "german": "etwas (auf etwas) erhöhen",
           "explanation": "eine Geldsumme größer machen; hier: mehr Geld für etwas ausgeben",
-          "english": "increase something (to something).",
-          "id": "17"
+          "id": "16",
+          "english": "increase something (to something)."
         }
       ]
     },
@@ -123,44 +117,44 @@
         {
           "german": "gestrandet",
           "explanation": "so, dass ein Meerestier an Land oder in der Nähe des Landes ist und nicht mehr aus eigener Kraft ins offene Meer schwimmen kann",
-          "english": "stranded",
-          "id": "18"
+          "id": "17",
+          "english": "stranded"
         },
         {
           "german": "Buckelwal, -e (m.)",
           "explanation": "ein großes Meerestier",
-          "english": "humpback whale, -e (m.)",
-          "id": "19"
+          "id": "18",
+          "english": "humpback whale, -e (m.)"
         },
         {
           "german": "Küste, -n (f.)",
           "explanation": "das Land: es liegt sehr nah am Meer",
-          "english": "coast, -n (f.)",
-          "id": "20"
+          "id": "19",
+          "english": "coast, -n (f.)"
         },
         {
           "german": "Rettungskraft, -kräfte (f.)",
           "explanation": "eine Person: sie hilft normalerweise Menschen (hier: einem Tier) in oder nach gefährlichen Situationen",
-          "english": "rescue force, rescue workers (f.)",
-          "id": "21"
+          "id": "20",
+          "english": "rescue force, rescue workers (f.)"
         },
         {
           "german": "Experte, -n/Expertin, -nen",
           "explanation": "eine Person: sie weiß sehr viel über ein Thema",
-          "english": "expert, -n/expert, -nen",
-          "id": "22"
+          "id": "21",
+          "english": "expert, -n/expert, -nen"
         },
         {
           "german": "wahrscheinlich nicht überleben",
           "explanation": "vielleicht sterben",
-          "english": "probably won't survive",
-          "id": "23"
+          "id": "22",
+          "english": "probably won't survive"
         },
         {
           "german": "flach",
           "explanation": "nicht tief",
-          "english": "flat",
-          "id": "24"
+          "id": "23",
+          "english": "flat"
         }
       ]
     }
