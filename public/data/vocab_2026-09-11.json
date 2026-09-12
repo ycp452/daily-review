@@ -9,50 +9,42 @@
         {
           "german": "Rebell, -en/Rebellin, -nen",
           "explanation": "eine Person: sie kämpft gegen jemanden, z. B. die Regierung eines Landes",
-          "id": "1",
-          "english": "rebel, -en/rebel, -nen"
+          "id": "1"
         },
         {
           "german": "Hafenstadt, -städte (f.)",
           "explanation": "eine Stadt am Meer mit einem Verkehrszugang (Hafen) für Schiffe",
-          "id": "2",
-          "english": "port city, cities (f.)"
+          "id": "2"
         },
         {
           "german": "etwas ein|nehmen",
           "explanation": "einen Ort erobern; etwas mit (militärischer) Gewalt unter Kontrolle bringen",
-          "id": "3",
-          "english": "to take something"
+          "id": "3"
         },
         {
           "german": "Meerenge, -n (f.)",
           "explanation": "ein schmaler Wasserweg zwischen zwei Landmassen",
-          "id": "4",
-          "english": "strait, -n (f.)"
+          "id": "4"
         },
         {
           "german": "Großangriff, -e (m.)",
           "explanation": "eine groß angelegte Attacke; der plötzliche Gebrauch von Gewalt an vielen verschiedenen Orten",
-          "id": "5",
-          "english": "major attack, -e (m.)"
+          "id": "5"
         },
         {
           "german": "Westküste, -n (f.)",
           "explanation": "der Zugang zum Meer im Westen eines Landes oder einer Region",
-          "id": "6",
-          "english": "west coast, -n (f.)"
+          "id": "6"
         },
         {
           "german": "gegen jemanden kämpfen",
           "explanation": "hier: militärische Gewalt gegen jemanden benutzen; im Krieg mit jemandem sein",
-          "id": "7",
-          "english": "fight against someone"
+          "id": "7"
         },
         {
           "german": "Regierungstruppe, -n (f.)",
           "explanation": "die Armee; die Soldaten eines Landes",
-          "id": "8",
-          "english": "government troops, -n (f.)"
+          "id": "8"
         }
       ]
     },
@@ -63,56 +55,47 @@
         {
           "german": "Auf politischen Druck hin hat die spanische Regierung Geheimdienstdokumente veröffentlicht",
           "explanation": "zu den Geschehnissen in Spaniens nordafrikanischer Exklave Ceuta. Ende Juli sind in wenigen Stunden mehr als 70.000 Menschen aus Marokko nach Ceuta gekommen. Die meisten von ihnen sind nach kurzer Zeit wieder nach Marokko zurückgekehrt. In den Dokumenten steht: Der Geheimdienst hat die spanische Regierung einen Tag vorher vor „Massenübertritten“ gewarnt.",
-          "id": "9",
-          "english": "In response to political pressure, the Spanish government published intelligence documents"
+          "id": "9"
         },
         {
           "german": "auf politischen Druck hin",
           "explanation": "weil die politischen Gegner etwas sehr stark wollen und fordern",
-          "id": "10",
-          "english": "due to political pressure"
+          "id": "10"
         },
         {
           "german": "Geheimdienstdokument, -e (n.)",
           "explanation": "das Schriftstück einer Organisation: sie sammelt Informationen für einen Staat; diese Informationen darf niemand sonst bekommen (sie sind geheim)",
-          "id": "11",
-          "english": "Secret service document, -e (n.)"
+          "id": "11"
         },
         {
           "german": "etwas veröffentlichen",
           "explanation": "man macht etwas bekannt: viele Menschen können es dann lesen, sehen oder hören",
-          "id": "12",
-          "english": "publish something"
+          "id": "12"
         },
         {
           "german": "Geschehnis, -se (n.)",
           "explanation": "der Vorfall; das Ereignis; etwas, was passiert ist",
-          "id": "13",
-          "english": "incident, -se (n.)"
+          "id": "13"
         },
         {
           "german": "Exklave, -n (f.)",
           "explanation": "ein Teil eines Staates: er gehört zum Staat dazu, liegt aber getrennt vom übrigen Gebiet des Landes",
-          "id": "14",
-          "english": "exclave, -n (f.)"
+          "id": "14"
         },
         {
           "german": "zurück|kehren",
           "explanation": "hier: wieder in sein Land zurückgehen; wieder dahingehen, wo man vorher war",
-          "id": "15",
-          "english": "return|return"
+          "id": "15"
         },
         {
           "german": "jemanden vor etwas warnen",
           "explanation": "jemandem sagen, dass etwas Schlechtes oder Schlimmes passieren wird",
-          "id": "16",
-          "english": "to warn someone about something"
+          "id": "16"
         },
         {
           "german": "Massenübertritt, -e (m.)",
           "explanation": "hier: eine Situation: sehr viele Menschen gehen gleichzeitig über eine Grenze in ein anderes Land",
-          "id": "17",
-          "english": "mass crossing, -e (m.)"
+          "id": "17"
         }
       ]
     },
@@ -123,38 +106,32 @@
         {
           "german": "Busunglück, -e (n.)",
           "explanation": "ein Verkehrsunfall mit einem Bus",
-          "id": "18",
-          "english": "bus accident, -e (n.)"
+          "id": "18"
         },
         {
           "german": "Kanton, -e (m.)",
           "explanation": "hier: ein Landesteil in der Schweiz",
-          "id": "19",
-          "english": "canton, -e (m.)"
+          "id": "19"
         },
         {
           "german": "weitere",
           "explanation": "andere; mehr",
-          "id": "20",
-          "english": "more"
+          "id": "20"
         },
         {
           "german": "Rettungskraft, -kräfte (f.)",
           "explanation": "eine Person: sie hilft Menschen in oder nach gefährlichen Situationen",
-          "id": "21",
-          "english": "rescue force, rescue workers (f.)"
+          "id": "21"
         },
         {
           "german": "um|kippen",
           "explanation": "sich unkontrolliert auf die Seite drehen und umfallen",
-          "id": "22",
-          "english": "topple over"
+          "id": "22"
         },
         {
           "german": "an Bord",
           "explanation": "hier: im Bus",
-          "id": "23",
-          "english": "on board"
+          "id": "23"
         }
       ]
     }
