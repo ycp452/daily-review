@@ -1,0 +1,134 @@
+{
+  "articleDate": "2026-09-14",
+  "articleLink": "https://learngerman.dw.com/de/14092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79260986",
+  "articles": [
+    {
+      "title": "Russischer Angriff auf Personenzug",
+      "text": "In der Ukraine hat eine russische Drohne in der Nähe der polnischen Grenze einen Personenzug getroffen. Die Ukraine sagt, dass kurz vorher hohe westliche Politiker wie der frühere britische Premierminister Boris Johnson und der frühere CIA-Chef David Petraeus am Bahnhof waren. Russland sagt, dass es den Bahnhof angegriffen hat, weil von dort Militärgüter in die Ukraine gelangen. Die ukrainische Bahn glaubt, dass der Zug mit den Politikern eigentlich das Ziel war.\n\n",
+      "vocab": [
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein Gerät, das fliegen kann: Es braucht keine Pilotin/keinen Piloten und kann Waffen tragen.",
+          "id": "1"
+        },
+        {
+          "german": "Grenze, -n (f.)",
+          "explanation": "die Linie zwischen zwei Ländern",
+          "id": "2"
+        },
+        {
+          "german": "etwas treffen",
+          "explanation": "hier: etwas mit einer Waffe kaputtmachen",
+          "id": "3"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "die Regierungschefin oder der Regierungschef bestimmter Länder",
+          "id": "4"
+        },
+        {
+          "german": "etwas an|greifen",
+          "explanation": "plötzlich Gewalt gegen etwas anwenden; etwas oder jemanden attackieren",
+          "id": "5"
+        },
+        {
+          "german": "Militärgut, Militärgüter (n.)",
+          "explanation": "Dinge, die man in einem Krieg braucht, zum Beispiel Waffen oder Schutzausrüstung",
+          "id": "6"
+        },
+        {
+          "german": "an einen Ort gelangen",
+          "explanation": "an einen Ort kommen",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Tote und Vermisste nach Fährunglück in Indonesien",
+      "text": "Zwischen den Inseln Java und Borneo in Indonesien ist es bei schlechtem Wetter zu einem Fährunglück gekommen. Mehrere Menschen sind gestorben, mehr als 120 werden noch vermisst. An Bord des Schiffes waren mehr als 240 Menschen, als am frühen Sonntagmorgen der Kontakt zur Reederei abgebrochen ist. Über 100 Menschen konnten gerettet werden.\n\n",
+      "vocab": [
+        {
+          "german": "zu etwas kommen (es kommt zu etwas)",
+          "explanation": "passieren",
+          "id": "8"
+        },
+        {
+          "german": "Fährunglück, -e (n.)",
+          "explanation": "ein Unfall mit einem Schiff: Das Schiff fährt normalerweise zwischen zwei Orten hin und her.",
+          "id": "9"
+        },
+        {
+          "german": "vermisst werden",
+          "explanation": "nicht da sein: niemand weiß, wo die Person ist",
+          "id": "10"
+        },
+        {
+          "german": "an Bord",
+          "explanation": "auf einem Schiff oder in einem Flugzeug",
+          "id": "11"
+        },
+        {
+          "german": "Reederei, -en (f.)",
+          "explanation": "eine Firma: sie transportiert Sachen oder Personen mit Schiffen",
+          "id": "12"
+        },
+        {
+          "german": "ab|brechen",
+          "explanation": "hier: plötzlich enden",
+          "id": "13"
+        },
+        {
+          "german": "gerettet werden",
+          "explanation": "in Sicherheit sein, weil eine andere Person geholfen hat",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "Trump: USA sollen bei KI weltweit führend bleiben",
+      "text": "US-Präsident Donald Trump nennt die Kritik an Künstlicher Intelligenz (KI) „negativ“. Zuvor haben die Chefs von Anthropic und OpenAI vor den Gefahren von KI gewarnt. Sie sagen, dass die Entwicklung vorsichtiger sein sollte. Trump will, dass die USA bei der KI weltweit führend bleiben.\n\n",
+      "vocab": [
+        {
+          "german": "Kritik, -en (f.)",
+          "explanation": "eine Aussage: man sagt, dass man etwas nicht gut findet",
+          "id": "15"
+        },
+        {
+          "german": "Künstliche Intelligenz, -en (f.)",
+          "explanation": "eine Technologie: sie verarbeitet sehr große Mengen von Daten oder Informationen",
+          "id": "16"
+        },
+        {
+          "german": "negativ",
+          "explanation": "schlecht",
+          "id": "17"
+        },
+        {
+          "german": "zuvor",
+          "explanation": "vorher",
+          "id": "18"
+        },
+        {
+          "german": "vor etwas warnen",
+          "explanation": "sagen, dass etwas gefährlich ist",
+          "id": "19"
+        },
+        {
+          "german": "Gefahr, -en (f.)",
+          "explanation": "etwas Gefährliches; ein Risiko",
+          "id": "20"
+        },
+        {
+          "german": "Entwicklung, -en (f.)",
+          "explanation": "hier: die Arbeit, die etwas verändert und weiterbringt",
+          "id": "21"
+        },
+        {
+          "german": "führend",
+          "explanation": "an erster Stelle; der/die Beste in etwas",
+          "id": "22"
+        }
+      ]
+    }
+  ]
+}
