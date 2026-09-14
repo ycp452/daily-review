@@ -50,52 +50,47 @@
     },
     {
       "title": "Spanien veröffentlicht geheime Dokumente zu Ceuta",
-      "text": "",
+      "text": "Auf politischen Druck hin hat die spanische Regierung Geheimdienstdokumente veröffentlicht – zu den Geschehnissen in Spaniens nordafrikanischer Exklave Ceuta. Ende Juli sind in wenigen Stunden mehr als 70.000 Menschen aus Marokko nach Ceuta gekommen. Die meisten von ihnen sind nach kurzer Zeit wieder nach Marokko zurückgekehrt. In den Dokumenten steht: Der Geheimdienst hat die spanische Regierung einen Tag vorher vor „Massenübertritten“ gewarnt.\n\n",
       "vocab": [
-        {
-          "german": "Auf politischen Druck hin hat die spanische Regierung Geheimdienstdokumente veröffentlicht",
-          "explanation": "zu den Geschehnissen in Spaniens nordafrikanischer Exklave Ceuta. Ende Juli sind in wenigen Stunden mehr als 70.000 Menschen aus Marokko nach Ceuta gekommen. Die meisten von ihnen sind nach kurzer Zeit wieder nach Marokko zurückgekehrt. In den Dokumenten steht: Der Geheimdienst hat die spanische Regierung einen Tag vorher vor „Massenübertritten“ gewarnt.",
-          "id": "9"
-        },
         {
           "german": "auf politischen Druck hin",
           "explanation": "weil die politischen Gegner etwas sehr stark wollen und fordern",
-          "id": "10"
+          "id": "9"
         },
         {
           "german": "Geheimdienstdokument, -e (n.)",
           "explanation": "das Schriftstück einer Organisation: sie sammelt Informationen für einen Staat; diese Informationen darf niemand sonst bekommen (sie sind geheim)",
-          "id": "11"
+          "id": "10"
         },
         {
           "german": "etwas veröffentlichen",
           "explanation": "man macht etwas bekannt: viele Menschen können es dann lesen, sehen oder hören",
-          "id": "12"
+          "id": "11"
         },
         {
           "german": "Geschehnis, -se (n.)",
           "explanation": "der Vorfall; das Ereignis; etwas, was passiert ist",
-          "id": "13"
+          "id": "12"
         },
         {
           "german": "Exklave, -n (f.)",
           "explanation": "ein Teil eines Staates: er gehört zum Staat dazu, liegt aber getrennt vom übrigen Gebiet des Landes",
-          "id": "14"
+          "id": "13"
         },
         {
           "german": "zurück|kehren",
           "explanation": "hier: wieder in sein Land zurückgehen; wieder dahingehen, wo man vorher war",
-          "id": "15"
+          "id": "14"
         },
         {
           "german": "jemanden vor etwas warnen",
           "explanation": "jemandem sagen, dass etwas Schlechtes oder Schlimmes passieren wird",
-          "id": "16"
+          "id": "15"
         },
         {
           "german": "Massenübertritt, -e (m.)",
           "explanation": "hier: eine Situation: sehr viele Menschen gehen gleichzeitig über eine Grenze in ein anderes Land",
-          "id": "17"
+          "id": "16"
         }
       ]
     },
@@ -106,32 +101,32 @@
         {
           "german": "Busunglück, -e (n.)",
           "explanation": "ein Verkehrsunfall mit einem Bus",
-          "id": "18"
+          "id": "17"
         },
         {
           "german": "Kanton, -e (m.)",
           "explanation": "hier: ein Landesteil in der Schweiz",
-          "id": "19"
+          "id": "18"
         },
         {
           "german": "weitere",
           "explanation": "andere; mehr",
-          "id": "20"
+          "id": "19"
         },
         {
           "german": "Rettungskraft, -kräfte (f.)",
           "explanation": "eine Person: sie hilft Menschen in oder nach gefährlichen Situationen",
-          "id": "21"
+          "id": "20"
         },
         {
           "german": "um|kippen",
           "explanation": "sich unkontrolliert auf die Seite drehen und umfallen",
-          "id": "22"
+          "id": "21"
         },
         {
           "german": "an Bord",
           "explanation": "hier: im Bus",
-          "id": "23"
+          "id": "22"
         }
       ]
     }

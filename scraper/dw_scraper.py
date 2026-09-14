@@ -114,10 +114,37 @@ def _first_child_is_strong(seg_soup):
     return False
 
 
+def _non_strong_letters_before(seg_soup, delim_pos):
+    """Count letter chars OUTSIDE <strong> children before delim_pos
+    (a character offset into the segment's NBSP-normalized, un-stripped text).
+    Real DW vocab has only separators/grammar markers between/around the
+    <strong> headword(s) — `/`, spaces, `(m.)`, `(n.)`, `(f.)` — so ≤ ~1
+    letter outside <strong> on the left of the delimiter. An article intro
+    that DW pre-bolds inline has whole connecting words (`hat die spanische
+    Regierung`) between the bolds, i.e. many letters outside <strong>."""
+    letters = 0
+    pos = 0
+    for child in seg_soup.children:
+        if pos >= delim_pos:
+            break
+        if isinstance(child, str):
+            text = str(child).replace(" ", " ")
+            is_strong = False
+        else:
+            text = child.get_text().replace(" ", " ")
+            is_strong = getattr(child, "name", None) == "strong"
+        chunk = text[: max(0, delim_pos - pos)]
+        if not is_strong:
+            letters += sum(1 for c in chunk if c.isalpha())
+        pos += len(text)
+    return letters
+
+
 def _process_segment(seg_html, current_article):
     seg_soup = BeautifulSoup(seg_html, "html.parser")
     # Normalize NBSP to regular space so downstream matching is consistent
-    line = seg_soup.get_text().replace(" ", " ").strip()
+    raw = seg_soup.get_text().replace(" ", " ")
+    line = raw.strip()
     if not line:
         return
 
@@ -127,7 +154,23 @@ def _process_segment(seg_html, current_article):
     if starts_with_strong and m:
         word_candidate = line[:m.start()].strip()
         explanation_candidate = line[m.end():].strip()
-        if word_candidate and len(explanation_candidate) > 3:
+        # Translate the delimiter offset from the stripped `line` back into
+        # the un-stripped `raw` text so it aligns with the child walk in
+        # _non_strong_letters_before. A real vocab entry has only separators
+        # or grammar markers outside its <strong> headword(s) before the
+        # delimiter (`/`, spaces, `(m.)`, `(n.)`, `(f.)`); an article intro
+        # that DW pre-bolds inline has whole connecting words between the
+        # bolds — that's how we tell them apart (e.g. 2026-09-11 Ceuta,
+        # while 2026-09-11 Jemen "Rebell, -en/Rebellin, -nen" still passes).
+        leading_ws = len(raw) - len(raw.lstrip())
+        letters_outside = _non_strong_letters_before(
+            seg_soup, m.start() + leading_ws
+        )
+        if (
+            word_candidate
+            and len(explanation_candidate) > 3
+            and letters_outside <= 2
+        ):
             current_article["vocab"].append({
                 "german": word_candidate,
                 "explanation": explanation_candidate,
