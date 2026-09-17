@@ -115,14 +115,15 @@ def _first_child_is_strong(seg_soup):
 
 
 def _non_strong_letters_before(seg_soup, delim_pos):
-    """Count letter chars OUTSIDE <strong> children before delim_pos
-    (a character offset into the segment's NBSP-normalized, un-stripped text).
-    Real DW vocab has only separators/grammar markers between/around the
-    <strong> headword(s) — `/`, spaces, `(m.)`, `(n.)`, `(f.)` — so ≤ ~1
-    letter outside <strong> on the left of the delimiter. An article intro
-    that DW pre-bolds inline has whole connecting words (`hat die spanische
-    Regierung`) between the bolds, i.e. many letters outside <strong>."""
-    letters = 0
+    """Count letter chars OUTSIDE <strong> children AND outside parentheses
+    before delim_pos (a character offset into the segment's NBSP-normalized,
+    un-stripped text). Real DW vocab has only separators or parenthesized
+    grammar markers between/around the <strong> headword(s) — `/`, spaces,
+    `(m.)`, `(n.)`, `(f.)`, `(m., nur Singular)`, `(n., nur Plural)`. An
+    article intro that DW pre-bolds inline has whole connecting words
+    (`hat die spanische Regierung`) between the bolds, i.e. many letters
+    outside both <strong> and any parens."""
+    parts = []
     pos = 0
     for child in seg_soup.children:
         if pos >= delim_pos:
@@ -135,9 +136,10 @@ def _non_strong_letters_before(seg_soup, delim_pos):
             is_strong = getattr(child, "name", None) == "strong"
         chunk = text[: max(0, delim_pos - pos)]
         if not is_strong:
-            letters += sum(1 for c in chunk if c.isalpha())
+            parts.append(chunk)
         pos += len(text)
-    return letters
+    combined = re.sub(r"\([^)]*\)", "", "".join(parts))
+    return sum(1 for c in combined if c.isalpha())
 
 
 def _process_segment(seg_html, current_article):

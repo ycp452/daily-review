@@ -4,7 +4,7 @@
   "articles": [
     {
       "title": "Hohe Benzin- und Dieselpreise",
-      "text": "Wegen der Konflikte im Nahen Osten sind Öl, Benzin und Diesel weltweit sehr teuer. Die deutsche Regierung hat die Steuer auf Benzin und Diesel im Frühjahr 2026 für zwei Monate gesenkt. Jetzt gibt es Streit in der Regierung: Einige Politikerinnen und Politiker wollen einen festen Höchstpreis für Benzin und Diesel. Andere sind für direkte Hilfen für ärmere Menschen.\n\nNaher Osten (m., nur Singular) – eine Region im Westen von Asien\n\nBenzin (n., nur Singular) – ein Produkt aus Erdöl: man füllt es in den Tank eines Autos\n\nDiesel (m., nur Singular) – ein Produkt aus Erdöl: man füllt es in den Tank eines Autos oder Lkw\n\n",
+      "text": "Wegen der Konflikte im Nahen Osten sind Öl, Benzin und Diesel weltweit sehr teuer. Die deutsche Regierung hat die Steuer auf Benzin und Diesel im Frühjahr 2026 für zwei Monate gesenkt. Jetzt gibt es Streit in der Regierung: Einige Politikerinnen und Politiker wollen einen festen Höchstpreis für Benzin und Diesel. Andere sind für direkte Hilfen für ärmere Menschen.\n\n",
       "vocab": [
         {
           "german": "Konflikt, -e (m.)",
@@ -12,24 +12,39 @@
           "id": "1"
         },
         {
+          "german": "Naher Osten (m., nur Singular)",
+          "explanation": "eine Region im Westen von Asien",
+          "id": "2"
+        },
+        {
+          "german": "Benzin (n., nur Singular)",
+          "explanation": "ein Produkt aus Erdöl: man füllt es in den Tank eines Autos",
+          "id": "3"
+        },
+        {
+          "german": "Diesel (m., nur Singular)",
+          "explanation": "ein Produkt aus Erdöl: man füllt es in den Tank eines Autos oder Lkw",
+          "id": "4"
+        },
+        {
           "german": "Steuer, -n (f.)",
           "explanation": "Geld, das Menschen oder Firmen an den Staat zahlen",
-          "id": "2"
+          "id": "5"
         },
         {
           "german": "etwas senken",
           "explanation": "etwas kleiner oder niedriger machen",
-          "id": "3"
+          "id": "6"
         },
         {
           "german": "Regierung, -en (f.)",
           "explanation": "die Gruppe von Politikerinnen und Politikern, die ein Land führen",
-          "id": "4"
+          "id": "7"
         },
         {
           "german": "Höchstpreis, -e (m.)",
           "explanation": "ein Preis, der nicht höher werden darf",
-          "id": "5"
+          "id": "8"
         }
       ]
     },
@@ -40,42 +55,42 @@
         {
           "german": "Herstellung, -en (f.)",
           "explanation": "die Produktion von etwas",
-          "id": "6"
+          "id": "9"
         },
         {
           "german": "Waffe, -n (f.)",
           "explanation": "ein Gerät wie eine Pistole oder eine Rakete: man kann damit Menschen töten oder verletzen",
-          "id": "7"
+          "id": "10"
         },
         {
           "german": "militärische Ausrüstung, -en (f.)",
           "explanation": "Geräte und Material für das Militär, zum Beispiel Fahrzeuge oder Kleidung",
-          "id": "8"
+          "id": "11"
         },
         {
           "german": "eng",
           "explanation": "hier: mehr und besser zusammen",
-          "id": "9"
+          "id": "12"
         },
         {
           "german": "Verteidigungsminister, -/Verteidigungsministerin, -nen",
           "explanation": "eine hohe Politikerin/ein hoher Politiker: die Person kümmert sich um das Militär",
-          "id": "10"
+          "id": "13"
         },
         {
           "german": "Absichtserklärung, -en (f.)",
           "explanation": "ein Dokument: Personen oder Länder schreiben auf, was sie in Zukunft tun oder planen wollen",
-          "id": "11"
+          "id": "14"
         },
         {
           "german": "seine Verteidigung stärken",
           "explanation": "als Staat mehr für den Schutz des eigenen Landes tun, zum Beispiel mehr Geld für das Militär ausgeben",
-          "id": "12"
+          "id": "15"
         },
         {
           "german": "jemanden unterstützen",
           "explanation": "jemandem helfen",
-          "id": "13"
+          "id": "16"
         }
       ]
     },
@@ -86,42 +101,42 @@
         {
           "german": "Demonstration, -en (f.)",
           "explanation": "eine Veranstaltung: die Menschen gehen auf die Straße und sagen ihre Meinung",
-          "id": "14"
+          "id": "17"
         },
         {
           "german": "jemanden fest|nehmen",
           "explanation": "(als Polizei) jemanden verhaften und zur Polizeiwache bringen",
-          "id": "15"
+          "id": "18"
         },
         {
           "german": "protestieren",
           "explanation": "als Gruppe auf die Straße gehen und sagen, dass man etwas nicht gut findet (z. B. in der Politik)",
-          "id": "16"
+          "id": "19"
         },
         {
           "german": "Razzia, Razzien (f.)",
           "explanation": "eine Aktion der Polizei: sie kommt in ein Gebäude, durchsucht die Räume und kontrolliert die Personen",
-          "id": "17"
+          "id": "20"
         },
         {
           "german": "LGBTQ+",
           "explanation": "Abkürzung aus dem Englischen für lesbische, schwule, bisexuelle, trans und queere Menschen sowie weitere Gruppen",
-          "id": "18"
+          "id": "21"
         },
         {
           "german": "jemanden schützen",
           "explanation": "jemandem Sicherheit geben; jemandem in einer gefährlichen Situation helfen",
-          "id": "19"
+          "id": "22"
         },
         {
           "german": "vollständiger Angriff, vollständige Angriffe (m.)",
           "explanation": "hier: eine sehr starke Aktion gegen eine Person oder Gruppe",
-          "id": "20"
+          "id": "23"
         },
         {
           "german": "Recht, -e (n.)",
           "explanation": "die Tatsache, dass jemand etwas darf",
-          "id": "21"
+          "id": "24"
         }
       ]
     }
