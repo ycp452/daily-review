@@ -1,0 +1,119 @@
+{
+  "articleDate": "2026-09-21",
+  "articleLink": "https://learngerman.dw.com/de/21092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79357780",
+  "articles": [
+    {
+      "title": "AfD gewinnt Wahl in Mecklenburg‑Vorpommern",
+      "text": "Die rechtsradikale Partei AfD hat die Landtagswahl in Mecklenburg‑Vorpommern im Nordosten Deutschlands gewonnen. Ministerpräsidentin bleibt aber wahrscheinlich Manuela Schwesig von den Sozialdemokraten (SPD). Bundeskanzler Friedrich Merz spricht von einem Desaster für seine Partei CDU. Sie hat zum ersten Mal weniger als fünf Prozent und kommt deshalb nicht in den Landtag.\n\n",
+      "vocab": [
+        {
+          "german": "rechtsradikal",
+          "explanation": "politisch sehr weit rechts: sehr nationalistisch, gegen bestimmte Gruppen von Menschen und nicht demokratisch",
+          "id": "1"
+        },
+        {
+          "german": "Partei, -en (f.)",
+          "explanation": "eine Gruppe von Menschen: sie arbeiten politisch zusammen, zum Beispiel im Parlament",
+          "id": "2"
+        },
+        {
+          "german": "Landtagswahl, -en (f.)",
+          "explanation": "eine politische Veranstaltung: die Menschen entscheiden über das Parlament in einem deutschen Bundesland",
+          "id": "3"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land oder einem Bundesland",
+          "id": "4"
+        },
+        {
+          "german": "Desaster, - (n.)",
+          "explanation": "etwas sehr Schlimmes; eine Katastrophe; ein großer Misserfolg",
+          "id": "5"
+        },
+        {
+          "german": "Prozent, -e (n.)",
+          "explanation": "ein Teil von 100; %",
+          "id": "6"
+        },
+        {
+          "german": "Landtag, -e (m.)",
+          "explanation": "das gewählte Parlament in einem deutschen Bundesland",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Berlin: Die Linke gewinnt Wahl",
+      "text": "Die Partei Die Linke hat die Wahl in Berlin klar gewonnen. Elif Eralp wird jetzt vielleicht die erste Regierende Bürgermeisterin von dieser Partei und die erste mit türkischem Hintergrund in der Hauptstadt. Mit 25,7 Prozent braucht Die Linke aber Koalitionspartner, um regieren zu können.\n\n",
+      "vocab": [
+        {
+          "german": "Partei, -en (f.)",
+          "explanation": "eine Gruppe von Menschen: sie arbeiten politisch zusammen, zum Beispiel im Parlament",
+          "id": "8"
+        },
+        {
+          "german": "Wahl, -en (f.)",
+          "explanation": "hier: eine politische Veranstaltung: die Menschen entscheiden darüber, welche Partei oder welche Person regieren soll",
+          "id": "9"
+        },
+        {
+          "german": "Regierender Bürgermeister, -/Regierende Bürgermeisterin, -nen",
+          "explanation": "hier: der höchste Politiker/die höchste Politikerin in in Berlin",
+          "id": "10"
+        },
+        {
+          "german": "Hintergrund, -gründe (m.)",
+          "explanation": "hier: die Herkunft oder Abstammung einer Person: daher kommt eine Person oder die Familie der Person",
+          "id": "11"
+        },
+        {
+          "german": "Koalitionspartner, - (m.)",
+          "explanation": "eine andere Partei: man arbeitet mit ihr in einem Parlament zusammen und in der Regierung zusammen",
+          "id": "12"
+        },
+        {
+          "german": "regieren",
+          "explanation": "hier: die politische Macht in einem Land haben und wichtige Entscheidungen für das Land treffen",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Russische Wahlleitung: Putin-Partei hat Wahl gewonnen",
+      "text": "In Russland hat die Wahlleitung die Partei von Wladimir Putin zum Sieger der Parlamentswahl erklärt. Die Wahl war weder frei noch demokratisch. Am letzten Tag der Wahl gab es einen ukrainischen Drohnenangriff auf Moskau. Auch auf der Krim und in anderen von Russland kontrollierten Teilen der Ukraine haben Wahlen stattgefunden.\n\n",
+      "vocab": [
+        {
+          "german": "Wahlleitung, -en (f.)",
+          "explanation": "eine Institution: sie organisiert und kontrolliert eine politische Wahl",
+          "id": "14"
+        },
+        {
+          "german": "jemanden zum Sieger erklären",
+          "explanation": "offiziell sagen, dass jemand gewonnen hat",
+          "id": "15"
+        },
+        {
+          "german": "Parlamentswahl, -en (f.)",
+          "explanation": "eine politische Veranstaltung: die Menschen in einem Land entscheiden über ein neues Parlament",
+          "id": "16"
+        },
+        {
+          "german": "weder … noch",
+          "explanation": "nicht … und nicht",
+          "id": "17"
+        },
+        {
+          "german": "Drohnenangriff, -e (m.)",
+          "explanation": "eine militärische Attacke aus der Luft mit kleinen Fluggeräten: dabei kann man Orte kaputt machen oder Personen verletzen oder töten",
+          "id": "18"
+        },
+        {
+          "german": "etwas kontrollieren",
+          "explanation": "hier: die (militärische) Macht an einem Ort haben; über einen Ort oder ein Gebiet herrschen",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
