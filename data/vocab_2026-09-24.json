@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-09-24",
+  "articleLink": "https://learngerman.dw.com/de/24092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79411590",
+  "articles": [
+    {
+      "title": "Wolodymyr Selenskyj spricht vor der UN-Generalversammlung",
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj hat vor der UN-Generalversammlung gesagt: Die Welt soll Russland wirtschaftlich isolieren. So hat das Land weniger Geld für den Krieg. Vorher hat der russische Außenminister Sergej Lawrow erklärt: Russland ist „bereit“ für Friedensverhandlungen, will die Kämpfe aber fortsetzen.\n\nfür etwas bereit sein - etwas jetzt machen wollen\n\n",
+      "vocab": [
+        {
+          "german": "UN-Generalversammlung (f., nur Singular)",
+          "explanation": "ein wichtiges Treffen der Vereinten Nationen (UN): hier treffen sich alle Mitglieder dieser Organisation",
+          "id": "1"
+        },
+        {
+          "german": "jemanden wirtschaftlich isolieren",
+          "explanation": "keine Geschäfte mehr mit jemandem machen",
+          "id": "2"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; Kämpfe, oft zwischen zwei Ländern",
+          "id": "3"
+        },
+        {
+          "german": "Friedensverhandlung, -en (f.)",
+          "explanation": "Gespräche mit einem anderen Land oder mit mehreren Ländern über das Ende eines Kriegs",
+          "id": "4"
+        },
+        {
+          "german": "etwas fort|setzen",
+          "explanation": "mit etwas weitermachen",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "Nordäthiopien: Volksbefreiungsfront von Tigray kämpft gegen Zentralregierung",
+      "text": "Rebellen haben in der nordäthiopischen Region Tigray zwei Flughäfen besetzt. Sie kämpfen gegen Truppen der Zentralregierung in der Nachbarregion Afar. Viele Menschen haben Angst vor einem neuen Krieg zwischen der Zentralregierung und der Volksbefreiungsfront von Tigray. Im Krieg von 2020 bis 2022 sind mehrere Hunderttausend Menschen gestorben.\n\n",
+      "vocab": [
+        {
+          "german": "Rebell, -en/Rebellin, -nen",
+          "explanation": "eine Person: sie kämpft gegen die Regierung eines Landes",
+          "id": "6"
+        },
+        {
+          "german": "Region, -en (f.)",
+          "explanation": "das Gebiet; der Landesteil",
+          "id": "7"
+        },
+        {
+          "german": "etwas besetzen",
+          "explanation": "hier: etwas mit Gewalt kontrollieren",
+          "id": "8"
+        },
+        {
+          "german": "gegen jemanden kämpfen",
+          "explanation": "hier: militärische Gewalt gegen jemanden benutzen; im Krieg mit jemandem sein",
+          "id": "9"
+        },
+        {
+          "german": "Truppe, -n (f.)",
+          "explanation": "hier: die Soldaten; das Militär",
+          "id": "10"
+        },
+        {
+          "german": "Zentralregierung, -en (f.)",
+          "explanation": "Politikerinnen und Politiker einer Regierung: sie regieren das ganze Land",
+          "id": "11"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; Kämpfe, oft zwischen zwei Ländern",
+          "id": "12"
+        },
+        {
+          "german": "Volksbefreiungsfront (f., nur Singular)",
+          "explanation": "der Name einer Organisation in Äthiopien: sie kämpft gegen die Regierung und sagt, dass sie mehr Freiheit für die Menschen will",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Klimaforscher: mehr Tote durch El Niño",
+      "text": "Klimaforscher sagen: Durch das Wetterphänomen El Niño können bis Februar fast eine halbe Million Menschen mehr an den Folgen großer Hitze sterben. Die Temperaturen an Land sind in den nächsten Monaten voraussichtlich 1,2 Grad höher als normal. Nigeria, Indonesien, Sudan, Indien und Brasilien sind wahrscheinlich besonders stark betroffen.\n\n",
+      "vocab": [
+        {
+          "german": "Klimaforscher, -/Klimaforscherin, -nen",
+          "explanation": "eine Person: sie untersucht das Klima der Erde und seine Veränderungen",
+          "id": "14"
+        },
+        {
+          "german": "Wetterphänomen, -e (n.)",
+          "explanation": "eine besondere Wettersituation",
+          "id": "15"
+        },
+        {
+          "german": "Folge, -n (f.)",
+          "explanation": "etwas, das durch etwas anderes passiert",
+          "id": "16"
+        },
+        {
+          "german": "Hitze (f., nur Singular)",
+          "explanation": "eine Situation: es ist sehr heiß",
+          "id": "17"
+        },
+        {
+          "german": "Temperatur, -en (f.)",
+          "explanation": "eine Angabe, wie warm oder kalt es ist",
+          "id": "18"
+        },
+        {
+          "german": "voraussichtlich",
+          "explanation": "wahrscheinlich",
+          "id": "19"
+        },
+        {
+          "german": "von etwas betroffen sein",
+          "explanation": "ein bestimmtes Problem haben",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
