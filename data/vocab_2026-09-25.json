@@ -1,0 +1,134 @@
+{
+  "articleDate": "2026-09-25",
+  "articleLink": "https://learngerman.dw.com/de/25092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79430903",
+  "articles": [
+    {
+      "title": "Trump empfängt Xi im Weißen Haus",
+      "text": "US-Präsident Donald Trump hat den chinesischen Staatschef Xi Jinping im Weißen Haus empfangen und mit ihm über Themen wie Handel und KI, aber auch über Taiwan geredet. Trump spricht von einer großartigen Freundschaft. Xi meint: Ein neues Handelsabkommen zwischen China und den USA ist auch gut für den Handel in der Welt.\n\n",
+      "vocab": [
+        {
+          "german": "Staatschef, -s/Staatschefin, -nen",
+          "explanation": "die wichtigste politische Person in einem Land",
+          "id": "1"
+        },
+        {
+          "german": "das Weiße Haus (n., nur Singular)",
+          "explanation": "ein großes, bekanntes Gebäude in Washington, D.C.; dort wohnt und arbeitet der Präsident der USA",
+          "id": "2"
+        },
+        {
+          "german": "jemanden empfangen",
+          "explanation": "jemanden offiziell begrüßen und zu sich einladen",
+          "id": "3"
+        },
+        {
+          "german": "Handel (m., nur Singular)",
+          "explanation": "die wirtschaftliche Zusammenarbeit zwischen Ländern: sie kaufen und verkaufen gegenseitig Produkte",
+          "id": "4"
+        },
+        {
+          "german": "KI (f., nur Singular)",
+          "explanation": "Abkürzung für: Künstliche Intelligenz; Computerprogramme: sie können selbstständig Dinge erkennen, lernen und entscheiden",
+          "id": "5"
+        },
+        {
+          "german": "großartig",
+          "explanation": "sehr gut; toll",
+          "id": "6"
+        },
+        {
+          "german": "Abkommen, - (n.)",
+          "explanation": "hier: eine Art Vertrag zwischen zwei oder mehr Ländern",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Protest vor Netanjahus Rede bei der UN-Generalversammlung",
+      "text": "Der israelische Ministerpräsident Benjamin Netanjahu hat bei der UN-Generalversammlung gesagt: Israel begeht keinen Völkermord im Gazastreifen; das ist eine Lüge. Viele Delegierte haben vor Netanjahus Rede aus Protest die Versammlung verlassen.\n\n",
+      "vocab": [
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung in einem Land",
+          "id": "8"
+        },
+        {
+          "german": "UN-Generalversammlung (f., nur Singular)",
+          "explanation": "ein wichtiges Treffen der Vereinten Nationen (UN): hier treffen sich alle Mitglieder dieser Organisation",
+          "id": "9"
+        },
+        {
+          "german": "Völkermord begehen (m., nur Singular)",
+          "explanation": "Gewalt gegen eine große Gruppe von Menschen benutzen, weil man sie zerstören will",
+          "id": "10"
+        },
+        {
+          "german": "Gazastreifen (m., nur Singular)",
+          "explanation": "ein Gebiet am Mittelmeer zwischen Israel und Ägypten",
+          "id": "11"
+        },
+        {
+          "german": "Delegierte, -n (m./f.)",
+          "explanation": "eine Person: sie vertritt eine Organisation oder ein Land bei einem offiziellen Treffen",
+          "id": "12"
+        },
+        {
+          "german": "etwas aus Protest verlassen",
+          "explanation": "von etwas weggehen: man ist gegen jemanden oder etwas und zeigt das dadurch",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Kämpfe im Norden Äthiopiens",
+      "text": "Im Norden Äthiopiens gibt es neue Kämpfe. Die Rebellen sagen: Sie sind jetzt in einem Krieg mit der Regierung und haben drei Flughäfen unter ihre Kontrolle gebracht. Am Wochenende haben sieben Oppositionsgruppen von einem Bündnis gesprochen. Es soll die Regierung unter Premierminister Abiy Ahmed stürzen.\n\n",
+      "vocab": [
+        {
+          "german": "Kampf, Kämpfe (m.)",
+          "explanation": "hier: ein Streit oder Konflikt mit Waffen",
+          "id": "14"
+        },
+        {
+          "german": "Rebell, -en/Rebellin, -nen",
+          "explanation": "hier: eine Person: sie kämpft gegen die Regierung eines Landes",
+          "id": "15"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein großer Konflikt mit Waffen; oft zwischen Ländern oder Gruppen",
+          "id": "16"
+        },
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "eine Gruppe von Politikerinnen und Politikern: sie leitet ein Land",
+          "id": "17"
+        },
+        {
+          "german": "etwas unter seine Kontrolle bringen",
+          "explanation": "hier: sich etwas nehmen und es kontrollieren",
+          "id": "18"
+        },
+        {
+          "german": "Oppositionsgruppe, -n (f.)",
+          "explanation": "eine Gruppe von Menschen: sie kämpft gegen die Regierung, auch mit Waffen",
+          "id": "19"
+        },
+        {
+          "german": "Bündnis, -se (n.)",
+          "explanation": "eine Gruppe von Menschen: sie haben dasselbe Ziel oder die gleiche Meinung; sie arbeiten zusammen",
+          "id": "20"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -en",
+          "explanation": "der Regierungschef oder die Regierungschefin bestimmter Länder",
+          "id": "21"
+        },
+        {
+          "german": "jemanden stürzen",
+          "explanation": "dafür sorgen, dass eine Person ihre Position oder Macht verliert",
+          "id": "22"
+        }
+      ]
+    }
+  ]
+}
