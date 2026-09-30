@@ -1,0 +1,129 @@
+{
+  "articleDate": "2026-09-30",
+  "articleLink": "https://learngerman.dw.com/de/30092026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79487557",
+  "articles": [
+    {
+      "title": "US-Truppen verlassen Irak",
+      "text": "Alle US-Truppen sollen bis heute aus dem Irak abziehen – 23 Jahre nach dem Sturz des Diktators Saddam Hussein. Der frühere US-Präsident Joe Biden hat den Abzug 2024 angekündigt. Zwischen 2011 und 2014 waren schon einmal keine US-Truppen im Irak. Danach haben die USA dort gegen den Islamischen Staat gekämpft. Die irakische Regierung warnt, dass das Land jetzt vielleicht wieder unsicherer wird.\n\n",
+      "vocab": [
+        {
+          "german": "Truppe, -n (f.)",
+          "explanation": "hier: die Soldaten; das Militär",
+          "id": "1"
+        },
+        {
+          "german": "aus einem Land ab|ziehen",
+          "explanation": "als Militär aus einem Land wieder weggehen; die Soldaten wieder zurückschicken (Substantiv: der Abzug)",
+          "id": "2"
+        },
+        {
+          "german": "Sturz, Stürze (m.)",
+          "explanation": "hier eine politische Situation: eine Person verliert ihre politische Macht durch äußere (militärische) Gewalt",
+          "id": "3"
+        },
+        {
+          "german": "Diktator, -en/Diktatorin, -nen",
+          "explanation": "eine nicht demokratisch gewählte Person: sie hat allein die Macht in einem Land, und das Land ist nicht frei",
+          "id": "4"
+        },
+        {
+          "german": "etwas an|kündigen",
+          "explanation": "sagen, dass man bald etwas macht",
+          "id": "5"
+        },
+        {
+          "german": "gegen jemanden kämpfen",
+          "explanation": "hier: militärische Gewalt gegen jemanden benutzen; im Krieg mit jemandem sein",
+          "id": "6"
+        },
+        {
+          "german": "Islamischer Staat (m., nur Singular)",
+          "explanation": "hier: eine Terrororganisation: sie möchte ihre politischen oder religiösen Ziele mit Gewalt erreichen, kurz: IS",
+          "id": "7"
+        },
+        {
+          "german": "(vor etwas) warnen",
+          "explanation": "sagen, dass etwas Schlechtes passieren kann",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: Angriffe auf Kyjiw",
+      "text": "Russland hat die ukrainische Hauptstadt Kyjiw in der Nacht wieder aus der Luft angegriffen. Laut den ukrainischen Behörden gibt es mindestens drei Tote und sieben Verletzte. Das russische Verteidigungsministerium sagt: Man hat auch ein Rechenzentrum in Kyjiw und mehrere Energieanlagen in der Nähe der Stadt angegriffen.\n\n",
+      "vocab": [
+        {
+          "german": "jemanden/etwas aus der Luft an|greifen",
+          "explanation": "Waffen wie Raketen und Drohnen gegen jemanden/etwas benutzen; militärische Gewalt aus der Luft gegen jemanden/etwas nutzen",
+          "id": "9"
+        },
+        {
+          "german": "laut Behörden",
+          "explanation": "wie z. B. die Regierung, die Polizei oder eine andere offizielle Stelle sagt",
+          "id": "10"
+        },
+        {
+          "german": "Verteidigungsministerium, -ministerien (n.)",
+          "explanation": "eine politische Organisation der Regierung: sie kümmert sich um die (militärische) Sicherheit eines Landes",
+          "id": "11"
+        },
+        {
+          "german": "Energieanlage, -n (f.)",
+          "explanation": "eine Gruppe von Gebäuden: dort stellt man Energie her",
+          "id": "12"
+        },
+        {
+          "german": "Rechenzentrum, -zentren (n.)",
+          "explanation": "ein wichtiges Gebäude für die Telekommunikation und das Internet in einem Land",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Spaniens Regierung reagiert auf Proteste",
+      "text": "Die spanische Regierung reagiert auf die Proteste gegen Wohnungsmangel und Zwangsräumungen. Sie hat jetzt Gesetzesreformen beschlossen. So soll es bis 2030 keine Zwangsräumungen mehr geben. Der Auslöser für die tagelangen Proteste war der Fall einer 87-jährige Frau, die ihre Wohnung in Madrid nach 70 Jahren verlassen musste. Sie darf jetzt wieder zurück in ihre Wohnung.\n\n",
+      "vocab": [
+        {
+          "german": "auf etwas reagieren",
+          "explanation": "etwas machen, weil vorher etwas passiert ist",
+          "id": "14"
+        },
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "eine Aktion: Menschen gehen auf die Straße, weil sie gegen jemanden/etwas sind",
+          "id": "15"
+        },
+        {
+          "german": "Wohnungsmangel (m., nur Singular)",
+          "explanation": "eine Situation: es gibt zu wenige Wohnungen für alle Menschen in einem Land; nicht jeder findet eine Wohnung",
+          "id": "16"
+        },
+        {
+          "german": "Zwangsräumung, -en (f.)",
+          "explanation": "eine Situation: eine Person muss gegen ihren Willen aus ihrer Wohnung raus, weil z. B. der Vermieter es so will oder sie die Miete nicht mehr bezahlen kann",
+          "id": "17"
+        },
+        {
+          "german": "eine Gesetzesreform beschließen",
+          "explanation": "als Regierung sagen und entscheiden, dass ein Gesetz (eine staatliche Regel) sich ändern soll",
+          "id": "18"
+        },
+        {
+          "german": "Auslöser, - (m.)",
+          "explanation": "der Grund: deswegen ist etwas passiert oder hat etwas angefangen",
+          "id": "19"
+        },
+        {
+          "german": "Fall, Fälle (m.)",
+          "explanation": "hier: die Situation oder das Ereignis, das (jemandem) passiert ist",
+          "id": "20"
+        },
+        {
+          "german": "etwas verlassen",
+          "explanation": "von einem Ort weggehen",
+          "id": "21"
+        }
+      ]
+    }
+  ]
+}
