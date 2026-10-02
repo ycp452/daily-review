@@ -1,0 +1,129 @@
+{
+  "articleDate": "2026-10-02",
+  "articleLink": "https://learngerman.dw.com/de/02102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79518470",
+  "articles": [
+    {
+      "title": "Frankreich: Verletzte und Festnahmen bei Schülerprotesten",
+      "text": "In ganz Frankreich protestieren seit Tagen Schülerinnen und Schüler, weil es nicht genug Lehrkräfte gibt und die Klassen zu groß sind. Die Proteste waren aber nicht immer friedlich: Es hat viele Verletzte gegeben, und die Polizei hat fast 2000 Menschen festgenommen. Außerdem bleiben heute über 400 Schulen geschlossen. Frankreichs Premierminister Sébastien Lecornu hat jetzt eine Krisensitzung einberufen.\n\n",
+      "vocab": [
+        {
+          "german": "protestieren",
+          "explanation": "auf die Straße gehen, weil man gegen jemanden/etwas ist (Substantiv: der Protest)",
+          "id": "1"
+        },
+        {
+          "german": "Lehrkraft, -kräfte (f.)",
+          "explanation": "der Lehrer; die Lehrerin",
+          "id": "2"
+        },
+        {
+          "german": "friedlich",
+          "explanation": "hier: ohne Gewalt; so, dass niemand etwas kaputt macht oder jemanden angreift",
+          "id": "3"
+        },
+        {
+          "german": "jemanden fest|nehmen",
+          "explanation": "(als Polizei) jemanden verhaften; jemanden mitnehmen und z. B. ins Gefängnis bringen",
+          "id": "4"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "der Regierungschef oder die Regierungschefin bestimmter Länder",
+          "id": "5"
+        },
+        {
+          "german": "eine Krisensitzung ein|berufen",
+          "explanation": "ein Treffen von wichtigen Personen organisieren: man trifft sich, weil eine schwierige und/oder gefährliche Situation entstanden ist",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Gletscherschmelze in den Schweizer Alpen",
+      "text": "Die Schweizer Gletscher sind weiter geschmolzen: In diesem Jahr ist das Eis schon um über fünf Prozent zurückgegangen. Das Netzwerk „Glacier Monitoring in Switzerland“ erklärt, dass es im Winter zu wenig geschneit hat und es im Sommer oft extrem heiß war. Grund dafür ist der menschengemachte Klimawandel.\n\n",
+      "vocab": [
+        {
+          "german": "Gletscher, - (m.)",
+          "explanation": "ein großes Stück Eis in den Bergen: Berge sind damit bedeckt; normalerweise bleibt das Eis das ganze Jahr",
+          "id": "7"
+        },
+        {
+          "german": "schmelzen",
+          "explanation": "bei hohen Temperaturen warm und flüssig werden",
+          "id": "8"
+        },
+        {
+          "german": "Prozent, -e (n.)",
+          "explanation": "ein Teil von 100 Teilen",
+          "id": "9"
+        },
+        {
+          "german": "zurück|gehen",
+          "explanation": "hier: kleiner werden; an Größe verlieren",
+          "id": "10"
+        },
+        {
+          "german": "Netzwerk, -e (n.)",
+          "explanation": "hier: eine Organisation mit einem bestimmten Ziel: sie besteht aus verschiedenen Gruppen",
+          "id": "11"
+        },
+        {
+          "german": "extrem",
+          "explanation": "ganz besonders; sehr weit vom normalen Maß entfernt",
+          "id": "12"
+        },
+        {
+          "german": "menschengemachter Klimawandel (m., nur Singular)",
+          "explanation": "die Veränderung des Klimas durch den Menschen: die Temperaturen auf der Erde und in den Weltmeeren werden immer höher, weil der Mensch viel CO2 produziert",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Tennessee: Mörderin überlebt Hinrichtung",
+      "text": "Im US-Bundesstaat Tennessee ist eine Hinrichtung fehlgeschlagen. Die zum Tode verurteilte Christa Pike hat zwei Giftspritzen überlebt und ist jetzt im Krankenhaus. Ihr Zustand ist kritisch. Pike war wegen eines Mordes in den 1990er-Jahren zum Tode verurteilt. Es soll in Tennessee jetzt in diesem Jahr keine Hinrichtungen mehr geben.\n\n",
+      "vocab": [
+        {
+          "german": "US-Bundesstaat, -en (m.)",
+          "explanation": "einer von 50 Ländern in den USA: aus ihnen besteht die USA und sie haben eigene Gesetze und Verwaltung",
+          "id": "14"
+        },
+        {
+          "german": "Hinrichtung, -en (f.)",
+          "explanation": "hier: eine Bestrafung: der Staat will einen Menschen töten, weil er etwas Schlimmes getan hat",
+          "id": "15"
+        },
+        {
+          "german": "fehl|schlagen",
+          "explanation": "nicht gelingen; nicht funktionieren; scheitern",
+          "id": "16"
+        },
+        {
+          "german": "zum Tode verurteilt",
+          "explanation": "so, dass eine Person sterben muss: sie hat etwas sehr Schlimmes getan und der Staat entscheidet, dass sie nicht mehr leben darf",
+          "id": "17"
+        },
+        {
+          "german": "Giftspritze, -n (f.)",
+          "explanation": "eine Gerät mit einem gefährlichen Stoff oder Medikament: es sorgt dafür, dass ein Mensch stirbt",
+          "id": "18"
+        },
+        {
+          "german": "etwas überleben",
+          "explanation": "bei einem schlimmen Ereignis nicht sterben",
+          "id": "19"
+        },
+        {
+          "german": "der Zustand ist kritisch",
+          "explanation": "eine Person ist sehr schwer krank oder verletzt und könnte bald sterben; es ist nicht sicher, dass sie wieder gesund wird",
+          "id": "20"
+        },
+        {
+          "german": "Mord, -e (m.)",
+          "explanation": "die geplante, absichtliche Tötung eines Menschen",
+          "id": "21"
+        }
+      ]
+    }
+  ]
+}
