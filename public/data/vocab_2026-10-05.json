@@ -1,0 +1,119 @@
+{
+  "articleDate": "2026-10-05",
+  "articleLink": "https://learngerman.dw.com/de/05102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79548619",
+  "articles": [
+    {
+      "title": "Präsidentschaftswahl in Brasilien",
+      "text": "Bei der Präsidentschaftswahl in Brasilien kommt es am 25. Oktober zu einer Stichwahl. Der rechte Senator Flávio Bolsonaro hat 47 Prozent der Stimmen bekommen. Er ist der Sohn des inhaftierten früheren Präsidenten Jair Bolsonaro. Der aktuelle, linke Präsident Luiz Inácio Lula da Silva hat 45 Prozent der Stimmen.\n\n",
+      "vocab": [
+        {
+          "german": "Präsidentschaftswahl, -en (f.)",
+          "explanation": "die politische Wahl: die Bürgerinnen und Bürger eines Landes entscheiden sich für einen neuen Präsidenten oder eine Präsidentin",
+          "id": "1"
+        },
+        {
+          "german": "Stichwahl, -en (f.)",
+          "explanation": "eine politische Wahl: die Menschen entscheiden sich in einer zweiten Wahl zwischen zwei Personen, wenn bei der ersten Wahl niemand deutlich gewonnen hat",
+          "id": "2"
+        },
+        {
+          "german": "Senator, -en/ Senatorin, -nen",
+          "explanation": "hier: eine Politiker/eine Politikerin: sie ist Mitglied in einem der beiden nationalem Parlamente in Brasilien",
+          "id": "3"
+        },
+        {
+          "german": "Prozent, -e (n.)",
+          "explanation": "ein Teil von 100 Teilen",
+          "id": "4"
+        },
+        {
+          "german": "Stimme, -n (f.)",
+          "explanation": "die Entscheidung einer einzelnen Person bei einer politischen Wahl für eine Partei oder eine Person",
+          "id": "5"
+        },
+        {
+          "german": "inhaftiert",
+          "explanation": "so, dass eine Person nicht mehr frei ist: sie hat (wahrscheinlich) etwas Verbotenes gemacht, und die Polizei hat die Person in ein Gefängnis gebracht",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Drohnenangriffe und Besuch von Merz in Kyjiw",
+      "text": "Moskau hat seine Drohnenangriffe auf die kritische Infrastruktur in der ukrainischen Hauptstadt Kyjiw verstärkt. Am Sonntagmorgen haben Drohnen die Nordbrücke zerstört. Am gleichen Tag hat der deutsche Bundeskanzler Friedrich Merz überraschend Kyjiw besucht. Er sagt, dass Deutschland die Ukraine weiter unterstützen will.\n\n",
+      "vocab": [
+        {
+          "german": "Drohnenangriff, -e (m.)",
+          "explanation": "eine militärische Aktion aus der Luft mit kleinen Fluggeräten: dabei fliegen die Fluggeräte selbständig über weite Strecken und man kann sie als Waffe benutzen (Verb: jemanden/etwas an|greifen)",
+          "id": "7"
+        },
+        {
+          "german": "kritische Infrastruktur, -en (f., meist Singular)",
+          "explanation": "hier: die wichtigsten Systeme und Dinge: ein Land braucht sie, damit alles funktioniert",
+          "id": "8"
+        },
+        {
+          "german": "etwas verstärken",
+          "explanation": "etwas stärker machen; etwas häufiger machen",
+          "id": "9"
+        },
+        {
+          "german": "etwas zerstören",
+          "explanation": "etwas (meist mit Absicht) kaputt machen",
+          "id": "10"
+        },
+        {
+          "german": "Bundeskanzler, -/Bundeskanzlerin, -nen",
+          "explanation": "hier: der Regierungschef/die Regierungschefin in Deutschland",
+          "id": "11"
+        },
+        {
+          "german": "überraschend",
+          "explanation": "hier: nicht erwartet; so, dass man etwas nicht vorher wusste",
+          "id": "12"
+        },
+        {
+          "german": "jemanden unterstützen",
+          "explanation": "hier: jemandem helfen; jemanden fördern",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Jemen: Militäroffensive gegen Huthi",
+      "text": "Die Regierung des Jemen sagt, dass sie eine große Militäroffensive gegen die Huthi-Rebellen plant. Die Huthi kontrollieren schon lange die Hauptstadt Sanaa und große Teile im Nordwesten des Landes. Jetzt haben sie auch die Meerenge Bab al-Mandab und Gebiete am Roten Meer eingenommen. Die Meerenge ist wichtig für den internationalen Schiffshandel.\n\nGebiete, -e (n.) - hier: ein Teil eines Landes\n\n",
+      "vocab": [
+        {
+          "german": "Militäroffensive, -n (f.)",
+          "explanation": "in einem Krieg: der Angriff mit Militär auf eine Region oder ein Land",
+          "id": "14"
+        },
+        {
+          "german": "Rebell, -en/Rebellin, -nen",
+          "explanation": "eine Person: sie ist gegen die Regierung in ihrem Land und kämpft mit Gewalt gegen sie",
+          "id": "15"
+        },
+        {
+          "german": "etwas kontrollieren",
+          "explanation": "hier: die Macht über etwas haben; über etwas (ein Gebiet) herrschen",
+          "id": "16"
+        },
+        {
+          "german": "Meerenge, -n (f.)",
+          "explanation": "eine schmale Verbindung zwischen zwei Meeren",
+          "id": "17"
+        },
+        {
+          "german": "etwas ein|nehmen",
+          "explanation": "hier: mit militärischer Gewalt die Kontrolle über einen Ort oder ein Gebiet bekommen",
+          "id": "18"
+        },
+        {
+          "german": "Handel (m., nur Singular)",
+          "explanation": "der Kauf und Verkauf von Produkten",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
