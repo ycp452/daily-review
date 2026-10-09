@@ -1,0 +1,119 @@
+{
+  "articleDate": "2026-10-09",
+  "articleLink": "https://learngerman.dw.com/de/09102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79614410",
+  "articles": [
+    {
+      "title": "Deutschland und Großbritannien: engere Zusammenarbeit",
+      "text": "Der deutsche Bundeskanzler Friedrich Merz und der britische Premierminister Andy Burnham haben sich in Berlin getroffen. Beide Länder wollen bei der Abwehr von Cyberangriffen enger zusammenarbeiten. Auch die hybride Kriegsführung Russlands war ein Thema. Außerdem haben Burnham und Merz einen neuen Vertrag unterschrieben. Im Vertrag steht, dass sie auch in der Wissenschaft, Technologie und Wirtschaft wieder besser zusammenarbeiten wollen.\n\n",
+      "vocab": [
+        {
+          "german": "Abwehr (f., nur Singular)",
+          "explanation": "hier: eine Aktion: man möchte sich damit vor einer Gefahr schützen",
+          "id": "1"
+        },
+        {
+          "german": "Cyberangriff, -e (m.)",
+          "explanation": "eine Attacke: man versucht, in Computer oder Netzwerke zu kommen und so z. B. Informationen zu stehlen oder Systeme kaputtzumachen",
+          "id": "2"
+        },
+        {
+          "german": "eng",
+          "explanation": "hier: nah und gut, so, dass man viel zusammen macht",
+          "id": "3"
+        },
+        {
+          "german": "hybride Kriegsführung (f., nur Singular)",
+          "explanation": "die Art und Weise in einem (militärischen) Konflikt: dabei benutzt man verschiedene Methoden, zum Beispiel Technik, falsche Informationen oder Gewalt",
+          "id": "4"
+        },
+        {
+          "german": "Wissenschaft, -en (f.)",
+          "explanation": "ein Bereich: Menschen untersuchen etwas und wollen so mehr Wissen darüber bekommen",
+          "id": "5"
+        },
+        {
+          "german": "Technologie, -n (f.)",
+          "explanation": "hier: technische Geräte und Methoden: damit möchte man etwas einfacher oder besser machen",
+          "id": "6"
+        },
+        {
+          "german": "Wirtschaft (f., nur Singular)",
+          "explanation": "ein Bereich: es geht um die Produktion und den Verkauf von Produkten und Dienstleistungen",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine-Krieg: Gespräche über ein Ende",
+      "text": "Kyjiw hat bestätigt, dass sich Vertreter der Ukraine, Europas und der USA heute treffen. Sie wollen in den USA über „neue Ideen“ für ein Ende des Krieges in der Ukraine sprechen. Russland hat gesagt, dass der Krieg in einer gefährlichen Pattsituation ist. Am Donnerstag hat es einen russischen Drohnenangriff auf einen Bus in der Stadt Kramatorsk in der Ostukraine gegeben. Dabei sind mindestens 30 Menschen gestorben.\n\n",
+      "vocab": [
+        {
+          "german": "Vertreter, -/Vertreterin, -nen",
+          "explanation": "eine Person: sie spricht oder handelt für eine andere Person, Gruppe oder für ein Land",
+          "id": "8"
+        },
+        {
+          "german": "Idee, -n (f.)",
+          "explanation": "ein neuer Gedanke; ein Vorschlag, wie man etwas machen kann",
+          "id": "9"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; Kämpfe, oft zwischen zwei Ländern",
+          "id": "10"
+        },
+        {
+          "german": "Pattsituation, -en (f.)",
+          "explanation": "hier: eine schwierige Situation: in einem Konflikt kann keine Seite gewinnen; man braucht eine andere Lösung",
+          "id": "11"
+        },
+        {
+          "german": "Drohnenangriff, -e (m.)",
+          "explanation": "eine militärische Aktion aus der Luft mit kleinen Fluggeräten: dabei fliegen die Fluggeräte selbständig über weite Strecken und man kann sie als Waffe benutzen",
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "title": "Anschlag auf den Flughafen in Riad",
+      "text": "Am Donnerstag hat es einen Anschlag auf den internationalen Flughafen von Riad gegeben. In der saudi-arabischen Hauptstadt hat man mehrere Explosionen gehört. Die Huthi-Miliz aus dem Jemen hat sich zu dem Anschlag bekannt. Einige Fluggesellschaften haben jetzt ihre Flüge nach Riad ausgesetzt. Mitarbeiterinnen und Mitarbeiter der US-Regierung brauchen nun eine Sondergenehmigung für den Flughafen Riad.\n\n",
+      "vocab": [
+        {
+          "german": "Anschlag, Anschläge (m.)",
+          "explanation": "hier: eine Attacke gegen Dinge oder Menschen: man nutzt Gewalt und will  den Menschen so Angst machen (meist aus politischen, ideologischen oder religiösen Gründen)",
+          "id": "13"
+        },
+        {
+          "german": "Explosion, -en (f.)",
+          "explanation": "hier: eine Situation: etwas geht mit einem sehr lauten Geräusch plötzlich kaputt (z. B. weil eine Waffe etwas trifft)",
+          "id": "14"
+        },
+        {
+          "german": "Miliz, -en (f.)",
+          "explanation": "eine bewaffnete, militärische Gruppe: sie ist nicht Teil der Armee eines Landes",
+          "id": "15"
+        },
+        {
+          "german": "sich zu etwas bekennen",
+          "explanation": "offiziell sagen, dass man etwas (oft etwas Negatives oder Schlimmes) gemacht hat",
+          "id": "16"
+        },
+        {
+          "german": "Fluggesellschaft, -en (f.)",
+          "explanation": "ein Unternehmen: es bringt Menschen oder Waren mit Flugzeugen an verschiedene Orte",
+          "id": "17"
+        },
+        {
+          "german": "etwas aus|setzen",
+          "explanation": "etwas für eine Zeit lang stoppen",
+          "id": "18"
+        },
+        {
+          "german": "Sondergenehmigung, -en (f.)",
+          "explanation": "eine besondere Erlaubnis: man darf damit etwas tun, das eigentlich nicht erlaubt ist",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
