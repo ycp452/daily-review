@@ -1,0 +1,89 @@
+{
+  "articleDate": "2026-10-12",
+  "articleLink": "https://learngerman.dw.com/de/12102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79641423",
+  "articles": [
+    {
+      "title": "Neue Anschläge in Saudi-Arabien",
+      "text": "In Saudi-Arabien hat es einen weiteren Raketenangriff auf den Flughafen in Riad gegeben. Dabei ist mindestens ein Mensch gestorben, mehrere Menschen sind verletzt. Schon am Samstag sind bei einem Angriff auf den Flughafen mindestens 13 Menschen gestorben. Auch am Flughafen in Dammam hat es einen Angriff gegeben: Dort ist mindestens ein Mensch gestorben. Die Huthi-Rebellen im Jemen haben sich zu den Angriffen bekannt.\n\n",
+      "vocab": [
+        {
+          "german": "weiterer, weitere, weiteres",
+          "explanation": "noch ein/eine/eines (+ Nomen)",
+          "id": "1"
+        },
+        {
+          "german": "Raketenangriff, -e (m.)",
+          "explanation": "eine Attacke mit einer Waffe: sie fliegt durch die Luft und explodiert; sie kann viel kaputt machen und Menschen töten",
+          "id": "2"
+        },
+        {
+          "german": "Rebell, -en/Rebellin, -nen",
+          "explanation": "hier: eine Person: sie kämpft gegen die Regierung eines Landes",
+          "id": "3"
+        },
+        {
+          "german": "sich zu etwas bekennen",
+          "explanation": "offiziell sagen, dass man etwas getan hat oder für etwas verantwortlich ist",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "title": "Trump: neue Vereinbarung zwischen Russland und Ukraine",
+      "text": "US-Präsident Donald Trump hat gesagt: Russland und die Ukraine wollen die Energieinfrastruktur des anderen Landes nicht mehr angreifen. Der ukrainische Präsident Wolodymyr Selenskyj will sich an die Vereinbarung halten, wenn Russland das auch tut. Später hat er aber gesagt: Es hat wieder russische Angriffe gegeben.\n\n",
+      "vocab": [
+        {
+          "german": "Energieinfrastruktur (f., nur Singular)",
+          "explanation": "hier: wichtige Systeme und Dinge für Strom, Gas oder Wärme",
+          "id": "5"
+        },
+        {
+          "german": "etwas an|greifen",
+          "explanation": "hier: etwas (z. B. einen Ort) mit Waffen treffen (Nomen: der Angriff)",
+          "id": "6"
+        },
+        {
+          "german": "sich an etwas halten",
+          "explanation": "etwas so machen, wie man es vorher mit anderen besprochen hat",
+          "id": "7"
+        },
+        {
+          "german": "Vereinbarung, -en (f.)",
+          "explanation": "eine Entscheidung oder ein Beschluss: alle sind damit einverstanden",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Papst Leo braucht Operation",
+      "text": "Papst Leo XIV. muss sich an der Lunge operieren lassen. Am Sonntag hat er gesagt, dass Ärzte in seiner Lunge einen kleinen Knoten gefunden haben. Die Operation soll in den nächsten Tagen stattfinden. Danach muss der Papst sich eine Woche erholen.\n\n",
+      "vocab": [
+        {
+          "german": "Papst, Päpste (m.)",
+          "explanation": "das geistliche Oberhaupt der römisch-katholischen Kirche",
+          "id": "9"
+        },
+        {
+          "german": "sich operieren lassen",
+          "explanation": "einen medizinischen Eingriff machen lassen; dabei öffnen Ärzte/Ärztinnen den Körper (Substantiv: die Operation)",
+          "id": "10"
+        },
+        {
+          "german": "Lunge, -n (f.)",
+          "explanation": "ein Organ: damit atmet man",
+          "id": "11"
+        },
+        {
+          "german": "Knoten, - (m.)",
+          "explanation": "hier: eine krankhafte Stelle im Körper; hier: eine krankhafte Stelle im Körper; sie kann gefährlich oder ungefährlich sein",
+          "id": "12"
+        },
+        {
+          "german": "sich erholen",
+          "explanation": "hier: nach einer Krankheit bzw. Operation wieder gesund werden",
+          "id": "13"
+        }
+      ]
+    }
+  ]
+}
