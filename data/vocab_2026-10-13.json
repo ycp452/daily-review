@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-10-13",
+  "articleLink": "https://learngerman.dw.com/de/13102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79650702",
+  "articles": [
+    {
+      "title": "USA: Hausdurchsuchung bei Ilhan Omar",
+      "text": "Bei der demokratischen US-Kongressabgeordneten Ilhan Omar hat es gestern eine Hausdurchsuchung gegeben. Das US-Justizministerium sagt, dass es im Moment ermittelt. Auf Social Media hat Omar geschrieben, dass die Durchsuchung ein Einschüchterungsversuch von US-Präsident Donald Trump und seiner Regierung ist.\n\n",
+      "vocab": [
+        {
+          "german": "demokratisch",
+          "explanation": "hier: so, dass jemand Mitglied einer politischen Partei in den USA ist: die Partei regiert aktuell nicht, es ist die Partei von Joe Biden und Kamala Harris",
+          "id": "1"
+        },
+        {
+          "german": "Kongressabgeordnete, -n (m./f.)",
+          "explanation": "eine wichtige Person in der Politik: sie arbeitet im Parlament und trifft Entscheidungen für ein Land",
+          "id": "2"
+        },
+        {
+          "german": "Hausdurchsuchung, -en (f.)",
+          "explanation": "eine Situation: die Polizei kommt zu einem nach Hause und schaut sich alles genau an, weil sie nach verdächtigen Dingen sucht",
+          "id": "3"
+        },
+        {
+          "german": "Justizministerium, -ministerien (n.)",
+          "explanation": "eine wichtige Institution in einem Staat: sie ist für das Recht und Gesetze verantwortlich",
+          "id": "4"
+        },
+        {
+          "german": "ermitteln",
+          "explanation": "hier: offiziell Informationen sammeln und untersuchen, ob jemand etwas Verbotenes getan hat",
+          "id": "5"
+        },
+        {
+          "german": "Social Media (nur Plural, aus dem Englischen)",
+          "explanation": "Plattformen: dort können Menschen miteinander sprechen und Informationen teilen",
+          "id": "6"
+        },
+        {
+          "german": "Einschüchterungsversuch, -e (m.)",
+          "explanation": "eine Aktion: so will man eine Person bei ihrer Arbeit stören und ihr Angst machen",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Selenskyj für Waffenruhe bei Energieanlagen",
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj hat gesagt, dass sein Land mit einer Waffenruhe für Energieanlagen einverstanden ist. Russland greift aber immer noch ukrainische Anlagen an. Außerdem sind gestern bei einem russischen Angriff auf ein Wohnhaus in Kyjiw mindestens zwei Menschen gestorben. Selenskyj fordert von Russland jetzt konkrete Friedensbemühungen.\n\n",
+      "vocab": [
+        {
+          "german": "Waffenruhe (f., nur Singular)",
+          "explanation": "eine Pause in einem Krieg oder in einem militärischen Konflikt: für eine bestimmte Zeit gibt es keine Kämpfe",
+          "id": "8"
+        },
+        {
+          "german": "Energieanlage, -n (f.)",
+          "explanation": "eine Gruppe von technischen Gebäuden: dort stellt man z. B. Strom her",
+          "id": "9"
+        },
+        {
+          "german": "jemanden/etwas an|greifen",
+          "explanation": "hier: etwas (z. B. einen Ort) mit Waffen treffen (Substantiv: der Angriff)",
+          "id": "10"
+        },
+        {
+          "german": "etwas von jemandem fordern",
+          "explanation": "sagen, dass man etwas von jemandem will",
+          "id": "11"
+        },
+        {
+          "german": "konkret",
+          "explanation": "deutlich; so, dass jemand wirklich etwas tut und nicht nur redet",
+          "id": "12"
+        },
+        {
+          "german": "Friedensbemühung, -en (f.)",
+          "explanation": "Verhandlungen und Gespräche zwischen Ländern: man will, dass es keinen Krieg mehr gibt",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "US-Forscher bekommen Nobelpreis für Wirtschaftswissenschaften",
+      "text": "Die US-Forscher Robert Hall und Michael Woodford haben den Nobelpreis für Wirtschaftswissenschaften bekommen. In ihren Arbeiten haben die beiden Ökonomen Wirtschaftsmodelle entwickelt. Regierungen und Zentralbanken benutzen diese Modelle für die Stabilisierung der Wirtschaft in Krisen.\n\n",
+      "vocab": [
+        {
+          "german": "Forscher, -/Forscherin, -nen",
+          "explanation": "eine Person: sie untersucht ein Thema wissenschaftlich",
+          "id": "14"
+        },
+        {
+          "german": "Nobelpreis für Wirtschaftswissenschaften (m., nur Singular)",
+          "explanation": "ein sehr wichtiger Preis: man bekommt ihn für besondere Leistungen im Bereich Ökonomie/Wirtschaftswissenschaften",
+          "id": "15"
+        },
+        {
+          "german": "Ökonom, -en/Ökonomin, -nen",
+          "explanation": "der Wirtschaftswissenschaftler/die Wirtschaftswissenschaftlerin: die Person untersucht z. B. das Verhältnis von Geld, Märkten, Staaten, Banken und Unternehmen",
+          "id": "16"
+        },
+        {
+          "german": "Wirtschaftsmodell, -e (n.)",
+          "explanation": "eine wissenschaftliche Theorie: damit kann man vereinfacht bestimmte Prozesse in der Wirtschaft erklären",
+          "id": "17"
+        },
+        {
+          "german": "etwas entwickeln",
+          "explanation": "sich etwas ausdenken; etwas Neues schaffen; hier: eine wissenschaftliche Arbeit machen",
+          "id": "18"
+        },
+        {
+          "german": "Stabilisierung, -en (f.)",
+          "explanation": "hier: die Erholung z. B. der Wirtschaft und der Märkte nach einer schwierigen Zeit",
+          "id": "19"
+        },
+        {
+          "german": "Krise, -n (f., hier nur Plural)",
+          "explanation": "hier: eine schwierige wirtschaftliche Situation in einem Land: sie entsteht oft plötzlich und die Wirtschaft wird dadurch sehr schwach",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
