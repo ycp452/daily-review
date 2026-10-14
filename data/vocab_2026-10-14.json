@@ -1,0 +1,134 @@
+{
+  "articleDate": "2026-10-14",
+  "articleLink": "https://learngerman.dw.com/de/14102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79659374",
+  "articles": [
+    {
+      "title": "Angriff auf Handelsschiffe vor der bulgarischen Küste",
+      "text": "Vor der Küste Bulgariens hat es Drohnenangriffe auf zwei Handelsschiffe gegeben, eins ist gesunken. Elf Besatzungsmitglieder werden vermisst. Die anderen konnte man retten. Bulgariens Regierung hat die russische Botschafterin zu Gesprächen einbestellt, weil es vielleicht russische Drohnen waren.\n\n",
+      "vocab": [
+        {
+          "german": "Küste, -n (f.)",
+          "explanation": "das Land direkt am Meer",
+          "id": "1"
+        },
+        {
+          "german": "Drohnenangriff, -e (m.)",
+          "explanation": "eine Attacke mit einem kleinen Fluggerät: darin sitzt kein Mensch",
+          "id": "2"
+        },
+        {
+          "german": "Handelsschiff, -e (n.)",
+          "explanation": "ein Schiff: es transportiert Waren und Produkte",
+          "id": "3"
+        },
+        {
+          "german": "sinken",
+          "explanation": "hier: im Wasser untergehen",
+          "id": "4"
+        },
+        {
+          "german": "Besatzungsmitglied, -er (n.)",
+          "explanation": "eine Person: sie arbeitet auf einem Schiff oder in einem Flugzeug",
+          "id": "5"
+        },
+        {
+          "german": "vermisst werden",
+          "explanation": "so sein, dass eine Person weg ist: niemand weiß, wo sie ist",
+          "id": "6"
+        },
+        {
+          "german": "jemanden retten",
+          "explanation": "eine Person aus einer Gefahrensituation herausholen und zu einem sicheren Ort bringen",
+          "id": "7"
+        },
+        {
+          "german": "den Botschafter/die Botschafterin (eines Landes) ein|bestellen",
+          "explanation": "als Regierung ein Gespräch mit einem Vertreter//einer Vertreterin eines anderen Landes haben wollen (meist nach einem Problem zwischen den Ländern)",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Neue Schülerproteste in Frankreich",
+      "text": "Die Schülerproteste in Frankreich gehen weiter: Im ganzen Land demonstrieren junge Menschen gegen Lehrermangel und marode Schulen. In Paris hat die schwedische Aktivistin Greta Thunberg an den Demonstrationen teilgenommen. Seit dem Beginn der Proteste hat die Polizei mehrere tausend Menschen festgenommen. Viele von ihnen sind minderjährig. Die Demonstrantinnen und Demonstranten sprechen von Polizeigewalt.\n\n",
+      "vocab": [
+        {
+          "german": "Schülerprotest, -e (m.)",
+          "explanation": "eine Aktion: Schülerinnen und Schüler gehen auf die Straße, weil sie gegen jemanden/etwas sind",
+          "id": "9"
+        },
+        {
+          "german": "gegen etwas demonstrieren",
+          "explanation": "auf die Straße gehen, weil man gegen etwas ist (Nomen: die Demonstration; Person: der Demonstrant/die Demonstrantin)",
+          "id": "10"
+        },
+        {
+          "german": "Lehrermangel (m., nur Singular)",
+          "explanation": "eine Situation: in den Schulen eines Landes gibt es zu wenige Lehrerinnen und Lehrer",
+          "id": "11"
+        },
+        {
+          "german": "marode",
+          "explanation": "so, dass etwas alt und kaputt ist",
+          "id": "12"
+        },
+        {
+          "german": "Aktivist, -en/Aktivistin, -nen",
+          "explanation": "eine Person: sie arbeitet aktiv für ein bestimmtes Ziel",
+          "id": "13"
+        },
+        {
+          "german": "jemanden fest|nehmen",
+          "explanation": "so sein, dass die Polizei jemanden mitnimmt und nicht gehen lässt",
+          "id": "14"
+        },
+        {
+          "german": "minderjährig",
+          "explanation": "so, dass eine Person noch nicht erwachsen ist",
+          "id": "15"
+        },
+        {
+          "german": "Polizeigewalt (f., nur Singular)",
+          "explanation": "eine Situation: die Polizei wendet Gewalt gegen Menschen an; diese denken, dass das falsch ist",
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "title": "Papst Leo XIV. hat Lungenkrebs",
+      "text": "Papst Leo XIV. hat Lungenkrebs. Bei einer Operation haben Ärzte ihm einen Teil der Lunge entfernt. Der Vatikan sagt: Der Eingriff war erfolgreich. Der Papst erholt sich jetzt von der Operation.\n\n",
+      "vocab": [
+        {
+          "german": "Papst, Päpste (m.)",
+          "explanation": "das geistliche Oberhaupt der römisch-katholischen Kirche",
+          "id": "17"
+        },
+        {
+          "german": "Lungenkrebs (m., nur Singular)",
+          "explanation": "eine gefährliche Krankheit an der Lunge (Organ, mit dem man atmet): man kann daran sterben",
+          "id": "18"
+        },
+        {
+          "german": "Operation, -en (f.)",
+          "explanation": "die medizinische Behandlung: dabei öffnen Ärztinnen/Ärzte den Körper eines Menschen (hier auch: der Eingriff)",
+          "id": "19"
+        },
+        {
+          "german": "etwas entfernen",
+          "explanation": "hier: etwas herausnehmen",
+          "id": "20"
+        },
+        {
+          "german": "erfolgreich sein",
+          "explanation": "gut gehen",
+          "id": "21"
+        },
+        {
+          "german": "sich von etwas erholen",
+          "explanation": "hier: nach einer Krankheit oder Operation wieder gesund werden",
+          "id": "22"
+        }
+      ]
+    }
+  ]
+}
