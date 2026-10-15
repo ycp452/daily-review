@@ -1,0 +1,119 @@
+{
+  "articleDate": "2026-10-15",
+  "articleLink": "https://learngerman.dw.com/de/15102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79669409",
+  "articles": [
+    {
+      "title": "Gerichtsprozess wegen Nord-Stream-Pipelines",
+      "text": "In Hamburg hat ein Gerichtsprozess gegen einen früheren ukrainischen Offizier begonnen. Man wirft ihm vor, dass er vor vier Jahren zusammen mit anderen die Nord-Stream-Pipelines in der Ostsee gesprengt hat. Die Staatsanwaltschaft spricht von einem Kriegsverbrechen. Der Mann will in dem Prozess nichts dazu sagen. Er hat aber vorher erklärt, dass er unschuldig ist.\n\n",
+      "vocab": [
+        {
+          "german": "Gerichtsprozess, -e (m.)",
+          "explanation": "eine Veranstaltung in einem Gericht, einer staatlichen Institution: dort entscheidet man, ob jemand etwas Verbotenes getan hat und eine Strafe bekommt",
+          "id": "1"
+        },
+        {
+          "german": "Offizier, -e/Offizierin, -nen",
+          "explanation": "ein wichtiger Soldat/eine wichtige Soldatin; der/die Militärangehörige in hoher Position",
+          "id": "2"
+        },
+        {
+          "german": "jemandem etwas vor|werfen",
+          "explanation": "sagen, dass jemand etwas Falsches oder Verbotenes gemacht hat",
+          "id": "3"
+        },
+        {
+          "german": "Nord-Stream-Pipelines (f., hier nur Plural, aus dem Englischen)",
+          "explanation": "mehrere Erdgasleitungen auf dem Boden der Ostsee: durch sie ist Gas von Russland nach Deutschland geflossen",
+          "id": "4"
+        },
+        {
+          "german": "etwas sprengen",
+          "explanation": "etwas mit Feuerkraft (z. B. Dynamit) kaputtmachen, sodass es explodiert",
+          "id": "5"
+        },
+        {
+          "german": "Staatsanwaltschaft, -en (f.)",
+          "explanation": "eine staatliche Stelle: sie untersucht, ob jemand etwas Verbotenes getan hat und geht vielleicht vor Gericht",
+          "id": "6"
+        },
+        {
+          "german": "Kriegsverbrechen, - (n.)",
+          "explanation": "die schlimme Gewalt oder etwas Ähnliches in einem Konflikt: sie ist auch in einem Krieg verboten",
+          "id": "7"
+        },
+        {
+          "german": "unschuldig",
+          "explanation": "nicht schuldig; so, dass jemand nichts Schlimmes getan hat",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: SpaceX schränkt Internet ein",
+      "text": "Das ukrainische Militär kann das Satelliten-Internet der Firma SpaceX von Elon Musk nicht mehr normal benutzen. SpaceX hat die Verbindung plötzlich eingeschränkt, sagt die Ukraine. Ukrainische Drohnen können jetzt ihre Internetverbindung verlieren, wenn sie schneller als 160 Kilometer pro Stunde fliegen. So ist es für die Ukraine schwieriger, russische Ziele zu treffen und sich gegen Russland zu verteidigen.\n\n",
+      "vocab": [
+        {
+          "german": "Militär (n., nur Singular)",
+          "explanation": "die Armee; die Soldatinnen und Soldaten eines Landes",
+          "id": "9"
+        },
+        {
+          "german": "Satelliten-Internet (n., nur Singular)",
+          "explanation": "die sehr gute Internetverbindung: sie funktioniert mit Satelliten, Objekten im Weltraum: sie umkreisen die Erde",
+          "id": "10"
+        },
+        {
+          "german": "etwas ein|schränken",
+          "explanation": "hier: die Nutzung von etwas schwerer machen: man verändert etwas und andere Menschen können es nicht mehr gut benutzen",
+          "id": "11"
+        },
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein kleines Flugobjekt: es kann selbstständig fliegen; man benutzt es auch im Krieg als Waffe",
+          "id": "12"
+        },
+        {
+          "german": "ein Ziel treffen",
+          "explanation": "hier: einen wichtigen Ort mit dem Militär angreifen und mit Waffen zerstören",
+          "id": "13"
+        },
+        {
+          "german": "sich verteidigen",
+          "explanation": "hier: militärische Gewalt stoppen; sich vor Angriffen in einem Krieg schützen",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "Istanbul überflutet",
+      "text": "Nach heftigem Regen sind in Istanbul mindestens zwei Menschen gestorben, die türkische Metropole ist überflutet. Das Wasser hat Autos mitgerissen, und in ganz Istanbul ist der Verkehr lahmgelegt. Die Schulen in der Stadt bleiben heute geschlossen. In den nächsten Tagen regnet es wahrscheinlich weiter.\n\n",
+      "vocab": [
+        {
+          "german": "heftig",
+          "explanation": "sehr stark; sehr schlimm",
+          "id": "15"
+        },
+        {
+          "german": "Metropole, -n (f.)",
+          "explanation": "die große Stadt mit vielen Millionen Einwohnerinnen und Einwohnern",
+          "id": "16"
+        },
+        {
+          "german": "überflutet",
+          "explanation": "mit viel Wasser bedeckt",
+          "id": "17"
+        },
+        {
+          "german": "etwas mit|reißen",
+          "explanation": "hier: etwas mit großer Kraft und Gewalt mit sich nehmen",
+          "id": "18"
+        },
+        {
+          "german": "der Verkehr ist lahmgelegt",
+          "explanation": "die Autos, Busse und Bahnen (in einer Stadt) fahren nicht mehr; der Verkehr an einem Ort funktioniert nicht mehr",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
