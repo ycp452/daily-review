@@ -1,0 +1,139 @@
+{
+  "articleDate": "2026-10-19",
+  "articleLink": "https://learngerman.dw.com/de/19102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79700964",
+  "articles": [
+    {
+      "title": "Macron kündigt nach Protesten Strafen an",
+      "text": "Nach den Protesten in Frankreich kündigt Präsident Emmanuel Macron jetzt Strafen an. Am Samstag hat es im ganzen Land Zusammenstöße mit der Polizei, Plünderungen und Brandstiftungen gegeben. Ein Feuer hat das Rathaus der Stadt Limoges zerstört. Die Polizei hat mehr als 2.000 Menschen festgenommen. Sie sagt, dass es mehr als 600 verletzte Polizistinnen und Polizisten gibt.\n\n",
+      "vocab": [
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "eine Demonstration: man geht auf die Straße und sagt seine Meinung",
+          "id": "1"
+        },
+        {
+          "german": "etwas an|kündigen",
+          "explanation": "sagen, dass etwas passieren wird",
+          "id": "2"
+        },
+        {
+          "german": "Strafe, -n (f.)",
+          "explanation": "hier: man muss Geld bezahlen oder kommt ins Gefängnis, weil man etwas Verbotenes getan hat",
+          "id": "3"
+        },
+        {
+          "german": "Zusammenstoß, Zusammenstöße (m.)",
+          "explanation": "hier: ein Konflikt; ein Kampf; ein Streit",
+          "id": "4"
+        },
+        {
+          "german": "Plünderung, -en (f.)",
+          "explanation": "hier: Menschen gehen in Geschäfte und nehmen sich einfach Sachen, ohne zu bezahlen",
+          "id": "5"
+        },
+        {
+          "german": "Brandstiftung, -en (f.)",
+          "explanation": "eine verbotene Aktion: jemand macht ein Feuer, um etwas zu zerstören",
+          "id": "6"
+        },
+        {
+          "german": "etwas zerstören",
+          "explanation": "etwas kaputtmachen",
+          "id": "7"
+        },
+        {
+          "german": "jemanden fest|nehmen",
+          "explanation": "jemanden verhaften; jemanden gegen seinen Willen festhalten",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Vier Tote bei Feuer auf kanadischem Militärgelände",
+      "text": "Bei einem Feuer auf einem Militärübungsgelände in der Stadt Wainright in Kanada sind vier Soldaten gestorben, mehrere Menschen wurden verletzt. Die Ursache des Feuers ist noch nicht bekannt. Das kanadische Militär sagt, dass es keine Anzeichen für Terrorismus gibt.\n\n",
+      "vocab": [
+        {
+          "german": "Militärübungsgelände, - (n.)",
+          "explanation": "ein Stück Land: dort trainieren Soldatinnen und Soldaten",
+          "id": "9"
+        },
+        {
+          "german": "Soldat, -en/Soldatin, -nen",
+          "explanation": "eine Person: sie gehört zum Militär eines Landes und soll das Land schützen",
+          "id": "10"
+        },
+        {
+          "german": "verletzt werden",
+          "explanation": "eine Verletzung bekommen",
+          "id": "11"
+        },
+        {
+          "german": "Ursache, -n (f.)",
+          "explanation": "der Grund, warum etwas passiert",
+          "id": "12"
+        },
+        {
+          "german": "Militär (n., nur Singular)",
+          "explanation": "eine Institution: die Soldatinnen und Soldaten, die das Land schützen sollen",
+          "id": "13"
+        },
+        {
+          "german": "Anzeichen, - (n.)",
+          "explanation": "ein Hinweis; ein Grund, warum man denkt, dass etwas so sein könnte",
+          "id": "14"
+        },
+        {
+          "german": "Terrorismus (m., nur Singular)",
+          "explanation": "das Anwenden von Gewalt, um aus politischen oder religiösen Gründen für Angst zu sorgen",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Proteste in Albanien",
+      "text": "In Albanien hat es bei Protesten gegen die Regierung in der Hauptstadt Tirana und in anderen Städten Zusammenstöße mit der Polizei gegeben. Protestierende haben Regierungsgebäude und Polizeistationen angegriffen. Es hat 28 Verletzte gegeben, davon 19 Polizisten. Die Proteste dauern schon sechs Tage.\n\nPremierminister Edi Rama sagt aber, dass er nicht zurücktreten will.\n\n",
+      "vocab": [
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "eine Demonstration: man geht auf die Straße und sagt seine Meinung (Person: der/die Protestierende)",
+          "id": "16"
+        },
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "eine Gruppe von Politikerinnen und Politikern: sie leiten ein Land",
+          "id": "17"
+        },
+        {
+          "german": "Polizeistation, en (f.)",
+          "explanation": "ein Ort/Haus: dort arbeitet die Polizei",
+          "id": "18"
+        },
+        {
+          "german": "Zusammenstoß, Zusammenstöße (m.)",
+          "explanation": "hier: ein Konflikt; ein Kampf; ein Streit",
+          "id": "19"
+        },
+        {
+          "german": "Gebäude, - (n.)",
+          "explanation": "das (große) Haus",
+          "id": "20"
+        },
+        {
+          "german": "jemanden an|greifen",
+          "explanation": "plötzlich Gewalt gegen jemanden anwenden",
+          "id": "21"
+        },
+        {
+          "german": "Premierminister, -/Premierministerin, -nen",
+          "explanation": "in einigen Ländern die höchste Politikerin oder der höchste Politiker",
+          "id": "22"
+        },
+        {
+          "german": "zurück|treten",
+          "explanation": "die Arbeit in einer bestimmten Position beenden; hier: nicht mehr Premierminister sein wollen",
+          "id": "23"
+        }
+      ]
+    }
+  ]
+}
