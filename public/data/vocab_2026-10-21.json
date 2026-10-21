@@ -1,0 +1,134 @@
+{
+  "articleDate": "2026-10-21",
+  "articleLink": "https://learngerman.dw.com/de/21102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79722874",
+  "articles": [
+    {
+      "title": "Trump: Selenskyj soll Einigung erzielen",
+      "text": "US-Präsident Donald Trump sagt, dass der ukrainische Präsident Wolodymyr Selenskyj eine Einigung erzielen soll, damit der Krieg endet. Russland hat den Krieg gegen die Ukraine vor mehr als vier Jahren begonnen. Selenskyj hat bei einem Besuch in Norwegen gesagt, dass der Austausch von geheimen Informationen zwischen den USA und der Ukraine wieder funktioniert. Vor kurzem hat die Ukraine gesagt, dass es Einschränkungen gegeben hat. Das haben die USA aber bestritten.\n\n",
+      "vocab": [
+        {
+          "german": "eine Einigung erzielen",
+          "explanation": "eine gemeinsame Lösung finden",
+          "id": "1"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "id": "2"
+        },
+        {
+          "german": "geheim",
+          "explanation": "nicht bekannt; so, dass etwas nur wenige Menschen wissen sollen",
+          "id": "3"
+        },
+        {
+          "german": "vor kurzem",
+          "explanation": "vor kurzer Zeit",
+          "id": "4"
+        },
+        {
+          "german": "Einschränkung, -en (f.)",
+          "explanation": "etwas, das dazu führt, dass man etwas nicht oder nur teilweise machen kann",
+          "id": "5"
+        },
+        {
+          "german": "etwas bestreiten",
+          "explanation": "hier: sagen, dass etwas nicht stimmt",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Viele Tote bei Angriffen im Sudan",
+      "text": "Der sudanesischen Armee wird vorgeworfen, dass sie in der Nähe der Grenze zum Südsudan Menschen mit Drohnen angegriffen und getötet hat. Berichten zufolge sind am Montag 153 Menschen in der umstrittenen Grenzregion Abyei und am Sonntag mindestens 80 Menschen in der Region West-Kordofan bei Angriffen gestorben. Der Bürgerkrieg zwischen der sudanesischen Armee und den „Rapid Support Forces“ dauert schon dreieinhalb Jahre.\n\n",
+      "vocab": [
+        {
+          "german": "Armee, -n (f.)",
+          "explanation": "das Militär: die Soldatinnen und Soldaten, die ein Land schützen sollen",
+          "id": "7"
+        },
+        {
+          "german": "jemandem vorgeworfen werden",
+          "explanation": "man sagt, dass jemand etwas Falsches oder Verbotenes gemacht hat",
+          "id": "8"
+        },
+        {
+          "german": "Grenze, -n (f.)",
+          "explanation": "die gedachte Linie zwischen zwei Ländern",
+          "id": "9"
+        },
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein Fluggerät: es hat keinen Piloten und man kann damit zum Beispiel Waffen transportieren und steuern",
+          "id": "10"
+        },
+        {
+          "german": "jemanden an|greifen",
+          "explanation": "plötzlich Gewalt gegen jemanden anwenden",
+          "id": "11"
+        },
+        {
+          "german": "Berichten zufolge",
+          "explanation": "so, wie es in Berichten steht",
+          "id": "12"
+        },
+        {
+          "german": "umstritten",
+          "explanation": "so, dass es Streit um etwas gibt",
+          "id": "13"
+        },
+        {
+          "german": "Region, -en (f.)",
+          "explanation": "eine Gegend; ein Teil von einem Land",
+          "id": "14"
+        },
+        {
+          "german": "Bürgerkrieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen zwischen zwei oder mehr Gruppen in einem Land",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Ebola-Fall in Nigeria",
+      "text": "In Nigeria gibt es aktuell einen Fall von Ebola. Die Patientin ist aus Uganda nach Nigeria gereist und befindet sich jetzt in Isolation. Die Kontaktverfolgung ist im Gange. Es ist der erste Fall der Krankheit in Nigeria seit 2014. Im Mai hat ein großer Ebola-Ausbruch in der Demokratischen Republik Kongo begonnen. Dort sind seitdem mindestens 4.600 Menschen an Ebola gestorben.\n\n",
+      "vocab": [
+        {
+          "german": "Fall, Fälle (m.)",
+          "explanation": "hier: das Vorkommen: es gibt eine Person mit einer bestimmten Krankheit",
+          "id": "16"
+        },
+        {
+          "german": "Ebola (n., nur Singular)",
+          "explanation": "eine gefährliche Krankheit: man kann daran sterben",
+          "id": "17"
+        },
+        {
+          "german": "Patient, -en/Patientin, -nen",
+          "explanation": "eine kranke Person: ein Arzt oder eine Ärztin untersucht und behandelt sie",
+          "id": "18"
+        },
+        {
+          "german": "sich in Isolation befinden",
+          "explanation": "hier: ohne Kontakt zu anderen Menschen in einem Krankenhaus sein",
+          "id": "19"
+        },
+        {
+          "german": "Kontaktverfolgung, -en (f.)",
+          "explanation": "eine Recherchearbeit bei einer Krankheit: man prüft, welche Kontakte eine kranke Person in der letzten Zeit hatte",
+          "id": "20"
+        },
+        {
+          "german": "im Gange sein",
+          "explanation": "jetzt gerade passieren",
+          "id": "21"
+        },
+        {
+          "german": "Ausbruch, -brüche (m.)",
+          "explanation": "hier: der Zeitpunkt, an dem eine bestimmte Krankheit plötzlich beginnt und viele Menschen krank werden",
+          "id": "22"
+        }
+      ]
+    }
+  ]
+}
