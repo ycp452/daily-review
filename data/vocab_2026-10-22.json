@@ -1,0 +1,129 @@
+{
+  "articleDate": "2026-10-22",
+  "articleLink": "https://learngerman.dw.com/de/22102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79732580",
+  "articles": [
+    {
+      "title": "Ukraine: mögliche Gespräche über Ende des Krieges",
+      "text": "Der russische Präsident Wladimir Putin will mit der Ukraine und den USA über ein Ende des Krieges gegen die Ukraine sprechen. Das hat er nach einem Treffen mit dem US-Sonderbeauftragten Steve Witkoff in St. Petersburg gesagt. Vor dem Treffen hat Russland den US-Amerikaner Steven Hubbard freigelassen. Er war in Russland inhaftiert, weil er angeblich auf Seiten der Ukraine am Krieg teilgenommen hat. Der ukrainische Präsident Wolodymyr Selenskyj hat sich auch für die Gespräche ausgesprochen.\n\n",
+      "vocab": [
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen",
+          "id": "1"
+        },
+        {
+          "german": "Sonderbeauftragte, -n (m./f.)",
+          "explanation": "ein Politiker oder eine Politikerin mit einer besonderen Aufgabe",
+          "id": "2"
+        },
+        {
+          "german": "jemanden frei|lassen",
+          "explanation": "jemanden aus dem Gefängnis gehen lassen; jemandem seine Freiheit zurückgeben",
+          "id": "3"
+        },
+        {
+          "german": "angeblich",
+          "explanation": "so, wie es jemand sagt",
+          "id": "4"
+        },
+        {
+          "german": "auf Seiten",
+          "explanation": "an der Seite von jemandem",
+          "id": "5"
+        },
+        {
+          "german": "sich für etwas aus|sprechen",
+          "explanation": "sagen, dass man etwas gut findet",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Papst gibt erste Generalaudienz nach Operation",
+      "text": "Die Ärzte von Papst Leo sagen, dass sich sein Krebs nicht ausgebreitet hat. Der Papst braucht nach seiner Operation in der vergangenen Woche keine weitere Behandlung. Er hat auf dem Petersplatz schon seine erste Generalaudienz nach der Operation abgehalten.\n\n",
+      "vocab": [
+        {
+          "german": "Papst, Päpste (m.)",
+          "explanation": "die höchste Person in der katholischen Kirche",
+          "id": "7"
+        },
+        {
+          "german": "Krebs (m., nur Singular)",
+          "explanation": "eine gefährliche Krankheit: man kann daran sterben",
+          "id": "8"
+        },
+        {
+          "german": "sich aus|breiten",
+          "explanation": "mehr werden und mehr Platz einnehmen",
+          "id": "9"
+        },
+        {
+          "german": "Operation, -en (f.)",
+          "explanation": "hier: eine ärztliche Behandlung: ein Arzt oder eine Ärztin öffnet den Körper, um einen kranken Körperteil zu behandeln",
+          "id": "10"
+        },
+        {
+          "german": "vergangene Woche",
+          "explanation": "letzte Woche",
+          "id": "11"
+        },
+        {
+          "german": "Behandlung, -en (f.)",
+          "explanation": "eine Therapie: ein Arzt oder eine Ärztin tut etwas gegen eine Krankheit",
+          "id": "12"
+        },
+        {
+          "german": "eine Generalaudienz ab|halten",
+          "explanation": "als Papst mit den Menschen sprechen: dafür gibt es seit 1925 einen festen Termin am Mittwoch um 9:30 Uhr",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Ebola-Fall in Nigeria",
+      "text": "In Nigeria hat es nach mehr als zehn Jahren wieder einen Ebola-Fall gegeben. Die Behörden sagen, dass es sich um den Bundibugyo-Stamm handelt – wie bei dem großen Ebola-Ausbruch in der Demokratischen Republik Kongo im Mai dieses Jahres. Etwa 50 Prozent der Infizierten sterben, und es gibt noch keinen Impfstoff.\n\n",
+      "vocab": [
+        {
+          "german": "Ebola-Fall, Ebola-Fälle (m.)",
+          "explanation": "eine Infektion mit der Krankheit Ebola",
+          "id": "14"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "ein Amt; eine staatliche Institution",
+          "id": "15"
+        },
+        {
+          "german": "sich um etwas handeln",
+          "explanation": "etwas sein",
+          "id": "16"
+        },
+        {
+          "german": "Stamm, Stämme (m.)",
+          "explanation": "hier: ein bestimmter Typ einer Krankheit",
+          "id": "17"
+        },
+        {
+          "german": "Ausbruch, Ausbrüche (m.)",
+          "explanation": "hier: der plötzliche Beginn einer Krankheit",
+          "id": "18"
+        },
+        {
+          "german": "Infizierte, -n (m./f.)",
+          "explanation": "eine Person: sie hat eine Krankheit",
+          "id": "19"
+        },
+        {
+          "german": "Behandlung, -en (f.)",
+          "explanation": "eine Therapie: ein Arzt oder eine Ärztin tut etwas gegen eine Krankheit",
+          "id": "20"
+        },
+        {
+          "german": "Impfstoff, -e (m.)",
+          "explanation": "ein Medikament: man gibt es einer gesunden Person, damit sie nicht krank wird",
+          "id": "21"
+        }
+      ]
+    }
+  ]
+}
