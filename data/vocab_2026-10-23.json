@@ -1,0 +1,139 @@
+{
+  "articleDate": "2026-10-23",
+  "articleLink": "https://learngerman.dw.com/de/23102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79742652",
+  "articles": [
+    {
+      "title": "Mindestens zwei Tote nach Bombardierung von Kyjiw",
+      "text": "Russland hat in der Nacht von Mittwoch auf Donnerstag die ukrainische Hauptstadt bombardiert. Der ukrainische Präsident Wolodymyr Selenskyj sagt, dass mindestens zwei Menschen gestorben sind. Russland sagt, dass es Hunderte ukrainische Drohnen abgeschossen hat. Zuvor hat der Kreml nach einem Treffen mit dem US-Sonderbeauftragten Steve Witkoff noch gesagt, dass man mit der Ukraine und den USA über ein mögliches Ende des Krieges sprechen will.\n\n",
+      "vocab": [
+        {
+          "german": "etwas bombardieren",
+          "explanation": "Bomben oder Raketen auf einen Ort werfen; einen Ort aus der Luft attackieren",
+          "id": "1"
+        },
+        {
+          "german": "Drohne, -n (f.)",
+          "explanation": "ein Fluggerät: es hat keinen Piloten und man kann damit zum Beispiel Waffen transportieren und steuern",
+          "id": "2"
+        },
+        {
+          "german": "etwas ab|schießen",
+          "explanation": "hier: etwas, das fliegt, mit einer Waffe treffen und so vom Himmel holen",
+          "id": "3"
+        },
+        {
+          "german": "Kreml (m., nur Singular)",
+          "explanation": "hier: die russische Regierung in Moskau",
+          "id": "4"
+        },
+        {
+          "german": "Sonderbeauftragte, -n (m./f.)",
+          "explanation": "eine wichtige Person in der Politik; sie kümmert sich um ein bestimmtes, wichtiges Thema",
+          "id": "5"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein gewaltvoller Konflikt mit Waffen; der militärische Kampf zwischen Staaten oder Gruppen",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Websites weltweit gehen nach Sicherheitslücken offline",
+      "text": "Weltweit haben Regierungen und Firmen ihre Websites offline genommen, um ihre Systeme zu schützen. Mit Hilfe von künstlicher Intelligenz hat man zuvor Sicherheitslücken in der Programmiersprache PHP gefunden. Fast 70 Prozent aller Websites weltweit benutzen PHP. Cyber-Behörden haben gesagt: Die Betreiber sollen ihre Seiten sofort aktualisieren oder offline nehmen.\n\n",
+      "vocab": [
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "hohe Politikerinnen und Politiker: sie führen ein Land",
+          "id": "7"
+        },
+        {
+          "german": "etwas offline nehmen",
+          "explanation": "etwas vom Internet trennen, sodass es nicht mehr online ist",
+          "id": "8"
+        },
+        {
+          "german": "etwas schützen",
+          "explanation": "dafür sorgen, dass etwas sicher ist und nicht in Gefahr",
+          "id": "9"
+        },
+        {
+          "german": "künstliche Intelligenz, -en (f.)",
+          "explanation": "Computerprogramme: sie können selbstständig Dinge lernen, erkennen und entscheiden (Abkürzung: KI)",
+          "id": "10"
+        },
+        {
+          "german": "Sicherheitslücke, -n (f.)",
+          "explanation": "hier: eine schwache Stelle in einem digitalen System: man kann sie für eine Cyber-Attacke benutzen",
+          "id": "11"
+        },
+        {
+          "german": "Programmiersprache, -n (f.)",
+          "explanation": "ein Code: man schreibt damit Computerprogramme",
+          "id": "12"
+        },
+        {
+          "german": "Cyber-Behörde, -n (f.)",
+          "explanation": "eine staatliche Institution: sie kümmert sich um Fragen zum Internet",
+          "id": "13"
+        },
+        {
+          "german": "Betreiber, - (m.)",
+          "explanation": "hier: eine Person oder Firma: sie hat und organisiert eine Website",
+          "id": "14"
+        },
+        {
+          "german": "etwas aktualisieren",
+          "explanation": "etwas aktuell machen; etwas auf den neuesten Stand bringen",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Türkei unterschreibt Abkommen zur Verteidigungszusammenarbeit",
+      "text": "Die Türkei sagt, dass sie ein Abkommen mit Katar, Pakistan und Indonesien unterschrieben hat. Es geht dabei um eine Zusammenarbeit in den Bereichen Rüstungsproduktion, Ausbildung und Forschung und Entwicklung. Die Türkei ist das Land mit der zweitgrößten Armee in der NATO. Erst im August hat sie ein Verteidigungsabkommen mit Pakistan und Saudi-Arabien unterschrieben.\n\n",
+      "vocab": [
+        {
+          "german": "Abkommen, - (n)",
+          "explanation": "hier: ein Vertrag zwischen zwei oder mehreren Ländern",
+          "id": "16"
+        },
+        {
+          "german": "um etwas gehen",
+          "explanation": "das Thema von etwas sein",
+          "id": "17"
+        },
+        {
+          "german": "Bereich, -e (m.)",
+          "explanation": "hier: ein bestimmtes Thema; ein politisches Aufgabenfeld",
+          "id": "18"
+        },
+        {
+          "german": "Rüstungsproduktion (f., nur Singular)",
+          "explanation": "die Herstellung von Waffen und anderen Dingen für das Militär",
+          "id": "19"
+        },
+        {
+          "german": "Forschung und Entwicklung (f., nur Singular)",
+          "explanation": "ein Bereich der wissenschaftlichen Arbeit: man erfindet neue Techniken und arbeitet an neuen Ideen und Produkten",
+          "id": "20"
+        },
+        {
+          "german": "Armee, -n (f.)",
+          "explanation": "das Militär: die Soldatinnen und Soldaten, die ein Land schützen sollen",
+          "id": "21"
+        },
+        {
+          "german": "NATO (f., nur Singular)",
+          "explanation": "eine Gruppe von Staaten in Europa und Nordamerika: sie arbeiten militärisch zusammen und helfen sich bei Angriffen (Abkürzung für: North Atlantic Treaty Organization)",
+          "id": "22"
+        },
+        {
+          "german": "Verteidigung (f., nur Singular)",
+          "explanation": "hier: der Schutz eines Landes durch das Militär",
+          "id": "23"
+        }
+      ]
+    }
+  ]
+}
