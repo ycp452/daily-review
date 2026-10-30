@@ -1,0 +1,114 @@
+{
+  "articleDate": "2026-10-30",
+  "articleLink": "https://learngerman.dw.com/de/30102026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79808326",
+  "articles": [
+    {
+      "title": "Wahl in Israel: keine Partei bekommt Mehrheit der Sitze",
+      "text": "Nach der Wahl in Israel bekommt das Bündnis von Ministerpräsident Benjamin Netanjahu 53 Sitze im Parlament. Die Oppositionsparteien bekommen 48 und die arabischen Parteien 19 Sitze. Für eine Mehrheit sind aber 61 Sitze notwendig. Nun müssen die Parteien über Koalitionen sprechen. Auch eine Neuwahl ist möglich.\n\n",
+      "vocab": [
+        {
+          "german": "Wahl, -en (f.)",
+          "explanation": "eine politische Veranstaltung: die Menschen wählen Parteien oder Personen",
+          "id": "1"
+        },
+        {
+          "german": "Bündnis, -se (n.)",
+          "explanation": "hier mehrere Parteien: sie haben dasselbe Ziel; sie arbeiten zusammen",
+          "id": "2"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsidentin, -nen",
+          "explanation": "der Regierungschef/die Regierungschefin in einem Land",
+          "id": "3"
+        },
+        {
+          "german": "Sitz, -e (m.)",
+          "explanation": "hier: ein Platz für einen Politiker oder eine Politikerin im Parlament",
+          "id": "4"
+        },
+        {
+          "german": "Parlament, -e (n.)",
+          "explanation": "eine Gruppe von Menschen: sie entscheidet über Gesetze in einem Land",
+          "id": "5"
+        },
+        {
+          "german": "Oppositionspartei, -en (f.)",
+          "explanation": "eine Partei in einem Parlament: sie gehört nicht zur Regierung",
+          "id": "6"
+        },
+        {
+          "german": "Mehrheit, -en (f.)",
+          "explanation": "hier: mehr als die Hälfte der Sitze im Parlament",
+          "id": "7"
+        },
+        {
+          "german": "Koalition, -en (f.)",
+          "explanation": "mehrere politische Parteien: sie arbeiten zusammen in der Regierung",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Dnipro: Mindestens 14 Menschen sterben bei russischem Drohnenangriff",
+      "text": "Bei einem russischen Drohnenangriff auf den Bahnhof von Dnipro in der Ukraine hat es mindestens 14 Tote und 14 Verletzte gegeben. Der ukrainische Präsident Wolodymyr Selenskyj spricht von einem „schrecklichen Angriff“. Die Drohne hat einen Bahnsteig getroffen. Dort hat ein Personenzug gestanden.\n\n",
+      "vocab": [
+        {
+          "german": "Drohnenangriff, -e (m.)",
+          "explanation": "eine Attacke mit einem Flugobjekt: es kann selbstständig fliegen; man benutzt es im Krieg als Waffe",
+          "id": "9"
+        },
+        {
+          "german": "Präsident, -en/Präsidentin, -nen",
+          "explanation": "hier: der höchste Politiker/die höchste Politikerin in einem Land",
+          "id": "10"
+        },
+        {
+          "german": "schrecklich",
+          "explanation": "sehr schlimm",
+          "id": "11"
+        },
+        {
+          "german": "etwas treffen",
+          "explanation": "hier: etwas (z. B. einen Ort) mit Raketen erreichen und zerstören",
+          "id": "12"
+        },
+        {
+          "german": "Personenzug, -züge (m.)",
+          "explanation": "ein Zug: darin fahren Menschen",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Schauspieler Patrick Stewart ist tot",
+      "text": "Der britische Schauspieler Patrick Stewart ist mit 86 Jahren gestorben. Er war vor allem für seine Rollen als Captain Jean-Luc Picard in „Star Trek“ und als Professor Charles Xavier in den „X-Men“-Filmen bekannt. Stewart ist in seinem Haus in Los Angeles gestorben. Er hatte Demenz.\n\n",
+      "vocab": [
+        {
+          "german": "vor allem",
+          "explanation": "besonders",
+          "id": "14"
+        },
+        {
+          "german": "Rolle, -n (f.)",
+          "explanation": "hier: die Figur, die ein Schauspieler in einem Film spielt",
+          "id": "15"
+        },
+        {
+          "german": "Captain, -s (m., aus dem Englischen)",
+          "explanation": "eine Person: sie leitet z. B. ein Schiff oder ein Flugzeug und hat dort die Verantwortung",
+          "id": "16"
+        },
+        {
+          "german": "Professor, -en/Professorin, -nen",
+          "explanation": "eine Person: sie unterrichtet und forscht an einer Universität",
+          "id": "17"
+        },
+        {
+          "german": "Demenz, -en (f., meist im Singular)",
+          "explanation": "eine Krankheit: man vergisst viel und kann viele Dinge nicht mehr so gut verstehen oder machen",
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
