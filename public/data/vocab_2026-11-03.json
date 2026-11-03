@@ -1,0 +1,139 @@
+{
+  "articleDate": "2026-11-03",
+  "articleLink": "https://learngerman.dw.com/de/03112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79842399",
+  "articles": [
+    {
+      "title": "Cyberangriff auf europäische Supermärkte",
+      "text": "In verschiedenen europäischen Ländern hat es Probleme mit Kühlschränken in Supermärkten gegeben. Nach Cyberangriffen sind die Temperaturen in den Geräten stark gestiegen und Lebensmittel sind verdorben. Geschäfte in Schweden, Belgien, Luxemburg, Estland und Irland haben am Montag davon berichtet. Schon im Oktober hat es einen ähnlichen Angriff auf mehr als 500 Supermärkte in Frankreich gegeben. Der EU-Kommissar für Landwirtschaft und Ernährung, Christophe Hansen, sagt, dass die Angriffe ein Ziel haben: Sie sollen die Lebensmittelversorgung und das Vertrauen der Menschen in Europa stören.\n\n",
+      "vocab": [
+        {
+          "german": "Cyberangriff, -e (m.)",
+          "explanation": "eine Attacke über das Internet",
+          "id": "1"
+        },
+        {
+          "german": "Temperatur, -en (f.)",
+          "explanation": "wie warm oder kalt etwas ist",
+          "id": "2"
+        },
+        {
+          "german": "steigen",
+          "explanation": "höher werden",
+          "id": "3"
+        },
+        {
+          "german": "verderben",
+          "explanation": "schlecht werden",
+          "id": "4"
+        },
+        {
+          "german": "ähnlich",
+          "explanation": "fast gleich",
+          "id": "5"
+        },
+        {
+          "german": "EU-Kommissar, -e / EU-Kommissarin, -nen für Landwirtschaft und Ernährung",
+          "explanation": "ein hoher Politiker oder eine hohe Politikerin der Europäischen Union: er oder sie kümmert sich um das Thema Agrar und Lebensmittel",
+          "id": "6"
+        },
+        {
+          "german": "Versorgung (f., nur Singular)",
+          "explanation": "hier: die Situation, dass Menschen die Produkte bekommen, die sie brauchen",
+          "id": "7"
+        },
+        {
+          "german": "Vertrauen (n., nur Singular)",
+          "explanation": "ein gutes Gefühl: man glaubt, dass etwas gut funktioniert, und macht sich keine Sorgen",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Zwischenwahlen in den USA",
+      "text": "Kurz vor den Zwischenwahlen hat US-Präsident Donald Trump Kandidaten der Demokratischen Partei „gefährlich“ genannt. Das Ergebnis der Wahlen entscheidet, welche Partei in den letzten zwei Jahren von Trumps Zeit als Präsident den Kongress kontrolliert. Umfragen zeigen, dass die Demokraten wahrscheinlich die Wahl im Repräsentantenhaus gewinnen. Bei der Wahl zum Senat zeigen die Umfragen keinen klaren Gewinner.\n\n",
+      "vocab": [
+        {
+          "german": "Zwischenwahl, -en (f.)",
+          "explanation": "hier eine politische Veranstaltung in den USA: die Menschen wählen Politikerinnen und Politiker für das Parlament",
+          "id": "9"
+        },
+        {
+          "german": "Kandidat, -en/Kandidatin, -nen",
+          "explanation": "eine Person: sie möchte, dass andere sie in eine politische Position wählen",
+          "id": "10"
+        },
+        {
+          "german": "Demokratische Partei (f., nur Singular)",
+          "explanation": "hier: eine von zwei wichtigen politischen Parteien in den USA",
+          "id": "11"
+        },
+        {
+          "german": "entscheiden",
+          "explanation": "hier: sagen, was passieren wird",
+          "id": "12"
+        },
+        {
+          "german": "Kongress (m., hier nur Singular)",
+          "explanation": "hier: das US-amerikanische Parlament",
+          "id": "13"
+        },
+        {
+          "german": "Umfrage, -n (f.)",
+          "explanation": "eine Aktion: man fragt (viele) Personen nach ihrer Meinung",
+          "id": "14"
+        },
+        {
+          "german": "Repräsentantenhaus (n., nur Singular)",
+          "explanation": "einer von zwei Teilen des US-amerikanischen Parlaments",
+          "id": "15"
+        },
+        {
+          "german": "Senat (m., hier nur Singular)",
+          "explanation": "einer von zwei Teilen des US-amerikanischen Parlaments",
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "title": "Unwetter auf Rhodos",
+      "text": "Auf der griechischen Insel Rhodos hat es ein starkes Unwetter gegeben. Siebzehn Stunden lang hat es stark geregnet. Das Wasser hat Autos weggespült und Häuser überflutet. Für die nächsten Tage sind weitere Regenfälle und Gewitter in der Region vorhergesagt. In diesem Jahr hat es in verschiedenen Teilen Griechenlands ungewöhnlich starke Regenfälle gegeben.\n\n",
+      "vocab": [
+        {
+          "german": "Unwetter, - (n.)",
+          "explanation": "sehr schlechtes Wetter mit viel Regen und starkem Wind",
+          "id": "17"
+        },
+        {
+          "german": "etwas weg|spülen",
+          "explanation": "etwas durch eine große Wassermenge an einen anderen Ort bewegen",
+          "id": "18"
+        },
+        {
+          "german": "etwas überfluten",
+          "explanation": "etwas mit Wasser bedecken",
+          "id": "19"
+        },
+        {
+          "german": "Region, -en (f.)",
+          "explanation": "die Gegend; der Teil eines Landes",
+          "id": "20"
+        },
+        {
+          "german": "etwas vorhersagen",
+          "explanation": "man sagt vorher, dass etwas wahrscheinlich passiert",
+          "id": "21"
+        },
+        {
+          "german": "ungewöhnlich",
+          "explanation": "nicht normal",
+          "id": "22"
+        },
+        {
+          "german": "Regenfall, -fälle (m.)",
+          "explanation": "Regen, der in einer bestimmten Zeit fällt",
+          "id": "23"
+        }
+      ]
+    }
+  ]
+}
