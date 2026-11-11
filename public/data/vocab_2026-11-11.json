@@ -1,0 +1,129 @@
+{
+  "articleDate": "2026-11-11",
+  "articleLink": "https://learngerman.dw.com/de/11112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79919089",
+  "articles": [
+    {
+      "title": "US-Repräsentantenhaus stoppt Amtsenthebungsverfahren gegen Pete Hegseth",
+      "text": "Das US-Repräsentantenhaus hat das Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth gestoppt. Das Verfahren hat ein republikanischer Abgeordneter wegen Hegseths Vorgehen im Iran eingeleitet. Hegseth hat vorher gesagt: Das Verfahren ist eine „Farce“.\n\n",
+      "vocab": [
+        {
+          "german": "Repräsentantenhaus (n., nur Singular)",
+          "explanation": "einer von zwei Teilen des Parlaments in den USA",
+          "id": "1"
+        },
+        {
+          "german": "Amtsenthebungsverfahren, - (n.)",
+          "explanation": "eine Aktion gegen eine Politikerin oder einen Politiker: man nimmt der Person ihre Position, weil sie etwas falsch gemacht hat",
+          "id": "2"
+        },
+        {
+          "german": "Verteidigungsminister, -/Verteidigungsministerin, -nen",
+          "explanation": "ein Politiker/eine Politikerin in der Regierung: er/sie kümmert sich um den Schutz des Landes und das Militär",
+          "id": "3"
+        },
+        {
+          "german": "republikanisch",
+          "explanation": "hier: zur politischen Partei der Republikaner in den USA gehörend",
+          "id": "4"
+        },
+        {
+          "german": "Abgeordnete, -n (m./f.)",
+          "explanation": "eine Politikerin oder ein Politiker: sie/er hat einen Platz im Parlament",
+          "id": "5"
+        },
+        {
+          "german": "Vorgehen, - (n., nur Singular)",
+          "explanation": "die Handlung; die Aktion; die Art und Weise, wie man etwas macht",
+          "id": "6"
+        },
+        {
+          "german": "etwas ein|leiten",
+          "explanation": "hier: etwas beginnen; etwas auf den Weg bringen",
+          "id": "7"
+        },
+        {
+          "german": "Farce, -n (f.)",
+          "explanation": "hier: eine Handlung oder Situation: sie ist so schlecht und unwichtig, dass man darüber lachen muss",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Russland und die Ukraine planen Gefangenenaustausch",
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj hat gesagt: Es gibt positive Nachrichten von den Friedensgesprächen zwischen Russland und der Ukraine unter Führung der USA in Abu Dhabi. Selenskyj hat von Plänen für einen großen Gefangenenaustausch berichtet. Es sind die ersten trilateralen Gespräche seit neun Monaten, doch ein echter Durchbruch ist weiter unwahrscheinlich.\n\n",
+      "vocab": [
+        {
+          "german": "Friedensgespräch, -e (n.)",
+          "explanation": "hier: ein internationales Treffen: Politikerinnen und Politiker reden darüber, wie ein Krieg zu Ende gehen",
+          "id": "9"
+        },
+        {
+          "german": "unter Führung (von jemandem)",
+          "explanation": "so, dass jemand die Leitung über etwas hat und sagt, wie etwas passieren soll",
+          "id": "10"
+        },
+        {
+          "german": "Gefangenenaustausch, -e (m.)",
+          "explanation": "eine Situation: zwei Länder geben sich gegenseitig Gefangene zurück: die Personen (Gefangene) waren nicht mehr frei, weil die andere Armee sie im Krieg mitgenommen hat",
+          "id": "11"
+        },
+        {
+          "german": "trilateral",
+          "explanation": "zwischen drei Seiten (z. B. drei Staaten)",
+          "id": "12"
+        },
+        {
+          "german": "Durchbruch, -brüche (m.)",
+          "explanation": "hier: ein (großer) Erfolg; eine Lösung für ein Problem",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Israel vereidigt neues Parlament",
+      "text": "Israel hat nach der Wahl im Oktober ein neues Parlament vereidigt. Die Wahl hat niemand klar gewonnen, aber jetzt gibt es eine Mehrheit gegen den Ministerpräsidenten Benjamin Netanjahu. Oppositionsführer Gadi Eisenkot will versuchen, eine neue Regierung zu bilden. Dafür fehlen ihm aber noch Stimmen.\n\n",
+      "vocab": [
+        {
+          "german": "Parlament, -e (n.)",
+          "explanation": "eine Gruppe von Menschen (Politiker): sie entscheidet über Gesetze in einem Land",
+          "id": "14"
+        },
+        {
+          "german": "jemanden/etwas vereidigen",
+          "explanation": "hier: eine Aktion: jemand/etwas bekommt offiziell eine staatliche Aufgabe (z. B. ein Amt)",
+          "id": "15"
+        },
+        {
+          "german": "Wahl, -en (f.)",
+          "explanation": "eine Veranstaltung: die Menschen entscheiden, wer z. B. eine Aufgabe, ein (politisches) Amt, eine Position o. Ä. bekommen soll",
+          "id": "16"
+        },
+        {
+          "german": "Mehrheit, -en (f.)",
+          "explanation": "hier: mehr als die Hälfte der Politiker oder Politikerinnen in einem Parlament",
+          "id": "17"
+        },
+        {
+          "german": "Ministerpräsident, -en/Ministerpräsdentin, -nen",
+          "explanation": "der Regierungschef/die Regierungschefin",
+          "id": "18"
+        },
+        {
+          "german": "Oppositionsführer, -/Oppositionsführerin, -nen",
+          "explanation": "eine Person: sie leitet eine Gruppe von Politikerinnen/Politikern oder Parteien; sie sind nicht Teil der Regierung",
+          "id": "19"
+        },
+        {
+          "german": "eine Regierung bilden",
+          "explanation": "mehrere politische Gruppen zusammenbringen und so das  Land leiten",
+          "id": "20"
+        },
+        {
+          "german": "Stimme, -n (f.)",
+          "explanation": "hier: die Entscheidung einer einzelnen Person bei einer politischen Wahl für eine Partei oder eine Person",
+          "id": "21"
+        }
+      ]
+    }
+  ]
+}
