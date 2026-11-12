@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-11-12",
+  "articleLink": "https://learngerman.dw.com/de/12112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79929536",
+  "articles": [
+    {
+      "title": "Zusammenstöße zwischen Polizei und Demonstranten nach Generalstreik in Spanien",
+      "text": "Nach dem ersten Generalstreik in Spanien seit 14 Jahren ist es in Barcelona zu Zusammenstößen zwischen Polizei und Demonstranten gekommen. Die Gewerkschaften sagen: Am Generalstreik zum Thema Wohnungsmangel haben im ganzen Land vier Millionen Menschen teilgenommen. Der Streik hat den Verkehr gestört, und man hat Schulen geschlossen. In den letzten Monaten hat es schon mehrere Proteste wegen steigender Mieten und Wohnungsmangel gegeben.\n\n",
+      "vocab": [
+        {
+          "german": "Generalstreik, -s (m.)",
+          "explanation": "eine Situation: viele Menschen im ganzen Land arbeiten nicht, weil sie auf der Straße protestieren; sie wollen so gemeinsam bestimmte Ziele erreichen",
+          "id": "1"
+        },
+        {
+          "german": "Zusammenstoß, -stöße (m.)",
+          "explanation": "hier eine Situation: verschiedene Gruppen treffen aufeinander und nutzen Gewalt gegeneinander",
+          "id": "2"
+        },
+        {
+          "german": "Demonstrant, -en/Demonstrantin, -nen",
+          "explanation": "eine Person: sie ist gegen oder für etwas und geht dafür auf die Straße, sie nimmt an einer öffentlichen Veranstaltung teil",
+          "id": "3"
+        },
+        {
+          "german": "Gewerkschaft, -en (f.)",
+          "explanation": "eine Organisation: sie kämpft für die Rechte von arbeitenden Menschen, besonders für die ihrer Mitglieder",
+          "id": "4"
+        },
+        {
+          "german": "Wohnungsmangel (m., nur Singular)",
+          "explanation": "eine Situation: es gibt nicht genug passende Wohnungen für die Menschen in einem Land, die eine Wohnung suchen",
+          "id": "5"
+        },
+        {
+          "german": "Protest, -e (m.)",
+          "explanation": "eine Situation: Menschen gehen gemeinsam auf die Straße, weil sie unzufrieden mit etwas sind (Verb: gegen etwas protestieren)",
+          "id": "6"
+        },
+        {
+          "german": "steigend",
+          "explanation": "hier: so, dass etwas teurer wird",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Aktien des Technologieunternehmens Nvidia verlieren stark an Wert",
+      "text": "Die Aktien des Technologieunternehmens Nvidia haben stark an Wert verloren. US-Medien haben vorher berichtet: Der Firmenchef Jensen Huang muss vielleicht gehen, weil er eine Affäre mit einer möglichen chinesischen Spionin hatte. Außerdem soll er eine Affäre mit einer Mitarbeiterin gehabt haben. Am Mittwochabend hat sich deshalb der Verwaltungsrat der Firma getroffen.\n\n",
+      "vocab": [
+        {
+          "german": "Aktie, -n (f.)",
+          "explanation": "ein Anteil einer Firma: man kann ihn kaufen und damit Geld verdienen und verlieren",
+          "id": "8"
+        },
+        {
+          "german": "Technologieunternehmen, - (n.)",
+          "explanation": "eine Firma: sie verdient Geld mit technologischen Produkten, besonders mit digitalen Angeboten oder künstlicher Intelligenz",
+          "id": "9"
+        },
+        {
+          "german": "an Wert verlieren",
+          "explanation": "hier: billiger werden; nicht mehr so viel kosten",
+          "id": "10"
+        },
+        {
+          "german": "Medien (hier nur Plural)",
+          "explanation": "hier: Zeitungen, Fernsehen, Radio und Internet",
+          "id": "11"
+        },
+        {
+          "german": "Affäre, -n (f.)",
+          "explanation": "hier: eine meist heimliche (Liebes-)Beziehung zwischen meist zwei Personen: mindestens eine der Personen lebt in einer festen Beziehung (z. B. Ehe)",
+          "id": "12"
+        },
+        {
+          "german": "Spion, -e/Spionin, -nen",
+          "explanation": "eine Person: sie sammelt heimlich Informationen über jemanden/etwas und gibt diese an ihren Arbeitgeber weiter",
+          "id": "13"
+        },
+        {
+          "german": "Verwaltungsrat, -räte (m.)",
+          "explanation": "eine Gruppe von Personen, die wichtige Entscheidungen für ein Unternehmen trifft und die Arbeit der Unternehmensleitung kontrolliert",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "New York: Gebäude in Brooklyn eingestürzt",
+      "text": "In Brooklyn in New York ist ein Gebäude mit drei Stockwerken im Ortsteil Flatbush eingestürzt. Dabei sind mindestens zwei Menschen gestorben, mehrere sind verletzt. Feuerwehrleute haben Menschen aus den Trümmern geborgen. Der Zustand von vier Verletzten ist kritisch. Das Gebäude war direkt neben einer Baustelle.\n\n",
+      "vocab": [
+        {
+          "german": "Gebäude, - (n.)",
+          "explanation": "hier: ein Wohnhaus",
+          "id": "15"
+        },
+        {
+          "german": "ein|stürzen",
+          "explanation": "zusammenbrechen; kaputtgehen",
+          "id": "16"
+        },
+        {
+          "german": "Feuerwehrleute (nur Plural)",
+          "explanation": "Menschen: sie helfen bei Bränden, Unfällen und anderen Notfällen; sie sind bei einer Organisation, der Feuerwehr",
+          "id": "17"
+        },
+        {
+          "german": "Trümmer (hier nur Plural)",
+          "explanation": "Reste oder Teile von kaputten Gegenständen oder Gebäuden",
+          "id": "18"
+        },
+        {
+          "german": "jemanden aus etwas bergen",
+          "explanation": "eine verletzte oder tote Person aus einer gefährlichen Situation oder von einem gefährlichen Ort retten",
+          "id": "19"
+        },
+        {
+          "german": "der Zustand ist kritisch",
+          "explanation": "eine Person ist so schwer krank oder verletzt, dass sie bald sterben könnte; es ist nicht sicher, dass sie wieder gesund wird",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
