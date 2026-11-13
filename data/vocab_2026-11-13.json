@@ -1,0 +1,129 @@
+{
+  "articleDate": "2026-11-13",
+  "articleLink": "https://learngerman.dw.com/de/13112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79939484",
+  "articles": [
+    {
+      "title": "US-Gesandte treffen ukrainischen Präsidenten Wolodymyr Selenskyj",
+      "text": "Die US-Gesandten Steve Witkoff und Jared Kushner haben in Dublin den ukrainischen Präsidenten Wolodymyr Selenskyj getroffen und über die Friedensbemühungen mit Russland gesprochen. Kushner und Selenskyj haben gesagt: An der nächsten Verhandlungsrunde nehmen auch Vertreter aus Europa teil. Vorher haben Witkoff und Kushner in Moskau den russischen Präsidenten Wladimir Putin getroffen. Er ist nach Angaben der USA einverstanden mit der europäischen Beteiligung.\n\n",
+      "vocab": [
+        {
+          "german": "Gesandte, -n (m./f.)",
+          "explanation": "hier: eine Person: sie arbeitet für die Regierung, und man schickt sie für internationale Gespräche in andere Länder",
+          "id": "1"
+        },
+        {
+          "german": "Friedensbemühung, -en (f.)",
+          "explanation": "ein Versuch: man will einen Krieg beenden",
+          "id": "2"
+        },
+        {
+          "german": "Verhandlungsrunde, -n (f.)",
+          "explanation": "eins von mehreren (offiziellen) Gesprächen zwischen Personen oder Gruppen: sie versuchen, eine Lösung für ein Problem finden",
+          "id": "3"
+        },
+        {
+          "german": "Vertreter, -/Vertreterin, -nen",
+          "explanation": "eine Person: sie spricht oder handelt für eine andere Person, Gruppe oder für ein Land",
+          "id": "4"
+        },
+        {
+          "german": "nach Angaben von jemandem",
+          "explanation": "so, wie jemand sagt",
+          "id": "5"
+        },
+        {
+          "german": "Beteiligung, -en (f.)",
+          "explanation": "hier: die Teilnahme; die Tatsache, dass man bei etwas mitmacht",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Mercedes denkt über Werksschließungen in Deutschland nach",
+      "text": "Der deutsche Automobilhersteller Mercedes-Benz sagt: Er beendet alle Investitionen in Deutschland und denkt über Werksschließungen nach. Die Verkaufszahlen der Firma sind in den letzten Jahren gesunken. Deutsche Automobilhersteller haben große Probleme wegen der chinesischen Konkurrenz und hoher Produktionskosten.\n\n",
+      "vocab": [
+        {
+          "german": "Automobilhersteller, - (m.)",
+          "explanation": "eine Firma: sie stellt Autos her",
+          "id": "7"
+        },
+        {
+          "german": "Investition, -en (f.)",
+          "explanation": "eine Aktion: man gibt Geld für bestimmte Dinge aus und hofft, dass man später dadurch mehr Geld gewinnen oder verdienen kann",
+          "id": "8"
+        },
+        {
+          "german": "über etwas nach|denken",
+          "explanation": "überlegen, ob man etwas machen soll",
+          "id": "9"
+        },
+        {
+          "german": "Werksschließung, -en (f.)",
+          "explanation": "eine Aktion: man beendet die Arbeit in einem (größeren) Teil einer Firma: dort arbeiten oft viele Menschen und stellen etwas her",
+          "id": "10"
+        },
+        {
+          "german": "Verkaufszahl, -en (f.)",
+          "explanation": "eine Zahl: sie zeigt, wie viel man von etwas verkauft",
+          "id": "11"
+        },
+        {
+          "german": "sinken",
+          "explanation": "hier: weniger werden; kleiner werden",
+          "id": "12"
+        },
+        {
+          "german": "Konkurrenz, -en (f., meist Singular)",
+          "explanation": "eine Situation: jemand anderes macht etwas Ähnliches (stellt z. B. ähnliche Produkte her) und versucht besser darin zu sein",
+          "id": "13"
+        },
+        {
+          "german": "Produktionskosten (f., nur Plural)",
+          "explanation": "eine Zahl: sie zeigt, wie viel es kostet, ein Produkt herzustellen",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "Störung bei Microsoft",
+      "text": "Eine Störung bei der Firma Microsoft hat dazu geführt, dass Programme wie Outlook und Teams auf der ganzen Welt nicht richtig funktionieren. Viele Firmen und Behörden benutzen diese Programme. Microsoft erklärt: Die Ursache des Problems ist eine „erhöhte Auslastung“ seiner Infrastruktur. Die Lösung des Problems dauert länger als gedacht.\n\n",
+      "vocab": [
+        {
+          "german": "Störung, -en (f.)",
+          "explanation": "hier: eine Situation: etwas funktioniert nicht richtig, weil es technische Probleme gibt",
+          "id": "15"
+        },
+        {
+          "german": "zu etwas führen",
+          "explanation": "die Folge von etwas sein: etwas passiert, weil vorher etwas anderes passiert ist",
+          "id": "16"
+        },
+        {
+          "german": "Programm, -e (n.)",
+          "explanation": "hier: eine Computersoftware: man benutzt sie für bestimmte Aufgaben, z. B. zum Schreiben von Texten oder zum Rechnen",
+          "id": "17"
+        },
+        {
+          "german": "Behörde, -n (f.)",
+          "explanation": "die offizielle staatliche Institution; die staatliche Organisation",
+          "id": "18"
+        },
+        {
+          "german": "Ursache, -n (f.)",
+          "explanation": "der Grund: deshalb passiert etwas",
+          "id": "19"
+        },
+        {
+          "german": "erhöhte Auslastung, -en (f.)",
+          "explanation": "hier: eine Situation: viele Menschen benutzen etwas mehr als vorher",
+          "id": "20"
+        },
+        {
+          "german": "Infrastruktur, -en (f.)",
+          "explanation": "hier: die wichtigen Systeme und Dinge; ein Land, eine Firma oder eine Organisation braucht sie, damit alles funktioniert",
+          "id": "21"
+        }
+      ]
+    }
+  ]
+}
