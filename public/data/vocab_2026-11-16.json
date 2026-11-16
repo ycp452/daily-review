@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-11-16",
+  "articleLink": "https://learngerman.dw.com/de/16112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79960613",
+  "articles": [
+    {
+      "title": "Estland will alle Grenzübergänge zu Russland schließen",
+      "text": "Estland schließt ab dem 1. Dezember alle Grenzübergänge zu Russland. Die Regierung in Tallinn begründet das mit einem versuchten Brandanschlag auf ein estnisches Rüstungsunternehmen durch den russischen Geheimdienst. Russland kritisiert die geplante Schließung und spricht von „Russophobie“.\n\n",
+      "vocab": [
+        {
+          "german": "Grenzübergang, -übergänge (m.)",
+          "explanation": "ein Ort: hier kann man von einem Land in ein anderes Land gehen oder fahren, dabei gibt es oft eine Passkontrolle",
+          "id": "1"
+        },
+        {
+          "german": "Regierung, -en (f.)",
+          "explanation": "hohe Politikerinnen und Politiker: sie führen ein Land",
+          "id": "2"
+        },
+        {
+          "german": "versuchter Brandanschlag, versuchte Brandanschläge (m.)",
+          "explanation": "eine Attacke: jemand will Feuer legen und etwas zum Brennen bringen (in Brand stecken)",
+          "id": "3"
+        },
+        {
+          "german": "Rüstungsunternehmen, - (n.)",
+          "explanation": "eine Firma: sie stellt Waffen und andere Dinge (z. B. Fahrzeuge oder Drohnen) für den Krieg oder die Verteidigung her",
+          "id": "4"
+        },
+        {
+          "german": "Geheimdienst, -e (m.)",
+          "explanation": "eine Organisation: sie arbeitet für die Regierung eines Landes und sammelt viele Informationen (z. B. über andere Länder und ihr Militär)",
+          "id": "5"
+        },
+        {
+          "german": "Russophobie (f., nur Singular)",
+          "explanation": "hier: ein Wort, das die Regierung von Wladimir Putin benutzt: der Hass auf Russland",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "USA: Flugverkehr läuft nach technischem Problem langsam wieder normal",
+      "text": "Am Sonntag hat es in den USA noch viele Verspätungen und Ausfälle von Flügen gegeben. Grund war ein Problem im Flugkontrollsystem: Am Freitag durften deshalb mehrere Stunden lang fast keine Flugzeuge starten. Verkehrsminister Sean Duffy hat gesagt, dass der Flugverkehr wahrscheinlich erst diesen Montag wieder normal läuft. US-Präsident Donald Trump gibt der früheren Regierung von Joe Biden die Schuld für das Problem. Trump will das System nun mit zusätzlichem Geld verbessern.\n\n",
+      "vocab": [
+        {
+          "german": "Ausfall, Ausfälle (m.)",
+          "explanation": "hier eine Situation: es gibt etwas plötzlich nicht mehr; etwas ist plötzlich gestört",
+          "id": "7"
+        },
+        {
+          "german": "Flugkontrollsystem, -e (n.)",
+          "explanation": "ein technisches System: es kontrolliert den Flugverkehr",
+          "id": "8"
+        },
+        {
+          "german": "Verkehrsminister, -/Verkehrsministerin, -nen",
+          "explanation": "ein Politiker oder eine Politikerin in der Regierung: er/sie kümmert sich um Verkehrsthemen des Landes",
+          "id": "9"
+        },
+        {
+          "german": "laufen",
+          "explanation": "hier: funktionieren",
+          "id": "10"
+        },
+        {
+          "german": "jemandem die Schuld für etwas geben",
+          "explanation": "sagen, dass jemand der Grund dafür ist, dass etwas Schlechtes passiert ist",
+          "id": "11"
+        },
+        {
+          "german": "zusätzlich",
+          "explanation": "extra; mehr als geplant",
+          "id": "12"
+        },
+        {
+          "german": "etwas verbessern",
+          "explanation": "etwas besser machen",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Hunderte Migranten kommen mit Booten auf den Kanarischen Inseln an",
+      "text": "Über 1500 Migrantinnen und Migranten haben am Samstag die Kanarischen Inseln in Booten erreicht. Laut Behörden ist das ein neuer Rekord. Rettungskräfte haben die Menschen an Land gebracht. Viele Menschen nutzen die Migrationsroute von Westafrika über den Atlantik zu den Kanarischen Inseln. Sie ist eine der tödlichsten der Welt.\n\n",
+      "vocab": [
+        {
+          "german": "Migrant, -en/Migrantin, -nen",
+          "explanation": "eine Person: sie geht in ein anderes Land und möchte dort leben",
+          "id": "14"
+        },
+        {
+          "german": "laut Behörden",
+          "explanation": "wie z. B. die Regierung, die Polizei oder eine andere offizielle Institution sagt",
+          "id": "15"
+        },
+        {
+          "german": "Rekord, -e (m.)",
+          "explanation": "hier: die höchste Zahl; ein Wert, den es vorher noch nie gegeben hat",
+          "id": "16"
+        },
+        {
+          "german": "Rettungskraft, -kräfte (f.)",
+          "explanation": "eine Person: sie hilft Menschen in oder nach gefährlichen Situationen",
+          "id": "17"
+        },
+        {
+          "german": "etwas nutzen",
+          "explanation": "hier: etwas für ein bestimmtes Ziel benutzen",
+          "id": "18"
+        },
+        {
+          "german": "Migrationsroute, -n (f.)",
+          "explanation": "ein Weg meist von einem Land zu einem anderen: Menschen reisen auf diesem Weg, weil sie ein Land verlassen möchten",
+          "id": "19"
+        },
+        {
+          "german": "tödlich",
+          "explanation": "sehr gefährlich; so, dass Menschen sterben",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
