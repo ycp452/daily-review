@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-11-19",
+  "articleLink": "https://learngerman.dw.com/de/19112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-79992744",
+  "articles": [
+    {
+      "title": "Treffen der Staatschefs von China, Russland und den USA",
+      "text": "Die Staatschefs von China, Russland und den USA treffen sich aktuell in China. Das Treffen findet am Rande des Gipfels der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (APEC) in Shenzhen statt. Es ist das erste Mal überhaupt, dass die Staatschefs dieser Länder zu dritt zusammenkommen. Xi Jinping, Wladimir Putin und Donald Trump sprechen wahrscheinlich über Themen wie Sicherheit, Handel und große internationale Konflikte.\n\n",
+      "vocab": [
+        {
+          "german": "am Rande",
+          "explanation": "hier: zusätzlich zu etwas: eine große Veranstaltung findet statt und daneben gibt es noch kleinere Treffen",
+          "id": "1"
+        },
+        {
+          "german": "Gipfel, - (m.)",
+          "explanation": "hier: eine Veranstaltung: wichtige Personen meist aus der Politik treffen sich und sprechen über bestimmte Themen",
+          "id": "2"
+        },
+        {
+          "german": "Wirtschaftsgemeinschaft, -en (f.)",
+          "explanation": "eine Institution oder Gruppe: verschiedene Länder sind darin Mitglied und arbeiten wirtschaftlich zusammen",
+          "id": "3"
+        },
+        {
+          "german": "überhaupt",
+          "explanation": "hier: jemals; in der ganzen Geschichte",
+          "id": "4"
+        },
+        {
+          "german": "Sicherheit (f., nur Singular)",
+          "explanation": "hier: eine Situation: etwas ist ohne Gefahr für Menschen oder ein Land",
+          "id": "5"
+        },
+        {
+          "german": "Handel (m., nur Singular)",
+          "explanation": "der Kauf und Verkauf von Produkten",
+          "id": "6"
+        },
+        {
+          "german": "Konflikt, -e (m.)",
+          "explanation": "ein Streit oder ein Krieg",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Tote bei russischen Angriffen auf Odessa",
+      "text": "Bei russischen Angriffen auf die ukrainische Stadt Odessa sind mindestens vier Menschen gestorben. Laut Behörden haben Raketen Wohnhäuser, Cafés und Geschäfte beschädigt. Präsident Wolodymyr Selenskyj hat gesagt: Es hat sogar neue Angriffe gegeben, als bereits Rettungskräfte vor Ort gewesen sind.\n\n",
+      "vocab": [
+        {
+          "german": "Angriff, -e (m.)",
+          "explanation": "hier: eine militärische Aktion; die kriegerische Gewalt gegen jemanden/etwas",
+          "id": "8"
+        },
+        {
+          "german": "laut Behörden",
+          "explanation": "wie z. B. die Regierung, die Polizei oder eine andere offizielle Institution sagt",
+          "id": "9"
+        },
+        {
+          "german": "Rakete, -n (f.)",
+          "explanation": "hier: ein schnelles Fluggerät: man benutzt es als Waffe in einem Krieg; es fliegt mit großer Kraft sehr weit und kann viel kaputt machen",
+          "id": "10"
+        },
+        {
+          "german": "etwas beschädigen",
+          "explanation": "etwas teilweise kaputt machen",
+          "id": "11"
+        },
+        {
+          "german": "bereits",
+          "explanation": "schon",
+          "id": "12"
+        },
+        {
+          "german": "Rettungskraft, -kräfte (f.)",
+          "explanation": "eine Person: sie hilft Menschen in und nach gefährlichen Situationen",
+          "id": "13"
+        },
+        {
+          "german": "vor Ort",
+          "explanation": "am Ort; an dieser Stelle",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "title": "Europäische Kommission will der Ukraine neues Darlehen geben",
+      "text": "Die Europäische Kommission will der Ukraine ein neues Darlehen von 45 Milliarden Euro geben, weil das Land 2027 eine Finanzierungslücke hat und der Krieg mit Russland weitergeht. EU-Kommissionspräsidentin Ursula von der Leyen hat erklärt: Das Geld kann die Ukraine später durch russische Reparationen zurückzahlen.\n\n",
+      "vocab": [
+        {
+          "german": "Europäische Kommission (f., nur Singular)",
+          "explanation": "eine Gruppe von wichtigen Menschen der EU: sie macht neue Gesetze und trifft Entscheidungen",
+          "id": "15"
+        },
+        {
+          "german": "Darlehen, - (n.)",
+          "explanation": "der Kredit; das Geld: man bekommt es und muss es irgendwann später zurückzahlen",
+          "id": "16"
+        },
+        {
+          "german": "Finanzierungslücke, -n (f.)",
+          "explanation": "eine Situation: man hat zu wenig Geld, deshalb kann man manche Dinge nicht bezahlen",
+          "id": "17"
+        },
+        {
+          "german": "Krieg, -e (m.)",
+          "explanation": "ein Konflikt mit Waffen; Kämpfe, oft zwischen zwei Ländern",
+          "id": "18"
+        },
+        {
+          "german": "EU-Kommissionspräsident, -en/EU-Kommissionspräsidentin, -nen",
+          "explanation": "der Chef/die Chefin der Regierung der Europäischen Union; der höchste Politiker/die höchste Politikerin in der Europäischen Union",
+          "id": "19"
+        },
+        {
+          "german": "Reparation, -en (f.)",
+          "explanation": "hier: eine Entschädigung: ein Land muss einem anderen Land nach einem Krieg z. B. Geld zahlen; die Wiedergutmachung",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
