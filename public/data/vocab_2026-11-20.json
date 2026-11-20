@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-11-20",
+  "articleLink": "https://learngerman.dw.com/de/20112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-80002987",
+  "articles": [
+    {
+      "title": "Europäische Verbündete sprechen mit US-Gesandten über Unterstützung für die Ukraine",
+      "text": "In Berlin haben sich die wichtigsten europäischen Verbündeten der Ukraine mit den US-Gesandten Jared Kushner und Steve Witkoff getroffen. Sie haben gemeinsam über die Unterstützung für Kiew gesprochen. Der deutsche Bundeskanzler Friedrich Merz hat gesagt, dass Europa bei Friedensgesprächen dabei sein muss. Der ukrainische Präsident Wolodymyr Selenskyj hat erklärt: Es ist entscheidend, dass die USA Einfluss auf Russland ausüben.\n\n",
+      "vocab": [
+        {
+          "german": "Verbündete, -n (m./f.)",
+          "explanation": "hier Länder: sie stehen auf der Seite eines anderen Landes und helfen in einem Konflikt",
+          "id": "1"
+        },
+        {
+          "german": "Gesandte, -n (m./f.)",
+          "explanation": "eine Person: sie arbeitet für eine Regierung und man schickt sie für internationale Gespräche zu bestimmten Themen in andere Länder",
+          "id": "2"
+        },
+        {
+          "german": "Unterstützung (f., nur Singular)",
+          "explanation": "hier: die Hilfe",
+          "id": "3"
+        },
+        {
+          "german": "Friedensgespräch, -e (n.)",
+          "explanation": "ein Gespräch: man will einen Krieg beenden und spricht über mögliche Lösungen",
+          "id": "4"
+        },
+        {
+          "german": "entscheidend",
+          "explanation": "sehr wichtig",
+          "id": "5"
+        },
+        {
+          "german": "Einfluss auf jemanden/etwas aus|üben",
+          "explanation": "eine Wirkung auf jemanden/etwas haben; versuchen, dass jemand etwas Bestimmtes tut",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "title": "Internationaler Gerichtshof: Völkermord an den Rohingya",
+      "text": "Der Internationale Gerichtshof in Den Haag hat gesagt: Myanmar hat Völkermord an der muslimischen Minderheit der Rohingya begangen. 2017 sind Tausende Rohingya bei einer Militäraktion in Myanmar gestorben, Hunderttausende sind nach Bangladesch geflohen. Der Gerichtshof hat erklärt, dass Myanmar Ermittlungen einleiten muss.\n\n",
+      "vocab": [
+        {
+          "german": "Internationaler Gerichtshof (m., nur Singular)",
+          "explanation": "ein Gericht in den Niederlanden: dort gibt es Entscheidungen (Urteile) zu internationalen Verbrechen und Konflikten",
+          "id": "7"
+        },
+        {
+          "german": "Völkermord begehen (m., nur Singular)",
+          "explanation": "Gewalt gegen eine bestimmte Gruppe von Menschen benutzen, weil man sie zerstören will",
+          "id": "8"
+        },
+        {
+          "german": "muslimisch",
+          "explanation": "so, dass die Religion von einer Person der Islam ist",
+          "id": "9"
+        },
+        {
+          "german": "Minderheit, -en (f.)",
+          "explanation": "eine Gruppe von Menschen: sie ist kleiner als andere Gruppen (z. B. in einem Land)",
+          "id": "10"
+        },
+        {
+          "german": "Militäraktion, -en (f.)",
+          "explanation": "eine geplante Handlung von der Armee eines Landes; sie macht etwas für oder gegen jemanden",
+          "id": "11"
+        },
+        {
+          "german": "fliehen",
+          "explanation": "von einem Ort weglaufen oder weggehen, weil es gefährlich ist",
+          "id": "12"
+        },
+        {
+          "german": "Ermittlungen ein|leiten",
+          "explanation": "eine Untersuchung beginnen: man will wissen, ob jemand etwas Verbotenes getan hat",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Staatschefs der USA, Chinas und Russlands treffen sich in China",
+      "text": "Die Staatschefs von China, Russland und den USA haben sich am Rande eines Gipfeltreffens in China über eine Stunde lang getroffen. In Shenzhen haben sie erklärt, dass sie einen Dialog über Atomwaffen führen wollen. Außerdem haben sie gesagt, dass internationale Stabilität sehr wichtig ist, auch für die Energieversorgung.\n\n",
+      "vocab": [
+        {
+          "german": "Staatschef, -s/ Staatschefin, -nen",
+          "explanation": "die wichtigste politische Person in einem Land",
+          "id": "14"
+        },
+        {
+          "german": "am Rand(e)",
+          "explanation": "hier: neben oder zusätzlich von etwas (z. B. einer Veranstaltung)",
+          "id": "15"
+        },
+        {
+          "german": "Gipfeltreffen, - (n.)",
+          "explanation": "eine Veranstaltung: die Staats- und Regierungschefs verschiedener Länder treffen sich und sprechen über bestimmte Themen",
+          "id": "16"
+        },
+        {
+          "german": "einen Dialog (über etwas) führen",
+          "explanation": "(über etwas) miteinander sprechen",
+          "id": "17"
+        },
+        {
+          "german": "Atomwaffe, -n (f.)",
+          "explanation": "ein nukleares Instrument oder Gerät: es ist sehr gefährlich und kann sehr viele Menschen töten",
+          "id": "18"
+        },
+        {
+          "german": "Stabilität (f., nur Singular)",
+          "explanation": "hier: eine Situation ist politisch sicher und ändert sich nicht schnell",
+          "id": "19"
+        },
+        {
+          "german": "Energieversorgung (f., nur Singular)",
+          "explanation": "hier: die Tatsache, dass Menschen Strom und andere Energiequellen (z. B. Gas oder Öl) bekommen",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
