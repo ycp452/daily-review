@@ -1,0 +1,124 @@
+{
+  "articleDate": "2026-11-24",
+  "articleLink": "https://learngerman.dw.com/de/24112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-80033761",
+  "articles": [
+    {
+      "title": "Nvidia: Jensen Huang ist zurück",
+      "text": "Jensen Huang ist wieder Chef von Nvidia. Der Vorstand des US-amerikanischen Chipherstellers hat gesagt: Er ist für die Sicherheit der USA nicht gefährlich. Huang hatte eine Affäre mit einer Frau, die vielleicht eine chinesische Spionin war. US-Präsident Donald Trump ist zufrieden mit der Entscheidung. Er sagt, dass er „die Sache geregelt“ hat. Die Aktien von Nvidia sind um 30 Prozent gestiegen.\n\n",
+      "vocab": [
+        {
+          "german": "Vorstand, Vorstände (m.)",
+          "explanation": "eine Gruppe von Personen: sie leitet ein Unternehmen",
+          "id": "1"
+        },
+        {
+          "german": "Chiphersteller, - (m.)",
+          "explanation": "eine Firma: sie produziert wichtige Teile für Computer (Computer-Chips)",
+          "id": "2"
+        },
+        {
+          "german": "Affäre, -n (f.)",
+          "explanation": "hier: eine meist heimliche (Liebes-)Beziehung zwischen meist zwei Personen: mindestens eine der Personen lebt in einer festen Beziehung (z. B. Ehe)",
+          "id": "3"
+        },
+        {
+          "german": "Spion, -e/Spionin, -nen",
+          "explanation": "eine Person: sie sammelt heimlich Informationen über jemanden/etwas und gibt diese an andere (z. B. an andere Staaten) weiter",
+          "id": "4"
+        },
+        {
+          "german": "Entscheidung, -en (f.)",
+          "explanation": "der Entschluss; die Auswahl: man will eine von mehreren Möglichkeiten machen",
+          "id": "5"
+        },
+        {
+          "german": "etwas regeln",
+          "explanation": "hier: ein Problem lösen; sich um etwas kümmern",
+          "id": "6"
+        },
+        {
+          "german": "Aktie, -n (f.)",
+          "explanation": "ein Anteil einer Firma: man kann ihn kaufen und damit Geld verdienen und verlieren",
+          "id": "7"
+        },
+        {
+          "german": "steigen",
+          "explanation": "hier: mehr Wert sein; teurer werden",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "title": "Geheimdienste: Russland plant Atomwaffe im Weltall",
+      "text": "Deutsche Medien haben berichtet, dass Russland einen Satelliten mit einer Atomwaffe ins Weltall schicken will. Laut westlichen Geheimdiensten ist der Satellit „Sputnik-S“ schon seit Jahren fertig und könnte in wenigen Wochen startklar sein. Russland hat gesagt, dass die Berichte nicht stimmen.\n\n",
+      "vocab": [
+        {
+          "german": "Medium, Medien (n., meist Plural)",
+          "explanation": "hier: ein Mittel zur Kommunikation, z. B. Fernsehen, Zeitung oder Radio: es gibt Informationen weiter",
+          "id": "9"
+        },
+        {
+          "german": "Satellit, -en (m.)",
+          "explanation": "ein Objekt: man bringt es in den Weltraum und dort bewegt es sich auf einem festen Weg um die Erde",
+          "id": "10"
+        },
+        {
+          "german": "Atomwaffe, -n (f.)",
+          "explanation": "ein nukleares Instrument oder Gerät: es ist sehr gefährlich und kann sehr viele Menschen töten",
+          "id": "11"
+        },
+        {
+          "german": "etwas ins Weltall schicken",
+          "explanation": "etwas in den Weltraum (das Universum) bringen",
+          "id": "12"
+        },
+        {
+          "german": "laut",
+          "explanation": "hier: so, wie jemand gesagt hat",
+          "id": "13"
+        },
+        {
+          "german": "westlicher Geheimdienst, westliche Geheimdienste (m.)",
+          "explanation": "eine Organisation aus Europa oder Nordamerika: sie sammelt geheime Informationen (z. B. über andere Länder) für einen Staat/eine Regierung",
+          "id": "14"
+        },
+        {
+          "german": "startklar",
+          "explanation": "so, dass ein Fahrzeug oder Flugzeug seine Fahrt oder seinen Flug beginnen kann",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "title": "Geflüchtete vor Kanaren gerettet",
+      "text": "Vor den Kanarischen Inseln, die zu Spanien gehören, hat man über 800 Geflüchtete aus Westafrika gerettet. Die Menschen waren in acht kleinen Schiffen unterwegs und haben dann die Küsten von El Hierro und Teneriffa erreicht. Die spanische Regierung hat gesagt: In der ersten Novemberhälfte sind schon über 11.000 Menschen auf die Inseln gekommen.\n\n",
+      "vocab": [
+        {
+          "german": "zu etwas gehören",
+          "explanation": "ein Teil von etwas (z. B. von einem Land) sein",
+          "id": "16"
+        },
+        {
+          "german": "Geflüchtete, -n (m./f.)",
+          "explanation": "eine Person: sie hat ihr Land verlassen, weil es dort nicht sicher ist oder sie dort nicht leben kann",
+          "id": "17"
+        },
+        {
+          "german": "jemanden retten",
+          "explanation": "eine Person aus einer Gefahrensituation herausholen und an einen sicheren Ort bringen",
+          "id": "18"
+        },
+        {
+          "german": "Küste, -n (f.)",
+          "explanation": "das Land direkt am Meer",
+          "id": "19"
+        },
+        {
+          "german": "in der ersten Novemberhälfte",
+          "explanation": "in der Zeit vom 1. bis zum 15. November",
+          "id": "20"
+        }
+      ]
+    }
+  ]
+}
