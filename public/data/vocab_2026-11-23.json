@@ -1,0 +1,119 @@
+{
+  "articleDate": "2026-11-23",
+  "articleLink": "https://learngerman.dw.com/de/23112026-kurz-und-leicht-video-nachrichten-zum-deutschlernen/a-80019023",
+  "articles": [
+    {
+      "title": "Keine Einigung bei COP31",
+      "text": "Der UN-Klimagipfel COP31 in Antalya ist beendet. Die fast 200 Länder haben sich nicht auf einen Beschluss geeinigt. Einige Länder aus Europa, Zentralamerika und Ozeanien waren gegen den Vorschlag für einen gemeinsamen Text. Denn in dem Text steht nicht, dass fossile Brennstoffe negative Folgen für das Klima haben. UN-Generalsekretär António Guterres spricht von einem Rückschlag für den Klimaschutz.\n\n",
+      "vocab": [
+        {
+          "german": "UN-Klimagipfel, - (m.)",
+          "explanation": "eine große Veranstaltung mit vielen Ländern der Welt: dort diskutiert man über die Veränderungen der Temperaturen auf der Erde und den Schutz des Klimas",
+          "id": "1"
+        },
+        {
+          "german": "sich auf etwas einigen",
+          "explanation": "so lange diskutieren, bis alle mit einem Vorschlag einverstanden sind",
+          "id": "2"
+        },
+        {
+          "german": "Beschluss, Beschlüsse (m.)",
+          "explanation": "hier: ein gemeinsamer Text: in ihm steht, was man tun will",
+          "id": "3"
+        },
+        {
+          "german": "fossile Brennstoffe (m., meist Plural)",
+          "explanation": "Stoffe: man verbrennt sie und bekommt Energie, z. B. Kohle, Erdöl und Erdgas; es entsteht dabei CO2",
+          "id": "4"
+        },
+        {
+          "german": "Folge, -n (f.)",
+          "explanation": "hier: die Konsequenz; das Resultat; etwas, was passiert, weil etwas anderes passiert ist",
+          "id": "5"
+        },
+        {
+          "german": "Generalsekretär, -e/Generalsekretärin, -nen",
+          "explanation": "die wichtigste Person in einer internationalen Organisation",
+          "id": "6"
+        },
+        {
+          "german": "Rückschlag, Rückschläge (m.)",
+          "explanation": "hier: eine Situation: etwas hat nicht funktioniert wie gedacht und deswegen konnte man ein Problem nicht lösen",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "title": "Libyen: russisches Kriegsschiff gesunken",
+      "text": "Im libyschen Bengasi ist ein russisches Kriegsschiff gesunken. Der ukrainische Präsident Wolodymyr Selenskyj hat gesagt, dass ukrainische Meeresdrohnen das Schiff angegriffen haben. Außerdem haben Drohnen ein russisches Frachtschiff getroffen, so Selenskyj. Bei einem russischen Angriff auf ein Wohnhaus in der Nähe der ukrainischen Hauptstadt Kyjiw sind mindestens elf Menschen gestorben.\n\n",
+      "vocab": [
+        {
+          "german": "Kriegsschiff, -e (m.)",
+          "explanation": "ein Schiff: es gehört zum Militär eines Landes; es hat Waffen und man kann damit angreifen",
+          "id": "8"
+        },
+        {
+          "german": "sinken",
+          "explanation": "hier: im Wasser untergehen; vollständig unter Wasser sein",
+          "id": "9"
+        },
+        {
+          "german": "Meeresdrohne, -n (f.)",
+          "explanation": "ein kleines Gerät unter oder auf dem Wasser: es kann sich selbstständig bewegen und man kann es als Waffe benutzen",
+          "id": "10"
+        },
+        {
+          "german": "etwas an|greifen",
+          "explanation": "hier: etwas mit Gewalt und Waffen kaputt machen (Substantiv: der Angriff)",
+          "id": "11"
+        },
+        {
+          "german": "Frachtschiff, -e (n.)",
+          "explanation": "ein Schiff: man bringt damit Produkte von einem Ort zum anderen",
+          "id": "12"
+        },
+        {
+          "german": "etwas treffen",
+          "explanation": "hier: etwas mit einer Waffe erreichen, beschädigen oder kaputt machen",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "title": "Tote bei Feuer in Indonesien",
+      "text": "Bei einem Feuer in einer Süßwarenfabrik in der Nähe der indonesischen Hauptstadt Jakarta sind mindestens drei Menschen gestorben, aber wahrscheinlich mehr. Mit DNA-Proben will man die Toten identifizieren. Rettungskräfte suchen in dem zerstörten Gebäude noch nach über 30 Menschen. Die Ursache des Feuers ist bis jetzt unklar.\n\n",
+      "vocab": [
+        {
+          "german": "Süßwarenfabrik, -en (f.)",
+          "explanation": "ein großes Gebäude: dort produziert man Süßigkeiten, z. B. Schokolade",
+          "id": "14"
+        },
+        {
+          "german": "DNA-Probe, -n (f.)",
+          "explanation": "eine Untersuchung des menschlichen Erbguts (der DNA): damit kann man genau sagen, zu wem (kleine) Teile eines Körpers gehören",
+          "id": "15"
+        },
+        {
+          "german": "jemanden identifizieren",
+          "explanation": "jemanden erkennen und sagen, wer die Person ist",
+          "id": "16"
+        },
+        {
+          "german": "Rettungskraft, -kräfte (f.)",
+          "explanation": "eine Person: sie hilft Menschen in oder nach gefährlichen Situationen",
+          "id": "17"
+        },
+        {
+          "german": "zerstört",
+          "explanation": "kaputt",
+          "id": "18"
+        },
+        {
+          "german": "Ursache, -n (f.)",
+          "explanation": "der Grund, warum etwas passiert ist",
+          "id": "19"
+        }
+      ]
+    }
+  ]
+}
